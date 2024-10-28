@@ -1,0 +1,9 @@
+You are given a paragraph of creative writing. You must score it on a scale from 1 to 10, where 1 is the lowest quality and 10 is the highest quality.
+
+Paragraph:
+[[PARAGRAPH]]
+
+You must produce your answer in the following JSON format:
+{"score": 1}
+
+where `score` is an integer between 1 and 10.
