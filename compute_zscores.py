@@ -1,7 +1,9 @@
 import json
 import numpy as np
 
-with open("data/LAMP-extended.json", "r") as f:
+data_fn = "data/LAMP-extended.json"
+
+with open(data_fn, "r") as f:
     data = json.load(f)
 
 for d in data:
@@ -59,5 +61,5 @@ for editor in editors:
 num_changed = len([d for d in data if d['creativity_z_score_post_int'] != d['creativity_post_score'] or d['creativity_z_score_pre_int'] != d['creativity_pre_score']])
 print(f"Number of samples where either pre or post scores have changed: {num_changed} / {len(data)}")
 
-with open("LAMP-extended.json", "w") as f:
+with open(data_fn, "w") as f:
     json.dump(data, f, indent=4)
