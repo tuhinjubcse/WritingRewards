@@ -23,11 +23,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -40,7 +40,7 @@
         "instruction": "Can you talk about the scene and actions involving the photographer and the Oktoberfesters with details about their attire and activities?",
         "Human-edited": "The photographer adjusted his lens, squinting through the viewfinder at the sprawling scene. The revelers—men in lederhosen, their suspenders snug over checkered shirts, and rosy-cheeked women in dirndls, lace peeking out around their shoulders—spilled over. Their worn-out shoes, softened by years, were light over grass the color of golden lager. Children darted through the throng, clutching gingerbread hearts. The photographer hesitated, watching a young couple half-obscured and leaning on a post by the pretzel tent—her fingers gently grazing ivy embroidered up his sleeve—the stillness in their faces crisp through the viewfinder. The woman tilted her chin up, asking. The photographer snapped his shutter.",
         "AI-generated": "The photographer adjusted his lens, squinting through the viewfinder at the sprawling scene of merriment that was Oktoberfest. Around him, a kaleidoscope of colors and laughter rippled through the air. The revelers, adorned in traditional Bavarian attire, moved like a well-rehearsed troupe in a play they'd each performed countless times. Men in lederhosen, their suspenders snug over checkered shirts, clinked oversized beer mugs with rosy-cheeked women in dirndls, the delicate lace of their blouses peeking out from under bodices laced tight. Between gulps of golden lager, the Oktoberfesters danced to the rhythm of an oompah band; their feet moved in sync with the tufts of grass beneath their worn-out shoes, softened by years of celebration. Children darted through the throng, their laughter mingling with the adults’ exuberant cheers, clutching gingerbread hearts inscribed with sugary phrases. The photographer hesitated, observing a young couple at the edges—her fingers gently grazing the embroidery on his shirt, his eyes reflecting the lantern-lit sky. He captured the moment, hoping his photo would convey the undercurrent of connection that lay beneath the festival’s jubilant surface. With that snap of the shutter, he realized these fleeting glimpses of genuine joy were what he craved more than any carefully staged shot.",
-        "AI-edited": "The photographer adjusted his lens, squinting through the viewfinder at the sprawling scene of merriment that was Oktoberfest, surrounded by colors and laughter rippling through the air. The revelers, wearing traditional Bavarian attire, seemed to have perfected the art of festivity. Men in lederhosen, their suspenders snug over checkered shirts, clinked their oversized beer mugs against those of rosy-cheeked women in dirndls, whose tightly laced bodices revealed delicate lace blouses underneath. Amid the laughter and music, the festival-goers moved to the rhythm of the oompah band, their feet in sync with the tufts of grass under worn-out shoes, softened by years of exuberant celebration. Children darted through the throng, clutching gingerbread hearts decorated with icing words. \n\nThe photographer hesitated, spotting a young couple by the tent entrance—her fingers gently tracing the pattern on his shirt, his eyes reflecting the lantern-lit sky—and took the shot. His aim was to capture the undercurrent of connection beneath the festival's jubilance. In that moment, he realized it was these glimpses of genuine joy he craved more than any posed photograph.",
+        "AI-edited": "The photographer adjusted his lens, squinting through the viewfinder at the sprawling scene of merriment that was Oktoberfest, surrounded by colors and laughter rippling through the air. The revelers, wearing traditional Bavarian attire, seemed to have perfected the art of festivity. Men in lederhosen, their suspenders snug over checkered shirts, clinked their oversized beer mugs against those of rosy-cheeked women in dirndls, whose tightly laced bodices revealed delicate lace blouses underneath. Amid the laughter and music, the festival-goers moved to the rhythm of the oompah band, their feet in sync with the tufts of grass under worn-out shoes, softened by years of exuberant celebration. Children darted through the throng, clutching gingerbread hearts decorated with icing words. The photographer hesitated, spotting a young couple by the tent entrance—her fingers gently tracing the pattern on his shirt, his eyes reflecting the lantern-lit sky—and took the shot. His aim was to capture the undercurrent of connection beneath the festival's jubilance. In that moment, he realized it was these glimpses of genuine joy he craved more than any posed photograph.",
         "annotations": [
             [
                 "Human-edited",
@@ -60,11 +60,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -97,11 +97,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -134,11 +134,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -171,11 +171,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -208,11 +208,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -245,11 +245,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -282,11 +282,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -319,11 +319,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -356,11 +356,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -393,11 +393,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -430,11 +430,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -467,11 +467,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -484,7 +484,7 @@
         "instruction": "Can you describe the emotional and physical experiences of the person after his divorce, including how he coped and eventually started reconnecting with life, as illustrated by his detailed process of buying shoes?",
         "Human-edited": "After the divorce, Tom felt his insides had been scraped clean. He barely tasted his food or noticed the dandelions cropping up all down his block. The dark circles under his eyes deepened by the week, but it was the shoe store that broke him. Six months later, when his worn-out shoes began to leak, he was overwhelmed by the wall of neon running sneakers and gleaming cleats, racks of advanced gel insoles for maximum arch support. Tom froze. Choices had never bothered him before. Lacing a pair of soft, brown oxfords, Tom saw his eyes for the first time in months. Walking out with his new shoes, he felt a small sense of accomplishment, a tiny step forward. That night, he cooked for himself, and as he savored the salmon seared in butter and the rosemary that had grown wiry and wild in his back garden these last months, he realized that perhaps he was ready.",
         "AI-generated": "After the divorce, Tom felt as if he'd been hollowed out, his insides scraped clean and left to echo. He moved through his days on autopilot, barely tasting his food or noticing the changing seasons. Sleep eluded him, leaving dark circles under his eyes that seemed to deepen by the week. It wasn't until six months later, when his worn-out shoes began to leak, that Tom realized he needed to take action. Standing in the shoe store, he found himself overwhelmed by the choices, something that had never bothered him before. He spent an hour trying on different pairs, carefully considering the feel of each one, the way they supported his arches, the subtle differences in color. As he laced up a comfortable pair of brown leather oxfords, Tom noticed his reflection in the mirror and saw a spark of interest in his own eyes for the first time in months. Walking out of the store with his new shoes, he felt a small sense of accomplishment, a tiny step forward. That night, he cooked a proper meal for himself and, as he savored the flavors, he realized that perhaps he was ready to start rebuilding his life, one careful choice at a time.",
-        "AI-edited": "After the divorce, Tom felt empty inside. He went through the motions, barely tasting his food or noticing the changing seasons. The crisp autumn air turned bitter and cold, snow fell and melted, and spring flowers bloomed, all while Tom remained in a fog of grief. He couldn't sleep; his eyes were sunken and tired. It wasn't until six months later, when his worn-out shoes began to leak, that Tom realized he needed to take action. He'd been wearing the same pair of shoes for years, a gift from his ex-wife, and now they were falling apart. It was time for a change.\n\nThe shoe store overwhelmed him with choices, and he had never been bothered by this before. He spent an hour trying on different pairs, carefully considering the feel of each one, the way they supported his arches, and the subtle differences in color. As he laced up a comfortable pair of brown leather oxfords, Tom caught his reflection in the mirror. For the first time in months, he noticed his own eyes. His new shoes felt like a small step forward. That night, he cooked a proper meal for himself and, as he savored the flavors, he felt a glimmer of hope for the future.",
+        "AI-edited": "After the divorce, Tom felt empty inside. He went through the motions, barely tasting his food or noticing the changing seasons. The crisp autumn air turned bitter and cold, snow fell and melted, and spring flowers bloomed, all while Tom remained in a fog of grief. He couldn't sleep; his eyes were sunken and tired. It wasn't until six months later, when his worn-out shoes began to leak, that Tom realized he needed to take action. He'd been wearing the same pair of shoes for years, a gift from his ex-wife, and now they were falling apart. It was time for a change.The shoe store overwhelmed him with choices, and he had never been bothered by this before. He spent an hour trying on different pairs, carefully considering the feel of each one, the way they supported his arches, and the subtle differences in color. As he laced up a comfortable pair of brown leather oxfords, Tom caught his reflection in the mirror. For the first time in months, he noticed his own eyes. His new shoes felt like a small step forward. That night, he cooked a proper meal for himself and, as he savored the flavors, he felt a glimmer of hope for the future.",
         "annotations": [
             [
                 "Human-edited",
@@ -504,11 +504,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -541,11 +541,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -578,11 +578,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -615,11 +615,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -652,11 +652,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -689,11 +689,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -726,11 +726,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -763,11 +763,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -800,11 +800,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -837,11 +837,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -874,11 +874,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -911,11 +911,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -948,11 +948,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -985,11 +985,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1022,11 +1022,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1059,11 +1059,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1074,7 +1074,7 @@
     },
     {
         "instruction": "Write a descriptive paragraph that includes elements of arrest, emotional turmoil, cultural identity, and sensory details.",
-        "Human-edited": "The bite of frigid metal handcuffs against Amira's wrists made it real to her that she was being arrested. The police officer fit her into the back of the patrol car, closing the door with a decisive thud. She managed to catch a glimpse of her reflection a moment before—dark circles under her eyes, hijab slightly askew. The scent of her mother's cooking still clung to her clothes, a cruel reminder of the family dinner she'd never make it to. \n\nAs the car pulled away, Amira watched her neighborhood recede, the familiar storefronts and street corners blurring together as tears welled in her eyes. The low hum of the engine couldn't drown out the voice in her that questioned every decision that had led to this moment. She thought of her parents, imagining their faces when they heard the news—disappointment etched into the lines around their eyes, shame weighing down their shoulders. \n\nThe officer's radio crackled, the static cutting through Amira's spiraling thoughts. She blinked back the rest of her tears and tried to focus on the vibration of the road beneath her. In that moment, something as heavy and unyielding as a stone settled in Amira's chest. She had never been more alone.",
+        "Human-edited": "The bite of frigid metal handcuffs against Amira's wrists made it real to her that she was being arrested. The police officer fit her into the back of the patrol car, closing the door with a decisive thud. She managed to catch a glimpse of her reflection a moment before—dark circles under her eyes, hijab slightly askew. The scent of her mother's cooking still clung to her clothes, a cruel reminder of the family dinner she'd never make it to. As the car pulled away, Amira watched her neighborhood recede, the familiar storefronts and street corners blurring together as tears welled in her eyes. The low hum of the engine couldn't drown out the voice in her that questioned every decision that had led to this moment. She thought of her parents, imagining their faces when they heard the news—disappointment etched into the lines around their eyes, shame weighing down their shoulders. The officer's radio crackled, the static cutting through Amira's spiraling thoughts. She blinked back the rest of her tears and tried to focus on the vibration of the road beneath her. In that moment, something as heavy and unyielding as a stone settled in Amira's chest. She had never been more alone.",
         "AI-generated": "The cold metal of the handcuffs bit into Amira's wrists as the officer led her to the patrol car. She caught a glimpse of her reflection in the window—dark circles under her eyes, hijab slightly askew. The scent of her mother's cooking still clung to her clothes, a cruel reminder of the family dinner she'd never make it to. As the car pulled away, Amira watched her neighborhood recede, the familiar storefronts and street corners blurring together. The low hum of the engine couldn't drown out the voice in her head, questioning every decision that had led to this moment. She thought of her parents, imagining their faces when they'd hear the news—disappointment etched into the lines around their eyes, shame weighing down their shoulders. The officer's radio crackled, the static cutting through Amira's spiraling thoughts. She closed her eyes, feeling the vibration of the road beneath her. In that moment, caught between two worlds, Amira felt more alone than ever—a feeling that settled in her chest like a stone, heavy and unyielding.",
         "AI-edited": "The handcuffs dug into Amira's wrists as the officer led her to the patrol car. She caught a glimpse of her reflection in the window—dark circles under her eyes, hijab slightly askew. The scent of her mother's cooking still clung to her clothes, a reminder of the missed family dinner. As the car pulled away, Amira watched her neighborhood disappear. Her mind raced, questioning every decision that had led to this moment. The engine's hum couldn't drown out her thoughts. She thought of her parents, imagining their faces when they'd hear the news—their faces would fall, shoulders slumping. The crackling radio interrupted Amira's spiraling thoughts. She closed her eyes, feeling the vibration of the road beneath her. In that moment, Amira felt utterly alone.",
         "annotations": [
@@ -1096,11 +1096,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1133,11 +1133,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -1170,11 +1170,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1207,11 +1207,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -1224,7 +1224,7 @@
         "instruction": "What did Buck claim he once did in Key West related to Hemingway, and how did he describe Hemingway when asked about him?",
         "Human-edited": "Buck leaned back in his creaky chair, the dim light of the bar casting soft shadows on his weathered face. He took a sip of whiskey and began his tale. \"I once fished with Hemingway off Key West,\" he said, eyes narrowing. \"He wasn't the man you read about. Nah, he was quieter, almost contemplative, but you'd catch glimpses of that fire when he talked about the sea.\" Buck paused, a wistful look crossing his face as he swirled the whiskey in his glass. \"He respected it. It meant more to him than all the brawls and bravado. It wasn't about conquering it; it was about feeling alive. That's the Hemingway I knew, the one the stories don't capture.\" Buck's voice trailed off, and he took another sip, leaving the quiet hum of the bar to fill the space.",
         "AI-generated": "Buck leaned back in his creaky chair, the dim light of the bar casting soft shadows on his weathered face. He took a sip of whiskey, the amber liquid glinting in the light, and began his tale. \"I once fished with Hemingway off Key West,\" he said, eyes narrowing as if peering into the past. \"He wasn't the man you read about. Nah, he was quieter, almost contemplative, but you'd catch glimpses of that fire when he talked about the sea. We didn't talk much—didn't need to. We just understood each other out there. He'd smile, that crooked grin of his, when he reeled in a big one, and for a moment, you'd see the legend. But mostly, he was just a man who loved the ocean.\" Buck paused, a wistful look crossing his face as he swirled the whiskey in his glass. \"People think he was all brawls and bravado, but that wasn't all. He had a sort of solemn respect for the sea, for nature. It wasn't about conquering it; it was about feeling alive. That's the Hemingway I knew, the one the stories don't capture.\" Buck's voice trailed off, and he took another sip, leaving the quiet hum of the bar to fill the space between his memories and the present.",
-        "AI-edited": "Buck leaned back in his creaky chair, the worn wood protesting under his weight. He took a sip of whiskey, the amber liquid swirling in his glass, and began his tale. \"I once fished with Hemingway off Key West,\" he recalled. \"He wasn't the man you read about. Nah, he was quieter, almost contemplative, but you'd catch glimpses of that fire when he talked about the sea. We didn't talk much—didn't need to. We just understood each other out there. He'd smile, his signature crooked grin, when he reeled in a big one, and for a moment, you'd see the legend. But mostly, he was just a man who loved the ocean.\"\n\nBuck paused, his face distant as he swirled the whiskey in his glass. \"People think he was all brawls and bravado, but that wasn't all. He had a deep respect for the ocean. It was about being one with it. That's the Hemingway I knew.\" Buck's voice trailed off, and he took another sip, leaving the quiet hum of the bar to fill the space between his memories and the present.",
+        "AI-edited": "Buck leaned back in his creaky chair, the worn wood protesting under his weight. He took a sip of whiskey, the amber liquid swirling in his glass, and began his tale. \"I once fished with Hemingway off Key West,\" he recalled. \"He wasn't the man you read about. Nah, he was quieter, almost contemplative, but you'd catch glimpses of that fire when he talked about the sea. We didn't talk much—didn't need to. We just understood each other out there. He'd smile, his signature crooked grin, when he reeled in a big one, and for a moment, you'd see the legend. But mostly, he was just a man who loved the ocean.\"Buck paused, his face distant as he swirled the whiskey in his glass. \"People think he was all brawls and bravado, but that wasn't all. He had a deep respect for the ocean. It was about being one with it. That's the Hemingway I knew.\" Buck's voice trailed off, and he took another sip, leaving the quiet hum of the bar to fill the space between his memories and the present.",
         "annotations": [
             [
                 "Human-edited",
@@ -1244,11 +1244,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -1281,11 +1281,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1318,11 +1318,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1355,11 +1355,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1372,7 +1372,7 @@
         "instruction": "Could you describe Charity's experience and activities while staying in her grandmother’s basement, touching on her interactions with her friends and any challenges she faces?",
         "Human-edited": "Charity was no stranger to unexpected detours; she had her entire life to attest to that. However, losing her apartment and landing herself in her grandmother's claustrophobia-inducing basement for the summer was a new low. The low ceiling and musty air, once a comforting memory from childhood visits, now struck the young adult version of her as unbearable. In an effort to distract herself from her new reality, Charity began to spend her days alternating between job hunting online and helping her grandmother with household chores. Eventually, an odd sense of purpose emerged from this routine. Her friends, initially supportive of her new living situation, began to drift away as weeks became months. The infrequent times that Charity did see her friends, their conversations started to revolve around their advancing lives, while she remained stuck in limbo. As time passed, Charity grappled with feelings of inadequacy and fear of the future but also discovered a resilience she didn't know she possessed. The challenge of living in such close quarters with her grandmother taught her patience and empathy, skills she hadn't realized she needed to develop. Despite the difficulties, Charity began to see this period as a chrysalis, sensing that when she finally emerged, she would be changed in ways she couldn't yet understand.",
         "AI-generated": "Charity's stay in her grandmother's basement was an unexpected detour in her life, filled with a mix of comfort and claustrophobia. The low ceiling and musty air reminded her of childhood visits, but now felt confining as she navigated early adulthood. She spent her days alternating between job hunting online and helping her grandmother with household chores, finding an odd sense of purpose in the routine. Her friends, initially supportive, began to drift away as weeks turned to months. Their occasional visits became stilted, conversations revolving around their advancing lives while Charity felt stuck in limbo. She found solace in late-night talks with her grandmother, learning family history she'd never known before. The basement's small window became her portal to the outside world, and she often caught herself daydreaming while watching neighbors go about their lives. As time passed, Charity grappled with feelings of inadequacy and fear of the future, but also discovered a resilience she didn't know she possessed. The challenge of living in such close quarters with her grandmother taught her patience and empathy, skills she hadn't realized she needed to develop. Despite the difficulties, Charity began to see this period as a chrysalis, sensing that when she finally emerged, she would be changed in ways she couldn't yet understand.",
-        "AI-edited": "Charity's stay in her grandmother's basement was supposed to be temporary—a month, tops. But as the weeks stretched into months, she found herself caught between the comforting familiarity of childhood visits and the suffocating reality of her current situation. The low ceiling and musty air, once nostalgic, now felt confining as she grappled with early adulthood. Her days were split between online job hunting and helping her grandmother around the house. The routine, oddly enough, gave her a sense of purpose. As weeks turned into months, her initially supportive friends began to drift away. Their occasional visits became stilted, filled with awkward silences and forced small talk. They talked about their advancing lives, while Charity felt stuck in limbo. \n\nLate-night talks with her grandmother revealed unknown family history. She often found herself watching neighbors through the basement's small window. As time passed, Charity grappled with feelings of inadequacy and fear of the future, but also discovered a resilience she didn't know she possessed. The challenge of living in such close quarters with her grandmother taught her patience and empathy, skills she hadn't realized she needed to develop. Despite the difficulties, Charity began to see this period as a chrysalis, sensing that when she finally emerged, she would be changed in ways she couldn't yet understand.",
+        "AI-edited": "Charity's stay in her grandmother's basement was supposed to be temporary—a month, tops. But as the weeks stretched into months, she found herself caught between the comforting familiarity of childhood visits and the suffocating reality of her current situation. The low ceiling and musty air, once nostalgic, now felt confining as she grappled with early adulthood. Her days were split between online job hunting and helping her grandmother around the house. The routine, oddly enough, gave her a sense of purpose. As weeks turned into months, her initially supportive friends began to drift away. Their occasional visits became stilted, filled with awkward silences and forced small talk. They talked about their advancing lives, while Charity felt stuck in limbo. Late-night talks with her grandmother revealed unknown family history. She often found herself watching neighbors through the basement's small window. As time passed, Charity grappled with feelings of inadequacy and fear of the future, but also discovered a resilience she didn't know she possessed. The challenge of living in such close quarters with her grandmother taught her patience and empathy, skills she hadn't realized she needed to develop. Despite the difficulties, Charity began to see this period as a chrysalis, sensing that when she finally emerged, she would be changed in ways she couldn't yet understand.",
         "annotations": [
             [
                 "Human-edited",
@@ -1392,11 +1392,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1429,11 +1429,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1466,11 +1466,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1483,7 +1483,7 @@
         "instruction": "Can you recount a memorable nighttime adventure that involved unexpected challenges, unique celestial sightings, and the discovery of an impressive art piece, ultimately leading to a significant moment with a companion?",
         "Human-edited": "Dan and I set out walking under the pines, our path lit only by the moon. We hoped to reach the abandoned observatory by midnight. We had heard rumors of a mural, something inexplicable. A sudden rustle in the brush made us freeze. Dan touched my shoulder. An owl swooped low, just above our heads, and then back up, gone. We almost missed the hidden trailhead at the edge of the clearing. When we finally reached the observatory, it was nearly two in the morning. Inside, the air was thick with decay and mold. Dan tripped on a decayed floorboard, revealing a sub-basement. Climbing down under the observatory, we found the mural. It was an intricate tableau of stars and figures. Dan traced the constellations with his fingers and told me about his father's bedtime stories to him as a child. They had always been about star maps and journeys.",
         "AI-generated": "Dan and I had set out under the whispering pines, our path lit only by a waning crescent moon. We intended to reach the abandoned observatory by midnight, driven by rumors of an enigmatic mural hidden within. The forest had other plans, though. A sudden rustle in the brush had us both frozen, expecting the usual deer or fox, but it was a silent owl swooping low that startled us. Pushing further, we stumbled upon a glade where the Northern Lights, uncharacteristically vibrant for our latitude, danced overhead. Spellbound, we almost missed the hidden trailhead at the edge of the clearing. When we finally reached the observatory, it was nearly two in the morning. Inside, the air was thick with history and decay. During our search for the mural, Dan tripped a decayed floorboard revealing a sub-basement. Climbing down, we found not just a mural but an intricate tableau of stars and figures, painted with an ethereal glow. As Dan traced the constellations with his fingers, he confided memories of his father's bedtime stories about star maps and journeys, lending an unexpected depth to our discovery. We left, not just with the art's beauty in our minds, but with a shared sense of something profoundly personal uncovered.",
-        "AI-edited": "Dan and I had ventured into the Whispering Pines, our path lit only by a dim crescent moon. We planned to reach the abandoned observatory by midnight, based on rumors of an enigmatic mural hidden inside. But the forest had its own agenda. Instead of the expected deer or fox, a silent owl swooped low, startling us both. We pushed through to a glade where the Northern Lights unexpectedly danced overhead. Amazed, we almost missed the hidden trailhead at the edge of the clearing.\n\nWhen we finally reached the observatory, it was nearly two in the morning. Inside, the air was thick with decay. While searching, Dan tripped over a decayed floorboard, revealing a sub-basement. Climbing down, we stumbled upon more than just an artistic mural: an intricate tableau of stars and figures painted with an ethereal glow. Dan traced the constellations with his fingers and shared stories of his father’s bedtime tales about star maps and journeys. It added an unexpected depth to our discovery. We left with the art's beauty and a shared sense of personal discovery.",
+        "AI-edited": "Dan and I had ventured into the Whispering Pines, our path lit only by a dim crescent moon. We planned to reach the abandoned observatory by midnight, based on rumors of an enigmatic mural hidden inside. But the forest had its own agenda. Instead of the expected deer or fox, a silent owl swooped low, startling us both. We pushed through to a glade where the Northern Lights unexpectedly danced overhead. Amazed, we almost missed the hidden trailhead at the edge of the clearing.When we finally reached the observatory, it was nearly two in the morning. Inside, the air was thick with decay. While searching, Dan tripped over a decayed floorboard, revealing a sub-basement. Climbing down, we stumbled upon more than just an artistic mural: an intricate tableau of stars and figures painted with an ethereal glow. Dan traced the constellations with his fingers and shared stories of his father’s bedtime tales about star maps and journeys. It added an unexpected depth to our discovery. We left with the art's beauty and a shared sense of personal discovery.",
         "annotations": [
             [
                 "AI-generated",
@@ -1503,11 +1503,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -1540,11 +1540,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1577,11 +1577,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1614,11 +1614,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1651,11 +1651,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1688,11 +1688,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1725,11 +1725,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1762,11 +1762,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1799,11 +1799,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1836,11 +1836,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1873,11 +1873,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1910,11 +1910,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -1947,11 +1947,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -1984,11 +1984,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2021,11 +2021,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -2058,11 +2058,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -2095,11 +2095,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2132,11 +2132,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2169,11 +2169,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2206,11 +2206,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -2243,11 +2243,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2280,11 +2280,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -2317,11 +2317,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -2354,11 +2354,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2371,7 +2371,7 @@
         "instruction": "Describe the series of events and emotions that transpired when Caesar's brother, Alonzo, came to visit him at the restaurant three months and five days after Caesar's release from prison.",
         "Human-edited": "As Caesar wiped down the counter, the rhythm of the clock grew louder and more pronounced. With each tick, he found his eyes darting upward to check the time. The lunch rush had ended, leaving the restaurant in a lull. The sound of Alonzo's entrance was accompanied by the creaking of the door. Upon seeing his brother, Caesar's breathing shallowed and his chest became knotted. His brother looked older, grayer, but the vigor of his step and the balance of his muscular shoulders hadn't changed. The two men embraced each other awkwardly, the weight of unspoken words hanging between them. As they sat in a corner booth, Caesar noticed Alonzo's fidgeting hands, a nervous habit he still retained from childhood. They talked about the state of the restaurant and how much the area had changed. Despite their attempts to avoid talking about the past three years, all their conversations seemed to circle the passing of time. Studying his brother's face, Caesar found himself searching for signs of judgment, disappointment, or anger. Instead, Alonzo couldn't remain focused. His gaze kept darting to other patrons or whenever the door creaked. Caesar's brother's unease changed, however, when the food arrived. Alonzo took a bite and nodded in approval, a grin spreading beneath his chewing. As the visit wore on, the tension slowly dissipated. They laughed at an old inside joke, and for a moment, there was a sense of ease, an undisturbed relationship, as when they were just boys. But when, at the end, Alonzo rose to leave, the reality of their situation settled back in. They hugged again, this time with less hesitation. As Caesar watched his brother walk away, he felt overcome by a twinge of grief, grief at knowing their relationship would never be the same.",
         "AI-generated": "Caesar wiped down the counter, his eyes darting to the clock every few minutes. The lunch rush had ended, leaving the restaurant in a lull. When Alonzo walked in, Caesar's chest tightened. His brother looked older, grayer, but his swagger remained unchanged. They embraced awkwardly, the weight of unspoken words hanging between them. As they sat in a corner booth, Caesar noticed Alonzo's fidgeting hands, a nervous habit from childhood. They made small talk about the weather, careful to avoid mentioning the past three years. Caesar found himself studying his brother's face, searching for signs of judgment or disappointment. Alonzo's gaze kept shifting to the other patrons, as if expecting trouble. When their food arrived, Caesar watched Alonzo take a bite and nod in approval. A small victory. As the visit wore on, the tension slowly eased. They laughed at an old inside joke, and for a moment, it felt like before. But when Alonzo stood to leave, the reality of their situation settled back in. They hugged again, this time with less hesitation. As Caesar watched his brother walk away, he felt a mix of relief and sadness, knowing their relationship would never be the same, but hoping it could be something new.",
-        "AI-edited": "Caesar wiped down the counter. Every few minutes, his eyes darted to the clock. The lunch rush had ended, leaving the restaurant in a lull. When Alonzo walked in, Caesar's chest tightened. His brother's appearance was a stark reminder of the family he'd left behind when he'd gone to prison. His brother looked older, grayer, with deep lines etched around his eyes, but his swagger remained unchanged—the same cocky gait that had gotten him into trouble so many times before. They embraced awkwardly, Caesar's starched chef's coat crinkling against Alonzo's worn leather jacket, the weight of unspoken words hanging between them. As they sat in a corner booth, Caesar noticed Alonzo's fidgeting hands, a nervous habit from childhood that Caesar thought he'd outgrown. They chatted about the weather, avoiding any mention of the past three years. Caesar studied his brother's face, looking for any hint of judgment or disappointment. Alonzo's gaze kept shifting to the other patrons, as if expecting someone to recognize him from his mugshot on the evening news. Alonzo took a bite of his food and nodded approvingly. Caesar felt a small sense of relief.\n\nAs the visit wore on, the tension dissipated. They laughed at an old inside joke, and for a moment, it felt like old times—before Caesar's stint in prison and Alonzo's struggles with addiction. But when Alonzo rose to his feet, the reality of their situation settled back in. They hugged again, this time with less hesitation. Watching his brother walk away, Caesar was both relieved and saddened, knowing their relationship would never be the same.",
+        "AI-edited": "Caesar wiped down the counter. Every few minutes, his eyes darted to the clock. The lunch rush had ended, leaving the restaurant in a lull. When Alonzo walked in, Caesar's chest tightened. His brother's appearance was a stark reminder of the family he'd left behind when he'd gone to prison. His brother looked older, grayer, with deep lines etched around his eyes, but his swagger remained unchanged—the same cocky gait that had gotten him into trouble so many times before. They embraced awkwardly, Caesar's starched chef's coat crinkling against Alonzo's worn leather jacket, the weight of unspoken words hanging between them. As they sat in a corner booth, Caesar noticed Alonzo's fidgeting hands, a nervous habit from childhood that Caesar thought he'd outgrown. They chatted about the weather, avoiding any mention of the past three years. Caesar studied his brother's face, looking for any hint of judgment or disappointment. Alonzo's gaze kept shifting to the other patrons, as if expecting someone to recognize him from his mugshot on the evening news. Alonzo took a bite of his food and nodded approvingly. Caesar felt a small sense of relief.As the visit wore on, the tension dissipated. They laughed at an old inside joke, and for a moment, it felt like old times—before Caesar's stint in prison and Alonzo's struggles with addiction. But when Alonzo rose to his feet, the reality of their situation settled back in. They hugged again, this time with less hesitation. Watching his brother walk away, Caesar was both relieved and saddened, knowing their relationship would never be the same.",
         "annotations": [
             [
                 "AI-edited",
@@ -2391,11 +2391,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -2428,11 +2428,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -2465,11 +2465,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2502,11 +2502,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2517,7 +2517,7 @@
     },
     {
         "instruction": "Reflect on Maude's perspective about individual agency and societal influence as expressed in her contemplative remark on the global population and Mike Pence's authority.",
-        "Human-edited": "Maude was supposed to be doing the dishes, but she was standing still in front of the sink, looking out her kitchen window. She found herself entranced by the people passing below her on the street—their full and entire lives contained in their little bodies—and the scores she could see in view were only an uncountably tiny percentage of the total unfathomable mass. This morning, she happened to have been reading about Mike Pence. It was strange to think of Mike Pence as more than an automaton of a politician, as a person with his own private thoughts and interests. How does anyone end up in a position of power? How was anyone allowed to govern her? Maude considered the countless ways in which policies and societal norms could ripple through communities, subtly guiding the trajectory of individual lives. But how much could the government even make a difference? Maude felt her own fierce desire to make her own decisions, for people to exercise their will despite the constraints that surrounded them. \n\nMaude concluded that the interplay between personal autonomy and societal influence was a nuanced dance, a constant negotiation between the self and the world at large. She found solace in the idea that even in the face of external pressures, individuals still possessed the power to make meaningful choices. Outside the kitchen window, the sun was dipping below the horizon. The streams of people began to fade into darkness. Maude felt a renewed sense of purpose, as if she was alone again with herself now that she could no longer see the outside world.",
+        "Human-edited": "Maude was supposed to be doing the dishes, but she was standing still in front of the sink, looking out her kitchen window. She found herself entranced by the people passing below her on the street—their full and entire lives contained in their little bodies—and the scores she could see in view were only an uncountably tiny percentage of the total unfathomable mass. This morning, she happened to have been reading about Mike Pence. It was strange to think of Mike Pence as more than an automaton of a politician, as a person with his own private thoughts and interests. How does anyone end up in a position of power? How was anyone allowed to govern her? Maude considered the countless ways in which policies and societal norms could ripple through communities, subtly guiding the trajectory of individual lives. But how much could the government even make a difference? Maude felt her own fierce desire to make her own decisions, for people to exercise their will despite the constraints that surrounded them. Maude concluded that the interplay between personal autonomy and societal influence was a nuanced dance, a constant negotiation between the self and the world at large. She found solace in the idea that even in the face of external pressures, individuals still possessed the power to make meaningful choices. Outside the kitchen window, the sun was dipping below the horizon. The streams of people began to fade into darkness. Maude felt a renewed sense of purpose, as if she was alone again with herself now that she could no longer see the outside world.",
         "AI-generated": "As Maude gazed out the window, her mind wandered to the billions of lives unfolding across the globe, each person navigating their own path within the complex tapestry of society. She couldn't help but ponder the delicate balance between individual agency and the influence of those in power, like Mike Pence. Were people truly the masters of their own destinies, or were their choices inevitably shaped by the decisions of those who governed them? Maude considered the countless ways in which policies and societal norms could ripple through communities, subtly guiding the trajectory of individual lives. Yet, she also recognized the resilience of the human spirit, the capacity for people to forge their own paths despite the constraints that surrounded them. In the end, Maude concluded that the interplay between personal autonomy and societal influence was a nuanced dance, a constant negotiation between the self and the world at large. She found solace in the idea that even in the face of external pressures, individuals still possessed the power to make meaningful choices, to shape their own narratives within the grand scheme of things. As the sun dipped below the horizon, Maude felt a renewed sense of purpose, a quiet determination to navigate her own journey while remaining mindful of the forces that shaped the lives of those around her.",
         "AI-edited": "Maude thought about how many lives were unfolding across the globe, each living its own unique life. She couldn't help but ponder the delicate balance between individual agency and the influence of those in power, like Mike Pence. How much control did people really have over their lives? She considered how policies and social norms could spread through communities like ripples in a pond, subtly steering people's lives in certain directions. People are resilient; they can make their own choices even when faced with constraints. Maude realized that personal choices and societal pressures were always in a complex balance. She believed that individuals could still make meaningful choices despite external pressures. Maude stood up, stretched, and decided to go for a walk.",
         "annotations": [
@@ -2539,11 +2539,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2576,11 +2576,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -2613,11 +2613,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -2650,11 +2650,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2687,11 +2687,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -2724,11 +2724,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -2761,11 +2761,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2798,11 +2798,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2835,11 +2835,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2872,11 +2872,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2909,11 +2909,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2946,11 +2946,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -2983,11 +2983,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3020,11 +3020,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3037,7 +3037,7 @@
         "instruction": "Can you recount a childhood memory of traveling to school in the winter and encountering memorable yet challenging experiences along the way?",
         "Human-edited": "The old bus creaked and shuddered as it navigated the icy country roads. I pressed my forehead against the cold window, watching my breath fog up the glass. The rest of the bus was abuzz with chatter and laughter, but I remained lost in my own world, apart from my classmates. We passed by Mr. Johnson's farm, where a lone scarecrow stood sentinel in the frosty field, its tattered coat flapping in the wind. Suddenly, the bus driver slammed on the brakes, holding his arm out as if it would stop us kids from being jerked by the impact. A fallen tree blocked our path, its branches heavy with snow. The driver muttered under his breath as he radioed for help. The minutes crawled by on that stuffy yet freezing bus. Some of the older boys volunteered to help clear the road, their boots crunching in the fresh powder. A sense of camaraderie grew as we all pitched in, passing branches down the line. When we finally arrived at school, nearly an hour late, our cheeks were rosy and our spirits high. As I hung up my coat, I felt satisfied by the challenging yet rewarding morning.",
         "AI-generated": "The old bus creaked and shuddered as it navigated the icy country roads. I pressed my forehead against the cold window, watching my breath fog up the glass. The other kids chattered and laughed, but I remained silent, lost in thought. We passed by Mr. Johnson's farm, where a lone scarecrow stood sentinel in the frosty field, its tattered coat flapping in the wind. Suddenly, the bus jerked to a stop. A fallen tree blocked our path, its branches heavy with snow. The driver muttered under his breath as he radioed for help. We waited, the minutes ticking by slowly. Some of the older boys volunteered to help clear the road, their boots crunching in the fresh powder. I watched them work, their breaths visible in the frigid air. A sense of camaraderie grew as we all pitched in, passing branches down the line. When we finally arrived at school, nearly an hour late, our cheeks were rosy and our spirits high. As I hung up my coat, I realized that sometimes the journey itself can be the most memorable part of the day.",
-        "AI-edited": "The old bus creaked and shuddered as it navigated the icy country roads. I pressed my forehead against the cold window, watching my breath fog up the glass. The other kids chattered and laughed, their voices a cacophony of excitement about the upcoming school dance and weekend plans, but I remained silent, lost in thought about my parents' recent argument and the growing pile of unpaid bills on our kitchen table. We passed by Mr. Johnson's farm, where a lone scarecrow stood sentinel in the frosty field, its tattered coat flapping in the wind.\n\nSuddenly, the bus jerked to a stop, the brakes screeching and the engine sputtering in protest. A fallen tree blocked our path, its branches heavy with snow. The driver muttered under his breath as he radioed for help. Time crawled as we waited. Some of the older boys volunteered to help clear the road, their boots crunching in the fresh powder. Their breaths were visible in the frigid air. A sense of camaraderie grew as we all pitched in, passing branches down the line.\n\nWhen we finally arrived at school, nearly an hour late, our cheeks were rosy and our spirits high. As I hung up my coat, I felt a strange sense of accomplishment, as if we'd all shared in something special.",
+        "AI-edited": "The old bus creaked and shuddered as it navigated the icy country roads. I pressed my forehead against the cold window, watching my breath fog up the glass. The other kids chattered and laughed, their voices a cacophony of excitement about the upcoming school dance and weekend plans, but I remained silent, lost in thought about my parents' recent argument and the growing pile of unpaid bills on our kitchen table. We passed by Mr. Johnson's farm, where a lone scarecrow stood sentinel in the frosty field, its tattered coat flapping in the wind.Suddenly, the bus jerked to a stop, the brakes screeching and the engine sputtering in protest. A fallen tree blocked our path, its branches heavy with snow. The driver muttered under his breath as he radioed for help. Time crawled as we waited. Some of the older boys volunteered to help clear the road, their boots crunching in the fresh powder. Their breaths were visible in the frigid air. A sense of camaraderie grew as we all pitched in, passing branches down the line.When we finally arrived at school, nearly an hour late, our cheeks were rosy and our spirits high. As I hung up my coat, I felt a strange sense of accomplishment, as if we'd all shared in something special.",
         "annotations": [
             [
                 "AI-edited",
@@ -3057,11 +3057,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3094,11 +3094,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -3131,11 +3131,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3168,11 +3168,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3205,11 +3205,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3242,11 +3242,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3279,11 +3279,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3316,11 +3316,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3353,11 +3353,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3390,11 +3390,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3427,11 +3427,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3464,11 +3464,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3501,11 +3501,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3538,11 +3538,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3575,11 +3575,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3612,11 +3612,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3649,11 +3649,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3686,11 +3686,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -3701,7 +3701,7 @@
     },
     {
         "instruction": "What are the circumstances and events that led Cheyenne to stay with Johanna and work as a babysitter for extra help with the kids?",
-        "Human-edited": "Cheyenne had always been a wanderer, drifting from place to place ever since she left home at sixteen. Johanna, a single mother of three, offered her a room after Cheyenne found her youngest wandering the streets alone and brought her back home hand in hand. Johanna’s exhaustion was palpable, her days a blur of work shifts and childcare duties. Cheyenne recognized the quiet plea for help behind Johanna’s polite gratitude and accepted the offer for room and board, not that she was in any position to refuse it. \n\nThe first week was awkward; Cheyenne wasn't used to the routine of family life, and the kids were cautious around her. Not to mention, Cheyenne didn't want to be a charity case, and Johanna didn't want to be taken advantage of. But gradually, her knack for storytelling during bedtime and her ability to juggle household chaos earned their trust. Her presence became a balm to Johanna’s frazzled nerves, who realized she could finally take that much-needed breath. \n\nBoth women sensed an unspoken bond; they were survivors of different battles but found solace in each other's company. Cheyenne, untethered from normalcy her whole life, had unwittingly become an anchor, and she was forever grateful to Johanna for providing a refuge that felt, almost, like home.",
+        "Human-edited": "Cheyenne had always been a wanderer, drifting from place to place ever since she left home at sixteen. Johanna, a single mother of three, offered her a room after Cheyenne found her youngest wandering the streets alone and brought her back home hand in hand. Johanna’s exhaustion was palpable, her days a blur of work shifts and childcare duties. Cheyenne recognized the quiet plea for help behind Johanna’s polite gratitude and accepted the offer for room and board, not that she was in any position to refuse it. The first week was awkward; Cheyenne wasn't used to the routine of family life, and the kids were cautious around her. Not to mention, Cheyenne didn't want to be a charity case, and Johanna didn't want to be taken advantage of. But gradually, her knack for storytelling during bedtime and her ability to juggle household chaos earned their trust. Her presence became a balm to Johanna’s frazzled nerves, who realized she could finally take that much-needed breath. Both women sensed an unspoken bond; they were survivors of different battles but found solace in each other's company. Cheyenne, untethered from normalcy her whole life, had unwittingly become an anchor, and she was forever grateful to Johanna for providing a refuge that felt, almost, like home.",
         "AI-generated": "Cheyenne had always been a wanderer, drifting from place to place ever since she left home at sixteen. Johanna, a single mother of three, offered her a room after Cheyenne found her youngest wandering the streets alone. Johanna’s exhaustion was palpable, her days a blur of work shifts and childcare duties. Cheyenne recognized the quiet plea for help behind Johanna’s polite gratitude and accepted the offer to stay. The first week was awkward; Cheyenne wasn't used to the routine of family life, and the kids were cautious around her. But gradually, her knack for storytelling during bedtime and her ability to juggle household chaos earned their trust. Her presence became a balm to Johanna’s frazzled nerves, who realized she could finally take that much-needed breath. Both women sensed an unspoken bond; they were survivors of different battles but found solace in the other's company. Cheyenne had unknowingly become the temporary anchor she never sought to be, and Johanna provided a refuge that felt unexpectedly like home.",
         "AI-edited": "Cheyenne had always been a wanderer, drifting from place to place ever since she left home at sixteen. Johanna, a single mother of three, offered her a room after Cheyenne found her youngest on the corner, shivering in the cold after wandering away from the neighborhood playground. Johanna’s exhaustion was palpable, her days a blur of work shifts and childcare duties. Cheyenne recognized the quiet plea for help behind Johanna’s polite gratitude and hesitated before accepting the offer, knowing it was a commitment to stability she had long been avoiding. The first week was awkward; Cheyenne wasn't used to the routine of family life, and the kids were curious but hesitant, keeping a watchful distance at first. But gradually, her knack for storytelling during bedtime and her ability to juggle household chaos earned their trust. Her presence became a balm to Johanna’s frazzled nerves, who realized she could finally take that much-needed breath. Both women sensed an unspoken bond; they were survivors of different battles but found solace in the other's company. Cheyenne found herself stabilizing Johanna’s chaotic life, while Johanna gave her a sense of home she hadn't planned to find.",
         "annotations": [
@@ -3723,11 +3723,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3738,7 +3738,7 @@
     },
     {
         "instruction": "Can you describe the conversation mentioned where Lou agreed to attend the Dildos gig and hinted at the possibility of a record contract?",
-        "Human-edited": "Lou leaned against the scratched counter of the bar, fingers drumming lightly on the wood. The dim light threw shadows across his face as Jack, the band's lead guitarist, with his quiet swagger, explained their setlist for the upcoming Dildos gig. Jack had star power. He wasn't the lead singer, but Lou felt he should be. He was the reason Lou wanted to sign them. Lou took a sip of his drink, eyes never leaving Jack’s. \n\n“I’ll be there,” Lou said finally.\n\n“Cool,” Jack said. He was dismissive, as if he knew that of course Lou was coming. He was walking away when Lou stood to grab him.\n\n“Heard some whispers about labels sniffing around. Might be time to talk serious after, no?”\n\nJack's shrug was non-committal, but Lou knew not to look too eager. It was a dance, this business, and Lou had a lot of experience in it. Jack nodded, shook Lou's hand.\n\n\"We'll be waiting for you after the show,\" he said.\n\nLou tipped his glass in a casual salute and walked away, leaving Jack to watch him leave, feeling like he had won.",
+        "Human-edited": "Lou leaned against the scratched counter of the bar, fingers drumming lightly on the wood. The dim light threw shadows across his face as Jack, the band's lead guitarist, with his quiet swagger, explained their setlist for the upcoming Dildos gig. Jack had star power. He wasn't the lead singer, but Lou felt he should be. He was the reason Lou wanted to sign them. Lou took a sip of his drink, eyes never leaving Jack’s. “I’ll be there,” Lou said finally.“Cool,” Jack said. He was dismissive, as if he knew that of course Lou was coming. He was walking away when Lou stood to grab him.“Heard some whispers about labels sniffing around. Might be time to talk serious after, no?”Jack's shrug was non-committal, but Lou knew not to look too eager. It was a dance, this business, and Lou had a lot of experience in it. Jack nodded, shook Lou's hand.\"We'll be waiting for you after the show,\" he said.Lou tipped his glass in a casual salute and walked away, leaving Jack to watch him leave, feeling like he had won.",
         "AI-generated": "Lou leaned against the scratched counter of the bar, fingers drumming lightly on the wood, a distant look in his eye. The dim light threw shadows across his face as Jack, the band's lead guitarist, nervously explained their setlist for the upcoming Dildos gig. Jack’s excitement was palpable, his words tumbling over each other, but Lou’s slow nods kept him grounded. He took a sip of his drink, eyes never leaving Jack’s. “I’ll be there,” Lou said finally, his voice steady but laced with something Jack couldn’t quite place. Relief flooded Jack's face, but before he could revel in it, Lou straightened up and added, almost as an afterthought, “Heard some whispers about labels sniffing around. Might be time to talk serious after, no?” The offhand comment hung in the air between them, giving Jack pause. Lou’s easy demeanor didn’t change, but those words carried a weight, a promise wrapped in uncertainty. Jack nodded, trying to hide the rush of hope and fear battling in his chest. Lou tipped his glass in a casual salute and walked away, leaving Jack to mull over the possibilities that now seemed just within reach.",
         "AI-edited": "Lou leaned against the scratched counter of the bar, fingers drumming lightly on the wood, lost in thought. The dim light threw shadows across his face as Jack, the band's lead guitarist, nervously explained their setlist for the upcoming Dildos gig. Jack couldn't hide his nervous energy, talking a mile a minute, but Lou’s slow nods kept him grounded. He took a sip of his drink, eyes never leaving Jack’s. “I’ll be there,” Lou said finally, his voice steady. Lou’s slow nods grounded him. 'Feels like a gout attack coming on,' Jack thought, knowing Lou was a perpetual hypochondriac. Jack's expression relaxed, but before he could respond, Lou straightened up and added, almost as an afterthought, “Heard some whispers about labels sniffing around. Might be time for a serious talk after, right?” The offhand comment hung in the air between them, making Jack hesitate. Lou’s easy demeanor didn’t change, but those words carried a weight, a mixture of hope and doubt. Jack nodded, struggling to mask his conflicting emotions. Lou tipped his glass in a casual salute and walked away, leaving Jack to consider what his future might now hold.",
         "annotations": [
@@ -3760,11 +3760,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3797,11 +3797,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3834,11 +3834,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3871,11 +3871,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -3908,11 +3908,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -3945,11 +3945,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -3982,11 +3982,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4019,11 +4019,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4056,11 +4056,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4093,11 +4093,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4130,11 +4130,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4167,11 +4167,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -4182,7 +4182,7 @@
     },
     {
         "instruction": "Can you recount the experience you had during your first week in town, including any notable events and how they influenced your interactions with the local community?",
-        "Human-edited": "During my first week in Pinemoor, I uncovered the undercurrents of the town that typically remained hidden from outsiders. It started with Mrs. Willow's missing cat posters taped to every other lamppost. My volunteering to help find Miso landed me at the door of Joe, the taciturn mechanic with a rusty old truck and a hidden soft spot for animals. For the next few days, I wandered through back alleyways and overgrown lots, gaining access to a town hidden behind its postcard facade. \n\nI met Clara, who ran the bakery and offered me a toasty cinnamon roll. \"For the real city folk taste,\" she said with a wink. She hinted at a once-thriving lumber mill that now sat abandoned at the edge of town, a sore spot for many. At the weekly market, I overheard hushed conversations about a land dispute that dated back decades, perhaps hinting at how the beautiful town of Pinemoor was laced with unresolved tensions. Despite my curiosity, any questions were met with a wary, half-hearted smile and an uncomfortable silence. \n\nBy the week's end, I finally found Miso nestled in the rickety gazebo by the mill. Returning the cat to Mrs. Willow earned me a beaming smile from Joe and a bag of freshly baked bread from Clara. Through this simple deed, I realized the locals of Pinemoor were finally beginning to accept me as their own.",
+        "Human-edited": "During my first week in Pinemoor, I uncovered the undercurrents of the town that typically remained hidden from outsiders. It started with Mrs. Willow's missing cat posters taped to every other lamppost. My volunteering to help find Miso landed me at the door of Joe, the taciturn mechanic with a rusty old truck and a hidden soft spot for animals. For the next few days, I wandered through back alleyways and overgrown lots, gaining access to a town hidden behind its postcard facade. I met Clara, who ran the bakery and offered me a toasty cinnamon roll. \"For the real city folk taste,\" she said with a wink. She hinted at a once-thriving lumber mill that now sat abandoned at the edge of town, a sore spot for many. At the weekly market, I overheard hushed conversations about a land dispute that dated back decades, perhaps hinting at how the beautiful town of Pinemoor was laced with unresolved tensions. Despite my curiosity, any questions were met with a wary, half-hearted smile and an uncomfortable silence. By the week's end, I finally found Miso nestled in the rickety gazebo by the mill. Returning the cat to Mrs. Willow earned me a beaming smile from Joe and a bag of freshly baked bread from Clara. Through this simple deed, I realized the locals of Pinemoor were finally beginning to accept me as their own.",
         "AI-generated": "During my first week in Pinemoor, I discovered the undercurrents of the town that outsiders seldom see. It started with Mrs. Willow's missing cat posters, taped to every other lamppost, her shaky handwriting a silent plea to the community. My volunteering to help find Miso landed me at the door of Joe, the taciturn mechanic with a rusty old truck and a hidden soft spot for animals. The next few days, I wandered through back alleyways and overgrown lots, seeing the town beyond its postcard-perfect façade. I met Clara, who ran the bakery and offered me a cinnamon roll with less sugar for “city folk taste,” she said with a wink. She hinted at a once-thriving lumber mill that now sat abandoned at the edge of town, a sore spot for many. At the weekly market, I overheard conversations in hushed tones about a land dispute that dated back decades, giving me a sense that Pinemoor’s beauty was shaded with unsolved tensions. My gestures of help and my open curiosity were met with a mix of wariness and warmth. By the week's end, I found Miso nestled in the rickety gazebo by the mill. Returning the cat to Mrs. Willow earned me a fleeting smile from Joe and a bag of freshly baked bread from Clara. I knew I'd barely scratched the surface, but already, Pinemoor was beginning to reveal its intricate tapestry.",
         "AI-edited": "During my first week in Pinemoor, I discovered aspects of the town that outsiders rarely notice. It started with Mrs. Willow's missing cat posters, taped to every other lamppost, her shaky handwriting revealing her desperation. Volunteering to help find Miso landed me at the door of Joe, the local mechanic with a quiet demeanor and an unexpected love for animals. Over the next few days, I wandered through back alleyways and overgrown lots, discovering the town's hidden sides. I met Clara, who ran the bakery and offered me a \"city folk\" cinnamon roll with a wink, noting the sugar reduction. She hinted at a once-thriving lumber mill that now sat abandoned at the edge of town, a topic that made the town uneasy. At the weekly market, I overheard conversations in hushed tones about a land dispute that dated back decades, giving me a sense that Pinemoor had its hidden tensions. My help and curiosity were met with mixed responses. By the week's end, I found Miso nestled in the rickety gazebo by the mill. Returning the cat to Mrs. Willow earned me a rare smile from Joe and a thank you from Clara. I knew I'd barely scratched the surface, but already, I felt connected to Pinemoor in a way I hadn't expected.",
         "annotations": [
@@ -4204,11 +4204,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4219,7 +4219,7 @@
     },
     {
         "instruction": "Can you write a narrative that involves a seemingly broad and fertile valley, a white family encountering spatial anomalies when trying to enter, and the story's reflection on its inspirations and metafictional aspects, including references to other science fiction works?",
-        "Human-edited": "The Larson family had heard rumors of the valley's lush fertility, promising a fresh start far from the arid land they had called home. However, as they crossed the boundary, subtle shifts in time and space began to unravel their plans. Stepping forward felt like wading through thickened air, their senses bombarded with echoes of futures unspoken. As they ventured deeper, memories they had never lived crowded their minds, scenes of past and parallel lives spilling into the present. \n\n\"This reminds me of something out of a Philip K. Dick novel,\" young Jimmy remarked, trying to steady himself as a duplicate of his mother flickered beside him. Parallels to Star Trek's mirror universe emerged in their conversations, the anomalies pulling the familiar into the uncanny. The valley, instead of a sanctuary, became an unsettling mirror of all the lives they'd never lived, the paths they hadn't taken. It made their own present lives seem less real. Were they just characters in a multiplied universe, each of the possibilities equally legitimate? How could they know what the purpose of their lives really was? They loved sci-fi stories, but they had never expected their lives to become one. The Larsons tried to adjust themselves to a life in which there was no stable reality.",
+        "Human-edited": "The Larson family had heard rumors of the valley's lush fertility, promising a fresh start far from the arid land they had called home. However, as they crossed the boundary, subtle shifts in time and space began to unravel their plans. Stepping forward felt like wading through thickened air, their senses bombarded with echoes of futures unspoken. As they ventured deeper, memories they had never lived crowded their minds, scenes of past and parallel lives spilling into the present. \"This reminds me of something out of a Philip K. Dick novel,\" young Jimmy remarked, trying to steady himself as a duplicate of his mother flickered beside him. Parallels to Star Trek's mirror universe emerged in their conversations, the anomalies pulling the familiar into the uncanny. The valley, instead of a sanctuary, became an unsettling mirror of all the lives they'd never lived, the paths they hadn't taken. It made their own present lives seem less real. Were they just characters in a multiplied universe, each of the possibilities equally legitimate? How could they know what the purpose of their lives really was? They loved sci-fi stories, but they had never expected their lives to become one. The Larsons tried to adjust themselves to a life in which there was no stable reality.",
         "AI-generated": "The Larson family had heard rumors of the valley's lush fertility, promising a fresh start far from the arid land they had called home. However, as they crossed the boundary, subtle shifts in time and space began to unravel their plans. Stepping forward felt like wading through thickened air, their senses bombarded with echoes of futures unspoken. As they ventured deeper, memories they had never lived crowded their minds, scenes of past and parallel lives spilling into the present. \"This reminds me of something out of a Philip K. Dick novel,\" young Jimmy remarked, trying to steady himself as a duplicate of his mother flickered beside him. Parallels to Star Trek's mirror universe emerged in their conversations, the anomalies pulling the familiar into the uncanny. The valley, instead of a sanctuary, became a lens through which they viewed the potential of infinite choices and unchosen paths. In recognizing this distortion, each member grappled with the idea that they might be characters stitched into a broader narrative fabric, forever questioning their origins and purpose. Thus, the story reflected on its own underpinnings, acknowledging the classic sci-fi explorations of dimension and identity that had inspired its inception. Confronted with the fictions within their lives, the Larsons pondered what it meant to truly exist in a world where reality never sat still.",
         "AI-edited": "The Larson family had heard rumors of the valley's lush fertility, promising a fresh start far from the arid land they had called home. However, as they crossed the boundary, subtle shifts in time and space began to unravel their plans. Stepping forward felt like wading through thickened air, their senses bombarded with echoes of futures unspoken. As they ventured deeper, memories they had never lived crowded their minds, scenes of past and parallel lives spilling into the present. \"This reminds me of something out of a Philip K. Dick novel,\" young Jimmy remarked, trying to steady himself as a duplicate of his mother flickered beside him. Parallels to Star Trek's mirror universe emerged in their conversations, the anomalies pulling the familiar into the uncanny. The valley turned from a promised sanctuary into a disorienting lens, showing them infinite choices and paths left unchosen. Each family member began to question their place in what felt like a broader, shifting narrative. They recognized echoes of classic sci-fi tales exploring dimension and identity and began to ponder the true nature of their existence in a world where reality constantly shifted.",
         "annotations": [
@@ -4241,11 +4241,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4278,11 +4278,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4315,11 +4315,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -4352,11 +4352,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4389,11 +4389,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4426,11 +4426,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -4463,11 +4463,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -4500,11 +4500,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -4537,11 +4537,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -4574,11 +4574,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4589,7 +4589,7 @@
     },
     {
         "instruction": "What specific event or moment does Stregg always recall that might provide insight into why he chose to confess and take all the blame?",
-        "Human-edited": "Stregg's mind often drifts back to a quiet moment shared with his younger brother, Jorn, when they were children. They sat together on the edge of a creek, their feet dangling in the cool water as the sun began to set behind the trees. Jorn, with his bright eyes and infectious laughter, turned to Stregg and said, \"You're the best big brother, Stregg. I know you'll always look out for me.\" That moment stayed with him—a moment when he felt proud for once in his life. No one had ever trusted him so completely. And his brother was so innocent then.\n\nYears later, when Stregg found himself in a bad place—life had changed so much since they were kids, with all their hopes and dreams—Stregg remembered this moment and decided he would take all the responsibility alone, no matter the cost. He would protect his brother. He would shield Jorn from the consequences, even if it meant shouldering the blame alone. In that moment of confession, Stregg recalled the warmth of the setting sun, the babbling of the creek, and the unwavering love in his brother's eyes. It was the fulfillment of his promise. Their lives had both fallen into darkness, but that didn't mean Jorn needed to suffer too. He would remain devoted to the brother who had always believed in him.",
+        "Human-edited": "Stregg's mind often drifts back to a quiet moment shared with his younger brother, Jorn, when they were children. They sat together on the edge of a creek, their feet dangling in the cool water as the sun began to set behind the trees. Jorn, with his bright eyes and infectious laughter, turned to Stregg and said, \"You're the best big brother, Stregg. I know you'll always look out for me.\" That moment stayed with him—a moment when he felt proud for once in his life. No one had ever trusted him so completely. And his brother was so innocent then.Years later, when Stregg found himself in a bad place—life had changed so much since they were kids, with all their hopes and dreams—Stregg remembered this moment and decided he would take all the responsibility alone, no matter the cost. He would protect his brother. He would shield Jorn from the consequences, even if it meant shouldering the blame alone. In that moment of confession, Stregg recalled the warmth of the setting sun, the babbling of the creek, and the unwavering love in his brother's eyes. It was the fulfillment of his promise. Their lives had both fallen into darkness, but that didn't mean Jorn needed to suffer too. He would remain devoted to the brother who had always believed in him.",
         "AI-generated": "Stregg's mind often drifts back to a quiet moment shared with his younger brother, Jorn, when they were children. They sat together on the edge of a creek, their feet dangling in the cool water, as the sun began to set behind the trees. Jorn, with his bright eyes and infectious laughter, turned to Stregg and said, \"You're the best big brother, Stregg. I know you'll always look out for me.\" Those words, spoken with such innocence and trust, had etched themselves into Stregg's heart. Years later, as he found himself entangled in a web of bad decisions and questionable loyalties, Stregg couldn't shake the memory of that promise. When the authorities closed in, and the weight of his actions threatened to crush not only himself but also those he held dear, Stregg made a choice. He would shield Jorn from the consequences, even if it meant shouldering the blame alone. In that moment of confession, Stregg recalled the warmth of the setting sun, the babbling of the creek, and the unwavering love in his brother's eyes. He knew that by taking the fall, he was fulfilling that long-ago promise, protecting Jorn from the darkness that had consumed his own life. It was a sacrifice born of love, a final act of devotion to the brother who had always believed in him.",
         "AI-edited": "Stregg's mind often drifts back to a quiet moment shared with his younger brother, Jorn, when they were children. They sat together on the edge of a creek, their feet dangling in the cool water as the sun began to set behind the trees. Jorn, with his bright eyes and infectious laughter, turned to Stregg and said, \"You're the best big brother, Stregg. I know you'll always look out for me.\" Those words stayed with Stregg. Years later, facing the consequences of his actions, Stregg remembered that promise. He would shield Jorn from the consequences, even if it meant shouldering the blame alone. In that moment of confession, Stregg recalled the warmth of the setting sun, the babbling of the creek, and the unwavering love in his brother's eyes. He knew that by taking the fall, he was protecting Jorn from the consequences of his own mistakes. It was the last thing he could do for his brother.",
         "annotations": [
@@ -4611,11 +4611,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4648,11 +4648,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4685,11 +4685,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4722,11 +4722,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4737,7 +4737,7 @@
     },
     {
         "instruction": "Can you provide a detailed overview of Bev's life changes and decisions during a tumultuous period, focusing on her personal, professional, and financial circumstances that led her to make a significant contribution to a volunteer organization?",
-        "Human-edited": "Bev's life upended when the tech startup she'd entirely devoted herself to collapsed seemingly overnight. In the aftermath, she was left scrambling to reshape her identity and find new purpose. Her husband's recent diagnosis added persistent, urgent dread, which permeated through the illusion of a stable life together. Financial burdens tightened their grip—mortgage bills loomed, and their savings dwindled under medical costs. \n\nAmidst this all, Bev found herself unpacking boxes at her childhood home, now littered with relics and unopened envelopes. While sorting through her late mother's belongings, she stumbled upon a stack of letters, each addressed to a local volunteer organization. Although she didn't recognize the organization, the letters immediately instilled a hopeful calm in her with their depictions of community, stories of resilience, and uplifting acts of kindness. Bev hadn't known the enduring impact her mother had made. Curious to see what had captivated her mother's last years, Bev visited the address from the letters.\n\nUnexpectedly, she connected with the volunteers immediately. The solace she found in their company was overwhelming. The decision to join the organization was effortless; Bev's professional skills seamlessly aligned with the group's goal of boosting their digital presence, and her compassionate demeanor bolstered their fundraising efforts. The decision to donate her severance package required more thought, but ultimately felt like a necessary part of the transition—not just for the organization, but for herself. It was not a sacrifice but rather a reclamation of her identity. She knew that her work helped to rebuild lives—her own included—and that even small influences could resonate profoundly.",
+        "Human-edited": "Bev's life upended when the tech startup she'd entirely devoted herself to collapsed seemingly overnight. In the aftermath, she was left scrambling to reshape her identity and find new purpose. Her husband's recent diagnosis added persistent, urgent dread, which permeated through the illusion of a stable life together. Financial burdens tightened their grip—mortgage bills loomed, and their savings dwindled under medical costs. Amidst this all, Bev found herself unpacking boxes at her childhood home, now littered with relics and unopened envelopes. While sorting through her late mother's belongings, she stumbled upon a stack of letters, each addressed to a local volunteer organization. Although she didn't recognize the organization, the letters immediately instilled a hopeful calm in her with their depictions of community, stories of resilience, and uplifting acts of kindness. Bev hadn't known the enduring impact her mother had made. Curious to see what had captivated her mother's last years, Bev visited the address from the letters.Unexpectedly, she connected with the volunteers immediately. The solace she found in their company was overwhelming. The decision to join the organization was effortless; Bev's professional skills seamlessly aligned with the group's goal of boosting their digital presence, and her compassionate demeanor bolstered their fundraising efforts. The decision to donate her severance package required more thought, but ultimately felt like a necessary part of the transition—not just for the organization, but for herself. It was not a sacrifice but rather a reclamation of her identity. She knew that her work helped to rebuild lives—her own included—and that even small influences could resonate profoundly.",
         "AI-generated": "Bev's life twisted sharply when the tech startup she'd poured her soul into crumbled overnight, leaving her scrambling for a purpose. Her husband's recent diagnosis added a layer of dread and urgency, shattering the illusion of their once stable life together. Financial strains tightened their grip—mortgage bills loomed, and their savings dwindled under medical costs. In the chaos, Bev found herself unpacking boxes at her childhood home, now cluttered with relics and unopened envelopes. While sorting through her late mother's belongings, she stumbled upon a stack of letters, each addressed to a little-known local volunteer organization. The words painted pictures of a community uplifted by small acts of kindness, filled with stories of resilience and hope, far removed from the cold metrics of her former corporate world. Drawn by the enduring impact her mother had quietly made, Bev visited the organization, initially just to see what had captivated her mother's last years. However, she quickly found solace and meaning among the volunteers. Her professional skills seamlessly transitioned into boosting their digital presence, while her compassionate nature worked wonders in fundraising efforts. The decision to donate her severance package, though hefty, felt like a lifeline—not just for the organization, but for herself. It was not a sacrifice but a reclamation of identity, grounded in the belief that rebuilding lives, including her own, could start small yet resonate profoundly.",
         "AI-edited": "Bev's life turned abruptly when the tech startup she'd poured her soul into collapsed suddenly, leaving her scrambling for a purpose. Her husband's recent diagnosis made everything feel more urgent and threatening, breaking the stability they once took for granted. Financial strains closed in—mortgage bills piled up, and their savings dwindled under medical costs. In the chaos, Bev found herself unpacking boxes at her childhood home, now brimming with a mix of her mother's old recipe cards, forgotten diaries, and unopened envelopes from charities. While sorting through her late mother's belongings, she stumbled upon a stack of letters, each addressed to a little-known local volunteer organization. The words revealed a community transformed by acts of kindness and resilience, far removed from the impersonal measurements of her past job. Drawn by the enduring impact her mother had quietly made, Bev visited the organization initially just to see what had captivated her mother's last years. However, she quickly found solace and meaning among the volunteers. She used her professional skills to improve their digital presence and aided in fundraising efforts. The decision to donate her severance package, though hefty, felt like a lifeline—not just for the organization, but for herself. It felt like finding herself again, believing that small steps could rebuild lives, including her own.",
         "annotations": [
@@ -4759,11 +4759,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4796,11 +4796,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4833,11 +4833,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4870,11 +4870,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4907,11 +4907,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -4944,11 +4944,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -4981,11 +4981,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5018,11 +5018,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -5055,11 +5055,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5092,11 +5092,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5129,11 +5129,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5166,11 +5166,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5203,11 +5203,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5240,11 +5240,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5277,11 +5277,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5314,11 +5314,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5351,11 +5351,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5388,11 +5388,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -5425,11 +5425,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5462,11 +5462,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5499,11 +5499,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5536,11 +5536,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5573,11 +5573,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5610,11 +5610,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5647,11 +5647,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5684,11 +5684,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5721,11 +5721,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5758,11 +5758,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5795,11 +5795,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5832,11 +5832,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5869,11 +5869,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5906,11 +5906,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5943,11 +5943,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -5980,11 +5980,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6017,11 +6017,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6054,11 +6054,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6091,11 +6091,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6128,11 +6128,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -6165,11 +6165,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6202,11 +6202,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6239,11 +6239,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6276,11 +6276,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6313,11 +6313,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -6350,11 +6350,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -6387,11 +6387,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6424,11 +6424,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6461,11 +6461,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -6498,11 +6498,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6535,11 +6535,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6572,11 +6572,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -6609,11 +6609,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6646,11 +6646,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6683,11 +6683,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6720,11 +6720,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -6757,11 +6757,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6794,11 +6794,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-edited": 1
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6831,11 +6831,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6868,11 +6868,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6905,11 +6905,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6942,11 +6942,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -6979,11 +6979,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -7016,11 +7016,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -7053,11 +7053,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -7090,11 +7090,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -7127,11 +7127,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -7164,11 +7164,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -7201,11 +7201,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -7238,11 +7238,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 0,
+                "Human-edited": 0,
                 "AI-generated": 1
             },
             {
@@ -7275,11 +7275,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -7312,11 +7312,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -7349,11 +7349,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -7386,11 +7386,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
@@ -7423,11 +7423,11 @@
         ],
         "preference_ranking": [
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-edited": 0
             },
             {
-                "Human_Edited": 1,
+                "Human-edited": 1,
                 "AI-generated": 0
             },
             {
