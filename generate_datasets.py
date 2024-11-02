@@ -1,4 +1,5 @@
-import argparse, json, random
+import argparse, json, random, itertools
+from collections import Counter
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--data_fn", type=str, default="data/LAMP-extended.json")
@@ -6,15 +7,21 @@ parser.add_argument("--min_score_threshold", type=int, default=1.0)
 parser.add_argument("--pairwise_prompt_fn", type=str, default="prompts/pairwise_pref.txt")
 parser.add_argument("--include_pairwise_pref", action="store_true")
 parser.add_argument("--include_reward_scoring", action="store_true")
+parser.add_argument("--include_gold_pairwise", action="store_true")
+parser.add_argument("--include_silver_pairwise", action="store_true")
 parser.add_argument("--reward_prompt_fn", type=str, default="prompts/reward_calc.txt")
 
 args = parser.parse_args()
 
-assert args.include_pairwise_pref or args.include_reward_scoring, "Must include either pairwise preference or reward scoring"
+assert args.include_pairwise_pref or args.include_reward_scoring or args.include_gold_pairwise or args.include_silver_pairwise, "Must include either pairwise preference or reward scoring"
 
 added_param = "_reward" if args.include_reward_scoring else ""
 
-out_files = f"data/finetune_{'P' if args.include_pairwise_pref else ''}{'R' if args.include_reward_scoring else ''}_[SPLIT].json"
+short_name = f"{'P' if args.include_pairwise_pref else ''}{'R' if args.include_reward_scoring else ''}{'G' if args.include_gold_pairwise else ''}{'S' if args.include_silver_pairwise else ''}"
+
+print(f"Short name: {short_name}")
+
+out_files = f"data/finetune_{short_name}_[SPLIT].json"
 
 with open(args.data_fn, "r") as f:
     lamp_data = json.load(f)
@@ -67,6 +74,62 @@ if args.include_reward_scoring:
         elif d["reward-split"] == "test":
             test_reward.append(sample3)
             test_reward.append(sample4)
+
+if args.include_gold_pairwise:
+    with open("data/gold_preference_600.json", "r") as f:
+        data = json.load(f)
+
+    preference_data = []
+
+    for d in data:
+        keys = ["Human-edited", "AI-generated", "AI-edited"]
+
+        for k1, k2 in itertools.combinations(keys, 2):
+            winners = []
+            for anno in d["annotations"]:
+                if anno.index(k1) < anno.index(k2):
+                    winners.append(k1)
+                else:
+                    winners.append(k2)
+            winner = Counter(winners).most_common(1)[0][0]
+            loser = k1 if winner == k2 else k2
+
+            sample1 = {"original_id": "", "paragraph1": d[winner], "paragraph2": d[loser], "reference_preference": "1", "sample_type": "pairwise-gold"}
+            sample1["text_input"] = pairwise_prompt.replace("[[PARAGRAPH1]]", sample1["paragraph1"]).replace("[[PARAGRAPH2]]", sample1["paragraph2"])
+            sample1["output"] = '{"preference": "1"}'
+            preference_data.append(sample1)
+
+            sample2 = {"original_id": "", "paragraph1": d[loser], "paragraph2": d[winner], "reference_preference": "2", "sample_type": "pairwise-gold"}
+            sample2["text_input"] = pairwise_prompt.replace("[[PARAGRAPH1]]", sample2["paragraph1"]).replace("[[PARAGRAPH2]]", sample2["paragraph2"])
+            sample2["output"] = '{"preference": "2"}'
+            preference_data.append(sample2)
+    # this only goes to the test set
+    test_pairwise += preference_data
+
+
+if args.include_silver_pairwise:
+    with open("data/silver_preference.json", "r") as f:
+        silver_data = json.load(f)
+
+    silver_preference_data = []
+
+    for i, d in enumerate(silver_data):
+        split = "train" if i%2 == 0 else "test"
+
+        sample1 = {"original_id": f"silver-{d['id']}", "paragraph1": d["Expert"], "paragraph2": d["AI"], "reference_preference": "1", "sample_type": "pairwise-silver", "split": split, "source": d["AI_source"]}
+        sample1["text_input"] = pairwise_prompt.replace("[[PARAGRAPH1]]", sample1["paragraph1"]).replace("[[PARAGRAPH2]]", sample1["paragraph2"])
+        sample1["output"] = '{"preference": "1"}'
+        silver_preference_data.append(sample1)
+
+
+        sample2 = {"original_id": f"silver-{d['id']}", "paragraph1": d["AI"], "paragraph2": d["Expert"], "reference_preference": "2", "sample_type": "pairwise-silver", "split": split, "source": d["AI_source"]}
+        sample2["text_input"] = pairwise_prompt.replace("[[PARAGRAPH1]]", sample2["paragraph1"]).replace("[[PARAGRAPH2]]", sample2["paragraph2"])
+        sample2["output"] = '{"preference": "2"}'
+        silver_preference_data.append(sample2)
+
+    train_pairwise += [d for d in silver_preference_data if d["split"] == "train"]
+    test_pairwise += [d for d in silver_preference_data if d["split"] == "test"]
+
 
 for i, d in enumerate(train_pairwise):
     d["id"] = f"train-pairwise-{i}"
