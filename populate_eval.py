@@ -2,7 +2,7 @@ from llms import generate_json # Tuhin: this is an equivalent to `anyllm` at Sal
 import json, argparse, os, tqdm
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--input_fn", type=str, default="data/finetune_PR_test.json")
+parser.add_argument("--input_fn", type=str, default="data/finetune_PRGS_test.json")
 parser.add_argument("--model", type=str, default="gemini-1.5-flash")
 args = parser.parse_args()
 
@@ -27,7 +27,14 @@ with open("prompts/reward_calc.txt") as f:
     reward_prompt = f.read()
 
 for d in tqdm.tqdm(todos):
-    output = generate_json([{"role": "user", "content": d["text_input"]}], model=args.model, step="writing-rewards-eval")
+    if args.model == "baseline":
+        if "pairwise" in d["sample_type"]:
+            output = {"preference": 1}
+        else:
+            output = {"score": 5}
+    
+    else:
+        output = generate_json([{"role": "user", "content": d["text_input"]}], model=args.model, step="writing-rewards-eval")
 
     with open(out_fn, "a") as f:
         f.write(json.dumps({"id": d["id"], "output": output}) + "\n")
