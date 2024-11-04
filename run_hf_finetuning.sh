@@ -1,0 +1,18 @@
+python hf_finetuning_zscore.py \
+  --model_name_or_path meta-llama/Llama-3.2-1B \
+  --token $HF_TOKEN \
+  --train_file data/finetune_R_train.json \
+  --validation_file data/finetune_R_test.json \
+  --per_device_train_batch_size 1 \
+  --per_device_eval_batch_size 1 \
+  --do_train \
+  --do_eval \
+  --max_seq_length 128 \
+  --learning_rate 3e-5 \
+  --logging_steps 100 \
+  --save_strategy epoch \
+  --eval_steps 300 \
+  --num_train_epochs 3 \
+  --cache_dir $HF_CACHE_DIR \
+  --output_dir ./llama_3.2_1b_results_parallel/ \
+  --overwrite_output_dir
