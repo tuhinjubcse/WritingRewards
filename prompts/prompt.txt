@@ -1,0 +1,13 @@
+You are given two pararaphs of creative writing for a given writing instruction.
+Your task is to determine which paragraph is overall better in terms of writing quality.
+
+Paragraph 1:
+[[PARAGRAPH1]]
+
+Paragraph 2:
+[[PARAGRAPH2]]
+
+You must produce your answer in the following JSON format:
+{"explanation" : "Paragraph 1|2 is better than 2|1 because..." , "preference": "1|2"}
+
+where `preference` should be "1" if you think Paragraph 1 is better, "2" if you think Paragraph 2 is better and `explanations` is your justification for your chosen preference. Do not output anything else.
