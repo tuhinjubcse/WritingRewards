@@ -1,7 +1,7 @@
 import json
 import numpy as np
 
-data_fn = "data/LAMP-extended.json"
+data_fn = "data/LAMP-train-val-test.json"
 
 with open(data_fn, "r") as f:
     data = json.load(f)
