@@ -1,4 +1,4 @@
-You are given two pararaphs of creative writing for a given writing instruction.
+You are given two pararaphs of writing for a given instruction.
 Your task is to determine which paragraph is overall better in terms of writing quality.
 
 Paragraph 1:
