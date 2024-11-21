@@ -1,3 +1,4 @@
+from utils_subdatasets import generate_subdatasets
 import argparse, json, random, itertools
 from collections import Counter
 
@@ -9,10 +10,15 @@ parser.add_argument("--include_pairwise_pref", action="store_true")
 parser.add_argument("--include_reward_scoring", action="store_true")
 parser.add_argument("--include_gold_pairwise", action="store_true")
 parser.add_argument("--include_silver_pairwise", action="store_true")
+parser.add_argument("--include_subedits", action="store_true")
 parser.add_argument("--reward_prompt_fn", type=str, default="prompts/reward_calc.txt")
+parser.add_argument("--skip_train", action="store_true")
+parser.add_argument("--skip_test", action="store_true")
 
 args = parser.parse_args()
 assert args.include_pairwise_pref or args.include_reward_scoring or args.include_gold_pairwise or args.include_silver_pairwise, "Must include either pairwise preference or reward scoring"
+
+assert not (args.include_subedits and args.skip_test), "Subedits are only generated for the test set"
 
 added_param = "_reward" if args.include_reward_scoring else ""
 
@@ -21,7 +27,7 @@ short_name = f"{'P' if args.include_pairwise_pref else ''}{'R' if args.include_r
 print("--------------------------------")
 print(f"Short name: {short_name}")
 
-out_files = f"data/finetune_{short_name}_[SPLIT].json"
+out_files = f"data/lamp_{short_name}_[SPLIT].json"
 
 with open(args.data_fn, "r") as f:
     lamp_data = json.load(f)
@@ -59,6 +65,12 @@ if args.include_pairwise_pref:
         elif d["data-split"] == "test":
             test_pairwise.append(sample1)
             test_pairwise.append(sample2)
+
+    if args.include_subedits:
+        test_data = [d for d in lamp_data if d["data-split"] == "test"]
+        subdatasets = generate_subdatasets(test_data)
+        for N_keep in subdatasets:
+            test_pairwise += subdatasets[N_keep]
 
 train_reward, val_reward, test_reward = [], [], []
 if args.include_reward_scoring:
@@ -160,11 +172,18 @@ random.shuffle(train_samples)
 random.shuffle(val_samples)
 random.shuffle(test_samples)
 
-with open(out_files.replace("[SPLIT]", "train"), "w") as f:
-    json.dump(train_samples, f, indent=2)
-
-with open(out_files.replace("[SPLIT]", "val"), "w") as f:
-    json.dump(val_samples, f, indent=2)
-
-with open(out_files.replace("[SPLIT]", "test"), "w") as f:
-    json.dump(test_samples, f, indent=2)
+if not args.skip_train:
+    outfile = out_files.replace("[SPLIT]", "train")
+    with open(outfile, "w") as f:
+        json.dump(train_samples, f, indent=2)
+    print(f"[{outfile}] {Counter([d['sample_type'] for d in train_samples])}")
+    
+    outfile = out_files.replace("[SPLIT]", "val")
+    with open(outfile, "w") as f:
+        json.dump(val_samples, f, indent=2)
+    print(f"[{outfile}] {Counter([d['sample_type'] for d in val_samples])}")
+if not args.skip_test:
+    outfile = out_files.replace("[SPLIT]", "test")
+    with open(outfile, "w") as f:
+        json.dump(test_samples, f, indent=2)
+    print(f"[{outfile}] {Counter([d['sample_type'] for d in test_samples])}")
