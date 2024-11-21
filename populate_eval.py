@@ -13,7 +13,8 @@ if os.path.exists(out_fn):
     with open(out_fn) as f:
         for line in f:
             d = json.loads(line)
-            already_pred_ids.add(d["id"])
+            if d.get("input_fn", "") == args.input_fn:
+                already_pred_ids.add(d["id"])
 
 with open(args.input_fn) as f:
     data = json.load(f)
@@ -26,15 +27,15 @@ with open("prompts/pairwise_pref.txt") as f:
 with open("prompts/reward_calc.txt") as f:
     reward_prompt = f.read()
 
-for d in tqdm.tqdm(todos):
+for d in tqdm.tqdm(todos, desc=f"{args.model} for {args.input_fn}"):
     if args.model == "baseline":
         if "pairwise" in d["sample_type"]:
             output = {"preference": 1}
         else:
             output = {"score": 5}
-    
+
     else:
         output = generate_json([{"role": "user", "content": d["text_input"]}], model=args.model, step="writing-rewards-eval")
 
     with open(out_fn, "a") as f:
-        f.write(json.dumps({"id": d["id"], "output": output}) + "\n")
+        f.write(json.dumps({"id": d["id"], "input_fn": args.input_fn, "output": output}) + "\n")
