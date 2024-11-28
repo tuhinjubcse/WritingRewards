@@ -4,8 +4,10 @@ import time, json, os
 # Initialize OpenAI client
 client = OpenAI(api_key=os.environ['OPENAI_API_KEY'])
 
-def prepare_training_data(json_file_path):
+def prepare_training_data(json_file_path, output_file_path):
     """Convert JSON data to OpenAI's fine-tuning format"""
+    assert json_file_path.endswith(".json"), "JSON file must have a .json extension"
+    assert output_file_path.endswith(".jsonl"), "Output file must have a .jsonl extension"
     with open(json_file_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
     
@@ -13,21 +15,18 @@ def prepare_training_data(json_file_path):
     formatted_data = [
         {
             "messages": [
-                {"role": "user", "content": item["input_text"]},
-                {"role": "assistant", "content": item["output_text"]}
+                {"role": "user", "content": item["text_input"]},
+                {"role": "assistant", "content": item["output"]}
             ]
         }
         for item in data
     ]
     
     # Save formatted data to a JSONL file
-    output_path = 'training_data.jsonl'
-    with open(output_path, 'w', encoding='utf-8') as file:
+    with open(output_file_path, 'w', encoding='utf-8') as file:
         for entry in formatted_data:
             json.dump(entry, file)
             file.write('\n')
-    
-    return output_path
 
 def create_fine_tune(training_file_path):
     """Create and monitor fine-tuning job"""
