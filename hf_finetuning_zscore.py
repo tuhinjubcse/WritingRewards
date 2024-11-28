@@ -397,6 +397,8 @@ def main():
         trust_remote_code=model_args.trust_remote_code,
         ignore_mismatched_sizes=model_args.ignore_mismatched_sizes,
     )
+    if "llama" in model_args.model_name_or_path.lower():
+        model.config.pad_token_id = tokenizer.pad_token_id
 
     '''
     # Preprocessing the raw_datasets
@@ -548,7 +550,7 @@ def main():
         train_dataset=train_dataset if training_args.do_train else None,
         eval_dataset=eval_dataset if training_args.do_eval else None,
         compute_metrics=compute_metrics,
-        # processing_class=tokenizer,
+        processing_class=tokenizer,
         data_collator=data_collator,
     )
 
