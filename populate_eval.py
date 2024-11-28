@@ -6,7 +6,13 @@ parser.add_argument("--input_fn", type=str, default="data/finetune_PRGS_test.jso
 parser.add_argument("--model", type=str, default="gemini-1.5-flash")
 args = parser.parse_args()
 
-out_fn = f"data/preds/preds_{args.model.replace('tunedModels/', '')}.jsonl"
+clean_model_name = args.model.replace("tunedModels/", "")
+if clean_model_name.startswith("ft:"):
+    clean_model_name = clean_model_name.split(":")[3] # suffix: gpt-4o-mini-2024-07-18:tobias-schnabel:lamp-4o-mini-p:AW87KsXz
+
+out_fn = f"data/preds/preds_{clean_model_name}.jsonl"
+# create folder if not exists
+os.makedirs(os.path.dirname(out_fn), exist_ok=True)
 
 already_pred_ids = set()
 if os.path.exists(out_fn):
