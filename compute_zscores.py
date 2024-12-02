@@ -1,5 +1,8 @@
-import json
-import numpy as np
+# This script preprocesses the LAMP dataset (as shared in https://arxiv.org/abs/2409.14509)
+# to compute z-scores for creativity scores and save the results to a new JSON file.
+# and to add an editor-based dataset split
+from collections import Counter
+import numpy as np, json
 
 data_fn = "data/LAMP-train-val-test.json"
 
@@ -28,6 +31,8 @@ editor_means, editor_stds = {}, {}
 for editor in editors:
     editor_means[editor] = np.mean(editor_scores[editor])
     editor_stds[editor] = np.std(editor_scores[editor])
+
+print(f"Editors: {editors}")
 
 for editor in sorted(editors, key=lambda x: editor_means[x]):
     print(f"{editor}: {editor_means[editor]:.2f} ± {editor_stds[editor]:.2f}")
@@ -60,6 +65,15 @@ for editor in editors:
 # calculate num samples where either pre or post scores have changed
 num_changed = len([d for d in data if d['creativity_z_score_post_int'] != d['creativity_post_score'] or d['creativity_z_score_pre_int'] != d['creativity_pre_score']])
 print(f"Number of samples where either pre or post scores have changed: {num_changed} / {len(data)}")
+
+# Now deal with editor-based splits
+# if editor number is even, put in test set, otherwise put in train set
+writer_split_key = "editor_split"
+for d in data:
+    editor_num = int(d["editor"][1:])
+    d[writer_split_key] = "test" if editor_num % 2 == 0 else "train"
+
+print(f"Editor split: {Counter([d[writer_split_key] for d in data])}")
 
 with open(data_fn, "w") as f:
     json.dump(data, f, indent=4)

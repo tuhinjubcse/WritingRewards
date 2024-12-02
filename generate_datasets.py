@@ -4,6 +4,7 @@ from collections import Counter
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--data_fn", type=str, default="data/LAMP-train-val-test.json")
+parser.add_argument("--split_key", type=str, default="data-split")
 parser.add_argument("--min_score_threshold", type=int, default=1.0)
 parser.add_argument("--pairwise_prompt_fn", type=str, default="prompts/pairwise_pref.txt")
 parser.add_argument("--include_pairwise_pref", action="store_true")
@@ -24,15 +25,20 @@ added_param = "_reward" if args.include_reward_scoring else ""
 
 short_name = f"{'P' if args.include_pairwise_pref else ''}{'R' if args.include_reward_scoring else ''}{'G' if args.include_gold_pairwise else ''}{'S' if args.include_silver_pairwise else ''}"
 
+if args.split_key == "editor_split":
+    short_name += "_editor"
+
+
 print("--------------------------------")
 print(f"Short name: {short_name}")
 
 out_files = f"data/lamp_{short_name}_[SPLIT].json"
 
+
 with open(args.data_fn, "r") as f:
     lamp_data = json.load(f)
 
-print(Counter([d["data-split"] for d in lamp_data]))
+print(Counter([d[args.split_key] for d in lamp_data]))
 
 with open(args.pairwise_prompt_fn, "r") as f:
     pairwise_prompt = f.read()
@@ -48,26 +54,26 @@ if args.include_pairwise_pref:
             continue
 
         # For now, include both orderings everytime
-        sample1 = {"original_id": d["id"], "split": d["data-split"], "source": d["source"], "type": d["type"], "sample_type": "pairwise", "paragraph1": d["preedit"], "paragraph2": d["postedit"], "reference_preference": "2"}
+        sample1 = {"original_id": d["id"], "split": d[args.split_key], "source": d["source"], "type": d["type"], "sample_type": "pairwise", "paragraph1": d["preedit"], "paragraph2": d["postedit"], "reference_preference": "2"}
         sample1["text_input"] = pairwise_prompt.replace("[[PARAGRAPH1]]", d["preedit"]).replace("[[PARAGRAPH2]]", d["postedit"])
         sample1["output"] = '{"preference": "2"}'
 
-        sample2 = {"original_id": d["id"], "split": d["data-split"], "source": d["source"], "type": d["type"], "sample_type": "pairwise", "paragraph1": d["postedit"], "paragraph2": d["preedit"], "reference_preference": "1"}
+        sample2 = {"original_id": d["id"], "split": d[args.split_key], "source": d["source"], "type": d["type"], "sample_type": "pairwise", "paragraph1": d["postedit"], "paragraph2": d["preedit"], "reference_preference": "1"}
         sample2["text_input"] = pairwise_prompt.replace("[[PARAGRAPH1]]", d["postedit"]).replace("[[PARAGRAPH2]]", d["preedit"])
         sample2["output"] = '{"preference": "1"}'
         
-        if d["data-split"] == "train":
+        if d[args.split_key] == "train":
             train_pairwise.append(sample1)
             train_pairwise.append(sample2)
-        elif d["data-split"] == "validation":
+        elif d[args.split_key] == "validation":
             val_pairwise.append(sample1)
             val_pairwise.append(sample2)
-        elif d["data-split"] == "test":
+        elif d[args.split_key] == "test":
             test_pairwise.append(sample1)
             test_pairwise.append(sample2)
 
     if args.include_subedits:
-        test_data = [d for d in lamp_data if d["data-split"] == "test"]
+        test_data = [d for d in lamp_data if d[args.split_key] == "test"]
         subdatasets = generate_subdatasets(test_data)
         for N_keep in subdatasets:
             test_pairwise += subdatasets[N_keep]
@@ -75,21 +81,21 @@ if args.include_pairwise_pref:
 train_reward, val_reward, test_reward = [], [], []
 if args.include_reward_scoring:
     for d in lamp_data:
-        sample3 = {"original_id": d["id"], "split": d["data-split"], "source": d["source"], "type": d["type"], "sample_type": "reward", "paragraph": d["preedit"], "zscore": d["creativity_z_score_pre_int"]}
+        sample3 = {"original_id": d["id"], "split": d[args.split_key], "source": d["source"], "type": d["type"], "sample_type": "reward", "paragraph": d["preedit"], "zscore": d["creativity_z_score_pre_int"]}
         sample3["text_input"] = reward_prompt.replace("[[PARAGRAPH]]", d["preedit"])
         sample3["output"] = '{"score": '+str(d["creativity_z_score_pre_int"])+'}'
 
-        sample4 = {"original_id": d["id"], "split": d["data-split"], "source": d["source"], "type": d["type"], "sample_type": "reward", "paragraph": d["postedit"], "zscore": d["creativity_z_score_post_int"]}
+        sample4 = {"original_id": d["id"], "split": d[args.split_key], "source": d["source"], "type": d["type"], "sample_type": "reward", "paragraph": d["postedit"], "zscore": d["creativity_z_score_post_int"]}
         sample4["text_input"] = reward_prompt.replace("[[PARAGRAPH]]", d["postedit"])
         sample4["output"] = '{"score": '+str(d["creativity_z_score_post_int"])+'}'
 
-        if d["data-split"] == "train":
+        if d[args.split_key] == "train":
             train_reward.append(sample3)
             train_reward.append(sample4)
-        elif d["data-split"] == "validation":
+        elif d[args.split_key] == "validation":
             val_reward.append(sample3)
             val_reward.append(sample4)
-        elif d["data-split"] == "test":
+        elif d[args.split_key] == "test":
             test_reward.append(sample3)
             test_reward.append(sample4)
 

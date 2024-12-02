@@ -27,13 +27,7 @@ with open(args.input_fn) as f:
 
 todos = [d for d in data if d["id"] not in already_pred_ids]
 
-with open("prompts/pairwise_pref.txt") as f:
-    pairwise_prompt = f.read()
-
-with open("prompts/reward_calc.txt") as f:
-    reward_prompt = f.read()
-
-for d in tqdm.tqdm(todos, desc=f"{args.model} for {args.input_fn}"):
+for d in tqdm.tqdm(todos, desc=f"{clean_model_name} for {args.input_fn.replace('data/', '').replace('.json', '')}"):
     if args.model == "baseline":
         if "pairwise" in d["sample_type"]:
             output = {"preference": 1}
