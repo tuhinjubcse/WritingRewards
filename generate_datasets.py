@@ -2,6 +2,8 @@ from utils_subdatasets import generate_subdatasets
 import argparse, json, random, itertools
 from collections import Counter
 
+random.seed(42)
+
 parser = argparse.ArgumentParser()
 parser.add_argument("--data_fn", type=str, default="data/LAMP-train-val-test.json")
 parser.add_argument("--split_key", type=str, default="data-split")
@@ -34,11 +36,11 @@ print(f"Short name: {short_name}")
 
 out_files = f"data/lamp_{short_name}_[SPLIT].json"
 
+if args.include_pairwise_pref or args.include_reward_scoring or args.include_gold_pairwise:
+    with open(args.data_fn, "r") as f:
+        lamp_data = json.load(f)
 
-with open(args.data_fn, "r") as f:
-    lamp_data = json.load(f)
-
-print(Counter([d[args.split_key] for d in lamp_data]))
+    print(Counter([d[args.split_key] for d in lamp_data]))
 
 with open(args.pairwise_prompt_fn, "r") as f:
     pairwise_prompt = f.read()
@@ -132,7 +134,23 @@ if args.include_gold_pairwise:
 
 
 if args.include_silver_pairwise:
-    with open("data/silver_preference_grammar.json", "r") as f:
+    # train side
+    silver_train_samples = []
+    for fn in ["data/silver_fiction_part1.json", "data/silver_fiction_part2.json"]:
+        with open(fn, "r") as f:
+            silver_train_samples += json.load(f)
+
+    silver_train_pairwise = []
+    for i, d in enumerate(silver_train_samples):
+        silver_train_pairwise.append({"original_id": f"silver-{i}", "paragraph1": d["Expert"], "paragraph2": d["AI"], "reference_preference": "1", "sample_type": "pairwise-silver", "split": "train", "source": "na", "text_input": pairwise_prompt.replace("[[PARAGRAPH1]]", d["Expert"]).replace("[[PARAGRAPH2]]", d["AI"]), "output": '{"preference": "1"}'})
+
+        silver_train_pairwise.append({"original_id": f"silver-{i}", "paragraph1": d["AI"], "paragraph2": d["Expert"], "reference_preference": "2", "sample_type": "pairwise-silver", "split": "train", "source": "na", "text_input": pairwise_prompt.replace("[[PARAGRAPH1]]", d["AI"]).replace("[[PARAGRAPH2]]", d["Expert"]), "output": '{"preference": "2"}'})
+
+    random.shuffle(silver_train_pairwise)
+    train_pairwise += silver_train_pairwise
+
+    # test side
+    with open("data/silver_preference_test.json", "r") as f:
         silver_data = json.load(f)
 
     silver_preference_data = []
