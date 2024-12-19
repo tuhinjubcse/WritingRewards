@@ -1,9 +1,10 @@
 from llms import generate_json # Tuhin: this is an equivalent to `anyllm` at Salesforce
-import json, argparse, os, tqdm
+import json, argparse, os, tqdm, multiprocessing
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--input_fn", type=str, default="data/finetune_PRGS_test.json")
 parser.add_argument("--model", type=str, default="gemini-1.5-flash")
+parser.add_argument("--n_workers", type=int, default=5)
 args = parser.parse_args()
 
 clean_model_name = args.model.replace("tunedModels/", "")
@@ -27,7 +28,7 @@ with open(args.input_fn) as f:
 
 todos = [d for d in data if d["id"] not in already_pred_ids]
 
-for d in tqdm.tqdm(todos, desc=f"{clean_model_name} for {args.input_fn.replace('data/', '').replace('.json', '')}"):
+def process_single_sample(d):
     if args.model == "baseline":
         if "pairwise" in d["sample_type"]:
             output = {"preference": 1}
@@ -39,3 +40,11 @@ for d in tqdm.tqdm(todos, desc=f"{clean_model_name} for {args.input_fn.replace('
 
     with open(out_fn, "a") as f:
         f.write(json.dumps({"id": d["id"], "input_fn": args.input_fn, "output": output}) + "\n")
+
+
+# for d in tqdm.tqdm(todos, desc=f"{clean_model_name} for {args.input_fn.replace('data/', '').replace('.json', '')}"):
+#     process_single_sample(d)
+
+# replace with multiprocessing still using tqdm
+with multiprocessing.Pool(args.n_workers) as pool:
+    list(tqdm.tqdm(pool.imap(process_single_sample, todos), total=len(todos), desc=f"{clean_model_name} for {args.input_fn.replace('data/', '').replace('.json', '')}"))
