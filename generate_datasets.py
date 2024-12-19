@@ -26,7 +26,11 @@ assert not (args.include_subedits and args.skip_test), "Subedits are only genera
 
 added_param = "_reward" if args.include_reward_scoring else ""
 
-short_name = f"{'P' if args.include_pairwise_pref else ''}{'R' if args.include_reward_scoring else ''}{'G' if args.include_gold_pairwise else ''}{'S' if args.include_silver_pairwise else ''}"
+S_tag = 'S' if args.include_silver_pairwise else ''
+if not args.skip_train:
+    S_tag += str(args.max_silver_train)
+
+short_name = f"{'P' if args.include_pairwise_pref else ''}{'R' if args.include_reward_scoring else ''}{'G' if args.include_gold_pairwise else ''}{S_tag}"
 
 if args.split_key == "editor_split":
     short_name += "_editor"
@@ -137,7 +141,7 @@ if args.include_gold_pairwise:
 if args.include_silver_pairwise:
     # train side
     silver_samples = []
-    for fn in ["data/silver_fiction_part1.json", "data/silver_fiction_part2.json"]:
+    for fn in ["data/silver_fiction_part1.json", "data/silver_fiction_part2.json", "data/silver_nonfiction.json"]:
         with open(fn, "r") as f:
             silver_samples += json.load(f)
 
@@ -148,7 +152,6 @@ if args.include_silver_pairwise:
         silver_pairwise.append({"original_id": f"silver-{i}", "paragraph1": d["Expert"], "paragraph2": d["AI"], "reference_preference": "1", "sample_type": "pairwise-silver", "split": d["split"], "source": "na", "text_input": pairwise_prompt.replace("[[PARAGRAPH1]]", d["Expert"]).replace("[[PARAGRAPH2]]", d["AI"]), "output": '{"preference": "1"}'})
 
         silver_pairwise.append({"original_id": f"silver-{i}", "paragraph1": d["AI"], "paragraph2": d["Expert"], "reference_preference": "2", "sample_type": "pairwise-silver", "split": d["split"], "source": "na", "text_input": pairwise_prompt.replace("[[PARAGRAPH1]]", d["AI"]).replace("[[PARAGRAPH2]]", d["Expert"]), "output": '{"preference": "2"}'})
-
 
     random.shuffle(silver_pairwise)
     val_pairwise += [d for d in silver_pairwise if d["split"] == "validation"]
