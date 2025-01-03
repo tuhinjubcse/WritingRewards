@@ -1,3 +1,4 @@
+from datetime import datetime
 from openai import OpenAI
 import time, json, os
 
@@ -62,6 +63,29 @@ def create_fine_tune(training_file_path):
 
     except Exception as e:
         print(f"An error occurred: {str(e)}")
+
+
+def track_job(job_id):
+    while True:
+        job_status = client.fine_tuning.jobs.retrieve(job_id)
+        if job_status.status == "running":
+            if not job_status.estimated_finish:
+                print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Status: {job_status.status}, Estimated completion: N/A")
+            else:
+                estimated_completion = datetime.fromtimestamp(job_status.estimated_finish)
+                print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Status: {job_status.status}, Estimated completion: {estimated_completion}")
+        else:
+            print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Status: {job_status.status}")
+        
+        if job_status.status in ['succeeded', 'failed']:
+            if job_status.status == "succeeded":
+                print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Fine-tuning job completed successfully")     
+                print(f"Model: {job_status.fine_tuned_model}")       
+            else:
+                print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Fine-tuning job failed")
+            break
+        time.sleep(60)  # Check status every minute
+
 
 def main():
     # Replace with your JSON file path

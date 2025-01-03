@@ -27,7 +27,7 @@ assert not (args.include_subedits and args.skip_test), "Subedits are only genera
 added_param = "_reward" if args.include_reward_scoring else ""
 
 S_tag = 'S' if args.include_silver_pairwise else ''
-if not args.skip_train:
+if args.include_silver_pairwise and not args.skip_train:
     S_tag += str(args.max_silver_train)
 
 short_name = f"{'P' if args.include_pairwise_pref else ''}{'R' if args.include_reward_scoring else ''}{'G' if args.include_gold_pairwise else ''}{S_tag}"
