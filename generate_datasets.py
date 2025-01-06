@@ -1,6 +1,8 @@
 from utils_subdatasets import generate_subdatasets
-import argparse, json, random, itertools
+import argparse, json, random, itertools, tqdm, Levenshtein
+from rouge_score import rouge_scorer
 from collections import Counter
+r_scorer = rouge_scorer.RougeScorer(['rouge1'], use_stemmer=True)
 
 random.seed(42)
 
@@ -140,22 +142,34 @@ if args.include_gold_pairwise:
 
 if args.include_silver_pairwise:
     # train side
-    silver_samples = []
-    for fn in ["data/silver_fiction_part1.json", "data/silver_fiction_part2.json", "data/silver_nonfiction.json"]:
-        with open(fn, "r") as f:
-            silver_samples += json.load(f)
+    silver_samples = {"fiction": [], "nonfiction": []}
+    silver_fns = {"fiction": ["data/silver_fiction_part1.json", "data/silver_fiction_part2.json"], "nonfiction": ["data/silver_nonfiction.json"]}
+    for category in silver_fns:
+        for fn in silver_fns[category]:
+            with open(fn, "r") as f:
+                silver_samples[category] += json.load(f)
 
-    silver_pairwise = []
-    for i, d in enumerate(silver_samples):
-        d["AI"] = d["AI"][:5000]
-        d["Expert"] = d["Expert"][:5000]
-        silver_pairwise.append({"original_id": f"silver-{i}", "paragraph1": d["Expert"], "paragraph2": d["AI"], "reference_preference": "1", "sample_type": "pairwise-silver", "split": d["split"], "source": "na", "text_input": pairwise_prompt.replace("[[PARAGRAPH1]]", d["Expert"]).replace("[[PARAGRAPH2]]", d["AI"]), "output": '{"preference": "1"}'})
+    silver_pairwise = {"fiction": [], "nonfiction": []}
+    for category in silver_samples:
+        for i, d in tqdm.tqdm(enumerate(silver_samples[category])):
+            d["AI"] = d["AI"][:5000]
+            d["Expert"] = d["Expert"][:5000]
 
-        silver_pairwise.append({"original_id": f"silver-{i}", "paragraph1": d["AI"], "paragraph2": d["Expert"], "reference_preference": "2", "sample_type": "pairwise-silver", "split": d["split"], "source": "na", "text_input": pairwise_prompt.replace("[[PARAGRAPH1]]", d["AI"]).replace("[[PARAGRAPH2]]", d["Expert"]), "output": '{"preference": "2"}'})
+            rouge = r_scorer.score(d["Expert"], d["AI"])["rouge1"].fmeasure
+            # lev = Levenshtein.ratio(d["Expert"], d["AI"])
+            
+            silver_pairwise[category].append({"original_id": f"silver-{i}", "category": category, "paragraph1": d["Expert"], "paragraph2": d["AI"], "reference_preference": "1", "sample_type": "pairwise-silver", "split": d["split"], "source": "na", "text_input": pairwise_prompt.replace("[[PARAGRAPH1]]", d["Expert"]).replace("[[PARAGRAPH2]]", d["AI"]), "output": '{"preference": "1"}', "rouge_score": rouge})
 
-    random.shuffle(silver_pairwise)
-    val_pairwise += [d for d in silver_pairwise if d["split"] == "validation"]
-    train_pairwise += [d for d in silver_pairwise if d["split"] == "train"][:args.max_silver_train]
+            silver_pairwise[category].append({"original_id": f"silver-{i}", "category": category, "paragraph1": d["AI"], "paragraph2": d["Expert"], "reference_preference": "2", "sample_type": "pairwise-silver", "split": d["split"], "source": "na", "text_input": pairwise_prompt.replace("[[PARAGRAPH1]]", d["AI"]).replace("[[PARAGRAPH2]]", d["Expert"]), "output": '{"preference": "2"}', "rouge_score": rouge})
+
+        # sort by increasing rouge-1 f1 score
+        silver_pairwise[category] = sorted(silver_pairwise[category], key=lambda x: x["rouge_score"], reverse=True)
+
+    val_pairwise += [d for d in silver_pairwise[category] for category in silver_pairwise if d["split"] == "validation"]
+
+    # for train, want 80% from fiction, 20% from nonfiction
+    train_pairwise += [d for d in silver_pairwise["fiction"]][:int(args.max_silver_train * 0.8)]
+    train_pairwise += [d for d in silver_pairwise["nonfiction"]][:int(args.max_silver_train * 0.2)]
 
     # test side
     with open("data/silver_preference_test.json", "r") as f:
@@ -170,7 +184,6 @@ if args.include_silver_pairwise:
         sample1["text_input"] = pairwise_prompt.replace("[[PARAGRAPH1]]", sample1["paragraph1"]).replace("[[PARAGRAPH2]]", sample1["paragraph2"])
         sample1["output"] = '{"preference": "1"}'
         silver_preference_data.append(sample1)
-
 
         sample2 = {"original_id": f"silver-{d['id']}", "paragraph1": d["AI"], "paragraph2": d["Expert"], "reference_preference": "2", "sample_type": "pairwise-silver", "split": split, "source": d["AI_source"]}
         sample2["text_input"] = pairwise_prompt.replace("[[PARAGRAPH1]]", sample2["paragraph1"]).replace("[[PARAGRAPH2]]", sample2["paragraph2"])
