@@ -1,0 +1,21 @@
+python hf_finetuning_pairwise.py \
+  --model_name_or_path meta-llama/Llama-3.2-1B \
+  --token $HF_TOKEN \
+  --train_file data/lamp_S8000_train_cleaned.json \
+  --validation_file data/lamp_S8000_val_cleaned.json \
+  --per_device_train_batch_size 1 \
+  --per_device_eval_batch_size 1 \
+  --do_train \
+  --do_eval \
+  --max_seq_length 1024 \
+  --learning_rate 3e-5 \
+  --logging_steps 50 \
+  --save_strategy steps \
+  --save_steps 2000 \
+  --eval_steps 2000 \
+  --eval_strategy steps \
+  --num_train_epochs 20 \
+  --cache_dir $HF_CACHE_DIR \
+  --output_dir ./llama_3.2_1b_pairwise_8k/ \
+  --load_best_model_at_end=True \
+  --overwrite_output_dir
