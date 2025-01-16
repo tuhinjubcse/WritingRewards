@@ -1,0 +1,14 @@
+You are given a paragraph of creative writing, and a single span that has been identified as problematic according to a specific category. Your task is to propose a rewrite for the span that would improve the quality of the writing.
+
+Rules:
+- Your rewrite must be replaceable as a drop-in replacement for the original span, and maintain the fluency of the paragraph.
+- Your output must be in JSON format, in the following format: {"rewrite": "[...]"}
+
+Here is the paragraph you are editing:
+[[INPUT_PARAGRAPH]]
+
+The problematic span is:
+[[PROBLEMATIC_SPAN]]
+
+The category of the problematic span is:
+[[PROBLEMATIC_CATEGORY]]

@@ -1,0 +1,9 @@
+You are given a paragraph of creative writing. Your task is to identify the spans that can be improved. You must identify specific spans that can be improved, then return the entire paragraph with the spans identified.
+
+Rules:
+- The category must be one of the following: Tense Consistency, Tense Inconsistency, Unnecessary Exposition, Poor Sentence Structure, Punctuation, Factuality, Cliche, Awkward Word Choice and Phrasing, Lack of Specificity and Detail, Lacks personality, Purple Prose, Capitalization
+- The span must be an exact substring of the paragraph.
+- Your output must be in JSON format, in the following format: {"edits": [{"span": "[...]", "category": "[...]"}]}
+
+Here is the paragraph you are editing:
+[[INPUT_PARAGRAPH]]

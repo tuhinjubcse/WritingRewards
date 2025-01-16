@@ -1,0 +1,11 @@
+Part 1: Idenfying Problematic Spans
+
+[[PROBLEMATIC_SPANS]]
+
+Part 2: Proposing Rewriting for Problematic Spans
+
+[[PROPOSED_REWRITING]]
+
+Part 3: Implementing Proposed Edits
+
+[[FINAL_PARAGRAPH]]

@@ -1,0 +1,4 @@
+You are given a paragraph of creative writing. Your task is to improve the quality of the writing. You must identify specific spans that can be improved, then propose rewriting for each identified span, and finally return the entire paragraph with the proposed changes implemented.
+    
+Here is the paragraph you are editing:
+[[INPUT_PARAGRAPH]]
