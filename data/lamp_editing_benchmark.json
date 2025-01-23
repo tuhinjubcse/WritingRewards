@@ -60,7 +60,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_1",
@@ -128,7 +140,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_2",
@@ -191,7 +215,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_3",
@@ -239,7 +275,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_4",
@@ -312,7 +360,19 @@
                 ],
                 "score": 8
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_5",
@@ -385,7 +445,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 2,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_6",
@@ -448,7 +520,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_7",
@@ -531,7 +615,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_8",
@@ -594,7 +690,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_9",
@@ -667,7 +775,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_10",
@@ -750,7 +870,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_11",
@@ -833,7 +965,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_12",
@@ -911,7 +1055,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_13",
@@ -994,7 +1150,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_14",
@@ -1087,7 +1255,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_15",
@@ -1140,7 +1320,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_16",
@@ -1213,7 +1405,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_17",
@@ -1281,7 +1485,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_18",
@@ -1349,7 +1565,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_19",
@@ -1407,7 +1635,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_20",
@@ -1525,7 +1765,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_21",
@@ -1598,7 +1850,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_22",
@@ -1741,7 +2005,19 @@
                 ],
                 "score": 4
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_23",
@@ -1824,7 +2100,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_24",
@@ -1902,7 +2190,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_25",
@@ -2000,7 +2300,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_26",
@@ -2083,7 +2395,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_27",
@@ -2156,7 +2480,19 @@
                 ],
                 "score": 8
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_28",
@@ -2224,7 +2560,19 @@
                 ],
                 "score": 8
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_29",
@@ -2282,7 +2630,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 2,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_30",
@@ -2345,7 +2705,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_31",
@@ -2398,7 +2770,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_32",
@@ -2511,7 +2895,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_33",
@@ -2574,7 +2970,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_34",
@@ -2637,7 +3045,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_35",
@@ -2730,7 +3150,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_36",
@@ -2798,7 +3230,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_37",
@@ -2886,7 +3330,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_38",
@@ -2939,7 +3395,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_39",
@@ -2987,7 +3455,19 @@
                 ],
                 "score": 4
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_40",
@@ -3095,7 +3575,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_41",
@@ -3183,7 +3675,19 @@
                 ],
                 "score": 8
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_42",
@@ -3246,7 +3750,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_43",
@@ -3324,7 +3840,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_44",
@@ -3427,7 +3955,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 2,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_45",
@@ -3505,7 +4045,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_46",
@@ -3588,7 +4140,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_47",
@@ -3646,7 +4210,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_48",
@@ -3709,7 +4285,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 0,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_49",
@@ -3782,7 +4370,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_50",
@@ -3835,7 +4435,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_51",
@@ -3918,7 +4530,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_52",
@@ -3996,7 +4620,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_53",
@@ -4049,7 +4685,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_54",
@@ -4117,7 +4765,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_55",
@@ -4190,7 +4850,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_56",
@@ -4263,7 +4935,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_57",
@@ -4336,7 +5020,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_58",
@@ -4399,7 +5095,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_59",
@@ -4457,7 +5165,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_60",
@@ -4555,7 +5275,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_61",
@@ -4623,7 +5355,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_62",
@@ -4691,7 +5435,19 @@
                 ],
                 "score": 8
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_63",
@@ -4749,7 +5505,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_64",
@@ -4822,7 +5590,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_65",
@@ -4885,7 +5665,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_66",
@@ -4938,7 +5730,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_67",
@@ -5016,7 +5820,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_68",
@@ -5079,7 +5895,19 @@
                 ],
                 "score": 4
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 2,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_69",
@@ -5172,7 +6000,19 @@
                 "text": "Arabella's feelings towards her husband had shifted slowly since the birth of their children, like sand gradually eroding a coastline. Where once there had been passion and shared dreams, now lay a landscape of piled-up dead sparks and cold water. She found herself both simultaneously welcoming and shrinking from his presence, caught in a paradox of needing his support while craving space. The sleepless nights and constant demands of parenthood had unearthed aspects of his character she hadn't anticipated\u2014his tendency to retreat when overwhelmed, his struggle to connect emotionally with their toddler. Arabella grappled with guilt over her own ambivalence, wondering if the distance between them was of her own making. She only glimpsed snatches of his joy, when he bounced baby Vera or when he brought home a bouquet of parsley. But those instances were increasingly rare, overshadowed by the daily grind of domesticity and the growing realization that they were going to be what they were. Arabella wondered if she was meant to simply accept what she had already accepted.",
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "lamp-4o-dnr__edited_lamp-4o-cot": 2
+        }
     },
     {
         "id": "gold_70",
@@ -5220,7 +6060,19 @@
                 "text": "The cr\u00e8me br\u00fbl\u00e9e pie offers a culinary sleight of hand, marrying the silky decadence of its namesake custard with the comforting familiarity of a pie crust. The individual ramekins are wiped off the counter, replaced by a single, generous vessel that invites sharing. The filling retains its classic vanilla-flecked charm, but the process is streamlined: no water bath required. Instead, the custard sets within its buttery confines, and the crisp crust and velvety center. The trademark caramelized top remains, though expanded to cover the entire surface, offering more of that coveted glass-like sugar shatter. Luxurious mouthfeel, too, is present, suggesting creamy richness even during the streamlined preparation. In essence, the cr\u00e8me br\u00fbl\u00e9e pie democratizes a once-elite dessert, removing the fuss and leaving the flavor.",
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "lamp-4o-dnr__edited_lamp-4o-cot": 2
+        }
     },
     {
         "id": "gold_71",
@@ -5268,7 +6120,19 @@
                 "text": "Ira's thoughts and feelings during the weekend with Bekka are a complex tapestry of love, guilt and desire to reconnect. He scans her, now a young woman, and marvels at how much she's grown, wondering if the years have simply evaporated. Ira attempts to engage Bekka in conversation. He asks about her life, her friends, and her dreams. But her replies are brief and guarded. He senses the distance between them, a chasm created by his own past mistakes and absence. To bridge that gap would make Ira the father he never has been. He plans activities he thinks she'll enjoy and hopes to create new memories to overshadow the ones he missed. Even in the moments of laughter and shared experiences, that sadness persists. He can't reclaim the lost time. He can't exchange what he's done and make it up to Bekka with some jokes and shared moments. As the weekend draws to a close, Ira knows that rebuilding their relationship will take more than a few days. He hugs Bekka tightly, silently vowing to be more present in her life, to listen more and to show up, even when it's hard. But how long, Ira wonders, will Bekka be willing to wait?",
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "lamp-4o-dnr__edited_lamp-4o-cot": 2
+        }
     },
     {
         "id": "gold_72",
@@ -5326,7 +6190,19 @@
                 "text": "Bangkok\u2019s Chinatown, Chinatown itself, and waterfront areas have seen a subtle yet impactful transformation, redefining the narrative of these historically significant neighborhoods. The introduction of sleek, modern public transport options like the MRT extension and revamped ferry services has stitched these areas closer to the city's main arteries. In Chinatown, for example, it has. Where once century-old shophouses struggled to find tenants or repair work, they're now finding new life as hip cafes and boutique hotels, blending tradition with contemporary comfort. Chinatown itself has welcomed culturally immersive experiences, with innovative workshops and galleries that invite visitors to engage deeply with local arts and crafts. Down by the waterfront, traditional food stalls now sit side by side with chic eateries that offer fresh, farm-to-table Thai cuisine. At first, these changes were resented by long-time locals who saw them as catering solely to tourists, however, these businesses have fostered vibrant communities where locals and visitors coexist and interact. How long this balance will be maintained remains to be seen however. Speculative investors are driving property prices up inexorably and fears are mounting that the quick buck of AirBnB style properties will take over and definitively alter the landscape and character of these neighborhoods for good.",
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "lamp-4o-dnr__edited_lamp-4o-cot": 2
+        }
     },
     {
         "id": "gold_73",
@@ -5419,7 +6295,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_74",
@@ -5502,7 +6390,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_75",
@@ -5585,7 +6485,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_76",
@@ -5648,7 +6560,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_77",
@@ -5701,7 +6625,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_78",
@@ -5759,7 +6695,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_79",
@@ -5842,7 +6790,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_80",
@@ -5910,7 +6870,19 @@
                 ],
                 "score": 4
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_81",
@@ -5978,7 +6950,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_82",
@@ -6051,7 +7035,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_83",
@@ -6109,7 +7105,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_84",
@@ -6182,7 +7190,19 @@
                 ],
                 "score": 4
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_85",
@@ -6290,7 +7310,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_86",
@@ -6373,7 +7405,19 @@
                 ],
                 "score": 8
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_87",
@@ -6461,7 +7505,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_88",
@@ -6539,7 +7595,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_89",
@@ -6592,7 +7660,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 0,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 2,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_90",
@@ -6660,7 +7740,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_91",
@@ -6743,7 +7835,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_92",
@@ -6801,7 +7905,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 1,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_93",
@@ -6879,7 +7995,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_94",
@@ -6977,7 +8105,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_95",
@@ -7050,7 +8190,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_96",
@@ -7108,7 +8260,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_97",
@@ -7201,7 +8365,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_98",
@@ -7289,7 +8465,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 2,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_99",
@@ -7352,7 +8540,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_100",
@@ -7410,7 +8610,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_101",
@@ -7473,7 +8685,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_102",
@@ -7556,7 +8780,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 2,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_103",
@@ -7644,7 +8880,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_104",
@@ -7692,7 +8940,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_105",
@@ -7740,7 +9000,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 2,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_106",
@@ -7793,7 +9065,19 @@
                 ],
                 "score": 8
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_107",
@@ -7876,7 +9160,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_108",
@@ -7969,7 +9265,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_109",
@@ -8027,7 +9335,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_110",
@@ -8070,7 +9390,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_111",
@@ -8143,7 +9475,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_112",
@@ -8236,7 +9580,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_113",
@@ -8284,7 +9640,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_114",
@@ -8362,7 +9730,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_115",
@@ -8445,7 +9825,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_116",
@@ -8508,7 +9900,19 @@
                 ],
                 "score": 8
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 0,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_117",
@@ -8586,7 +9990,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 2,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_118",
@@ -8679,7 +10095,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_119",
@@ -8767,7 +10195,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_120",
@@ -8880,7 +10320,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_121",
@@ -8958,7 +10410,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 2,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_122",
@@ -9031,7 +10495,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_123",
@@ -9104,7 +10580,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_124",
@@ -9157,7 +10645,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_125",
@@ -9225,7 +10725,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_126",
@@ -9293,7 +10805,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_127",
@@ -9351,7 +10875,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_128",
@@ -9419,7 +10955,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_129",
@@ -9497,7 +11045,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_130",
@@ -9580,7 +11140,19 @@
                 ],
                 "score": 4
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_131",
@@ -9658,7 +11230,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_132",
@@ -9751,7 +11335,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_133",
@@ -9829,7 +11425,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_134",
@@ -9887,7 +11495,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_135",
@@ -9955,7 +11575,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_136",
@@ -10048,7 +11680,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_137",
@@ -10131,7 +11775,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_138",
@@ -10224,7 +11880,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_139",
@@ -10302,7 +11970,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_140",
@@ -10385,7 +12065,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_141",
@@ -10448,7 +12140,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_142",
@@ -10526,7 +12230,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_143",
@@ -10604,7 +12320,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_144",
@@ -10672,7 +12400,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_145",
@@ -10750,7 +12490,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_146",
@@ -10843,7 +12595,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_147",
@@ -10891,7 +12655,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_148",
@@ -10959,7 +12735,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 2,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_149",
@@ -11027,7 +12815,19 @@
                 ],
                 "score": 4
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_150",
@@ -11140,7 +12940,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_151",
@@ -11253,7 +13065,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_152",
@@ -11351,7 +13175,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_153",
@@ -11414,7 +13250,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_154",
@@ -11477,7 +13325,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_155",
@@ -11545,7 +13405,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_156",
@@ -11608,7 +13480,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_157",
@@ -11671,7 +13555,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_158",
@@ -11744,7 +13640,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_159",
@@ -11837,7 +13745,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_160",
@@ -11960,7 +13880,19 @@
                 ],
                 "score": 4
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_161",
@@ -12013,7 +13945,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_162",
@@ -12106,7 +14050,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_163",
@@ -12184,7 +14140,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_164",
@@ -12247,7 +14215,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 1,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_165",
@@ -12305,7 +14285,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_166",
@@ -12378,7 +14370,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_167",
@@ -12496,7 +14500,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_168",
@@ -12559,7 +14575,19 @@
                 ],
                 "score": 4
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_169",
@@ -12712,7 +14740,19 @@
                 ],
                 "score": 3
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 2,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_170",
@@ -12760,7 +14800,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_171",
@@ -12813,7 +14865,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_172",
@@ -12956,7 +15020,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_173",
@@ -13009,7 +15085,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_174",
@@ -13062,7 +15150,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_175",
@@ -13180,7 +15280,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_176",
@@ -13273,7 +15385,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_177",
@@ -13361,7 +15485,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_178",
@@ -13494,7 +15630,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_179",
@@ -13562,7 +15710,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_180",
@@ -13640,7 +15800,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_181",
@@ -13713,7 +15885,19 @@
                 ],
                 "score": 8
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_182",
@@ -13786,7 +15970,19 @@
                 ],
                 "score": 3
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 1,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_183",
@@ -13864,7 +16060,19 @@
                 ],
                 "score": 4
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_184",
@@ -13917,7 +16125,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_185",
@@ -13980,7 +16200,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 2,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_186",
@@ -14048,7 +16280,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 0,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_187",
@@ -14116,7 +16360,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_188",
@@ -14189,7 +16445,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_189",
@@ -14262,7 +16530,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_190",
@@ -14325,7 +16605,19 @@
                 ],
                 "score": 4
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 0,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_191",
@@ -14388,7 +16680,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_192",
@@ -14471,7 +16775,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_193",
@@ -14549,7 +16865,19 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_194",
@@ -14617,7 +16945,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 0,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_195",
@@ -14695,7 +17035,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_196",
@@ -14773,7 +17125,19 @@
                 ],
                 "score": 7
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 1
+        }
     },
     {
         "id": "gold_197",
@@ -14871,7 +17235,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 2,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 2,
+            "fs_edited__edited_lamp-4o-cot": 0,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_198",
@@ -14934,7 +17310,19 @@
                 ],
                 "score": 5
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 0,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 2,
+            "human_edited__lamp-4o-dnr": 0,
+            "fs_edited__edited_lamp-4o-cot": 2,
+            "fs_edited__lamp-4o-dnr": 2,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 0
+        }
     },
     {
         "id": "gold_199",
@@ -14997,7 +17385,19 @@
                 ],
                 "score": 4
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     },
     {
         "id": "gold_200",
@@ -15070,6 +17470,18 @@
                 ],
                 "score": 6
             }
-        ]
+        ],
+        "pairwise_prefs": {
+            "ai_draft__human_edited": 2,
+            "ai_draft__fs_edited": 2,
+            "ai_draft__edited_lamp-4o-cot": 2,
+            "ai_draft__lamp-4o-dnr": 2,
+            "human_edited__fs_edited": 1,
+            "human_edited__edited_lamp-4o-cot": 1,
+            "human_edited__lamp-4o-dnr": 1,
+            "fs_edited__edited_lamp-4o-cot": 1,
+            "fs_edited__lamp-4o-dnr": 1,
+            "edited_lamp-4o-cot__lamp-4o-dnr": 2
+        }
     }
 ]
