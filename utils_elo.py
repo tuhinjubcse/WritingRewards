@@ -1,4 +1,5 @@
 from collections import defaultdict
+
 class EloRating:
     def __init__(self, k_factor=32, initial_rating=1500):
         self.k_factor = k_factor
