@@ -16,6 +16,7 @@ parser.add_argument("--include_reward_scoring", action="store_true")
 parser.add_argument("--include_gold_pairwise", action="store_true")
 parser.add_argument("--include_silver_pairwise", action="store_true")
 parser.add_argument("--include_subedits", action="store_true")
+parser.add_argument("--include_h_split", action="store_true")
 parser.add_argument("--reward_prompt_fn", type=str, default="prompts/reward_calc.txt")
 parser.add_argument("--skip_train", action="store_true")
 parser.add_argument("--skip_test", action="store_true")
@@ -32,7 +33,7 @@ S_tag = 'S' if args.include_silver_pairwise else ''
 if args.include_silver_pairwise and not args.skip_train:
     S_tag += str(args.max_silver_train)
 
-short_name = f"{'P' if args.include_pairwise_pref else ''}{'R' if args.include_reward_scoring else ''}{'G' if args.include_gold_pairwise else ''}{S_tag}"
+short_name = f"{'P' if args.include_pairwise_pref else ''}{'R' if args.include_reward_scoring else ''}{'G' if args.include_gold_pairwise else ''}{S_tag}{'H' if args.include_h_split else ''}"
 
 if args.split_key == "editor_split":
     short_name += "_editor"
@@ -139,7 +140,6 @@ if args.include_gold_pairwise:
     # this only goes to the test set
     test_pairwise += preference_data
 
-
 if args.include_silver_pairwise:
     # train side
     silver_samples = {"fiction": [], "nonfiction": []}
@@ -191,6 +191,32 @@ if args.include_silver_pairwise:
         silver_preference_data.append(sample2)
 
     test_pairwise += silver_preference_data
+
+if args.include_h_split:
+    fn = "data/expert_vs_MFA.json"
+    with open(fn, "r") as f:
+        h_data = json.load(f)
+
+    # it's all test-set data, pairwise
+
+    #     {
+    #     "expert_name": "Orhan_Pamuk",
+    #     "expert": "Twenty-three years before my father left me his suitcase, and four years after I had decided, at the age of twenty-two, to become a novelist, and, abandoning all else, shut myself up in a room, I finished my first novel, “Cevdet Bey and His Sons.” With trembling hands, I gave my father a typescript of the still unpublished novel, so that he could read it and tell me what he thought. I did this not only because I had confidence in his taste and his intellect; his opinion was very important to me because, unlike my mother, he had not opposed my wish to become a writer. At that point, my father was not with us, but far away. I waited impatiently for his return. When he arrived, two weeks later, I ran to open the door. My father said nothing, but he immediately threw his arms around me in a way that told me he had liked the book very much. For a while, we were plunged into the sort of awkward silence that often accompanies moments of great emotion. Then, when we had calmed down and begun to talk, my father resorted to highly charged and exaggerated language to express his confidence in me and in my first novel: he told me that one day I would win the prize that I have now received with such great happiness. He said this not because he was trying to convince me of his good opinion or to set the prize as a goal; he said it like a Turkish father, supporting his son, encouraging him by saying, “One day you’ll be a pasha!” For years, whenever he saw me, he would encourage me with the same words.My father died in December, 2002.",
+    #     "MFA": "It was the next night when my father returned to my little apartment and I, anxious for his arrival, waited at the same wobbling card table on which I wrote the unbound novel he held in his hands. It had taken me two years to write it, and in those two years, my mother had refused to read a page. During one of her morning visits over lukewarm tea, she’d said “If it’s writing you want, I fail to see how work in advertising won’t fulfill you.” It was her tone that foretold that in leaping and striving for these dreams, we may lose sight of the path that had been carved for us long before. But my father read the entire novel. He had asked to. And when he slammed the pages onto my table, in the harsh return to the site of their creation, I was certain he would insist I write no more. I allowed myself to believe that, in the moment of silence after the table steadied, my words were so inept they could not draw near the man who best knew me. I believed this until he embraced me. I did not realize until much later, far beyond the glances of accumulated days behind me, that his momentary silence was the struggle for his own words. “One day,” he eventually said. “One day, my son will be a famous author. A Nobel prize author. One day.” The loose pages on the desk were an off-white bond paper, and it is these pages I have kept and oftentimes return to, long after I titled the manuscript Cevdet Bey and His Sons, long after it was sold and published, long after my relocating to a larger apartment in Istanbul and my father’s passing seven years later in December, 2002. I return to the typed and blue-hashed pages not to read but to see what my father had seen, to see him seeing his son and all his promise.",
+    #     "expert_wc": 293,
+    #     "mfa_wc": 331
+    # },
+
+    for i, d in enumerate(h_data):
+        sample1 = {"original_id": f"h-{i}", "paragraph1": d["expert"], "paragraph2": d["MFA"], "reference_preference": "1", "sample_type": "pairwise-h", "split": "test", "source": d["expert_name"]}
+        sample1["text_input"] = pairwise_prompt.replace("[[PARAGRAPH1]]", sample1["paragraph1"]).replace("[[PARAGRAPH2]]", sample1["paragraph2"])
+        sample1["output"] = '{"preference": "1"}'
+        test_pairwise.append(sample1)
+
+        sample2 = {"original_id": f"h-{i}", "paragraph1": d["MFA"], "paragraph2": d["expert"], "reference_preference": "2", "sample_type": "pairwise-h", "split": "test", "source": d["expert_name"]}
+        sample2["text_input"] = pairwise_prompt.replace("[[PARAGRAPH1]]", sample2["paragraph1"]).replace("[[PARAGRAPH2]]", sample2["paragraph2"])
+        sample2["output"] = '{"preference": "2"}'
+        test_pairwise.append(sample2)
 
 
 for i, d in enumerate(train_pairwise):
