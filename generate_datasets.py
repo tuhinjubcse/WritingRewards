@@ -21,6 +21,7 @@ parser.add_argument("--reward_prompt_fn", type=str, default="prompts/reward_calc
 parser.add_argument("--skip_train", action="store_true")
 parser.add_argument("--skip_test", action="store_true")
 parser.add_argument("--max_silver_train", type=int, default=2000)
+parser.add_argument("--r_sig_figs", type=int, default=0)
 
 args = parser.parse_args()
 assert args.include_pairwise_pref or args.include_reward_scoring or args.include_gold_pairwise or args.include_silver_pairwise, "Must include either pairwise preference or reward scoring"
@@ -33,11 +34,13 @@ S_tag = 'S' if args.include_silver_pairwise else ''
 if args.include_silver_pairwise and not args.skip_train:
     S_tag += str(args.max_silver_train)
 
-short_name = f"{'P' if args.include_pairwise_pref else ''}{'R' if args.include_reward_scoring else ''}{'G' if args.include_gold_pairwise else ''}{S_tag}{'H' if args.include_h_split else ''}"
+r_tag = 'R' if args.include_reward_scoring else ''
+r_tag += f"sg{args.r_sig_figs}" if args.r_sig_figs > 0 else ""
+
+short_name = f"{'P' if args.include_pairwise_pref else ''}{r_tag}{'G' if args.include_gold_pairwise else ''}{S_tag}{'H' if args.include_h_split else ''}"
 
 if args.split_key == "editor_split":
     short_name += "_editor"
-
 
 print("--------------------------------")
 print(f"Short name: {short_name}")
@@ -91,13 +94,19 @@ if args.include_pairwise_pref:
 train_reward, val_reward, test_reward = [], [], []
 if args.include_reward_scoring:
     for d in lamp_data:
-        sample3 = {"original_id": d["id"], "split": d[args.split_key], "source": d["source"], "type": d["type"], "sample_type": "reward", "paragraph": d["preedit"], "zscore": d["creativity_z_score_pre_int"]}
-        sample3["text_input"] = reward_prompt.replace("[[PARAGRAPH]]", d["preedit"])
-        sample3["output"] = '{"score": '+str(d["creativity_z_score_pre_int"])+'}'
 
-        sample4 = {"original_id": d["id"], "split": d[args.split_key], "source": d["source"], "type": d["type"], "sample_type": "reward", "paragraph": d["postedit"], "zscore": d["creativity_z_score_post_int"]}
+        output_pre_score = str(d["creativity_z_score_pre_int"])
+        output_post_score = str(d["creativity_z_score_post_int"])
+        if args.r_sig_figs > 0:
+            output_pre_score = f"{d['creativity_z_score_pre']:.{args.r_sig_figs}f}"
+            output_post_score = f"{d['creativity_z_score_post']:.{args.r_sig_figs}f}"
+        sample3 = {"original_id": d["id"], "split": d[args.split_key], "source": d["source"], "type": d["type"], "sample_type": "reward", "paragraph": d["preedit"], "zscore": d["creativity_z_score_pre"], "zscore_int": d["creativity_z_score_pre_int"]}
+        sample3["text_input"] = reward_prompt.replace("[[PARAGRAPH]]", d["preedit"])
+        sample3["output"] = '{"score": '+output_pre_score+'}'
+
+        sample4 = {"original_id": d["id"], "split": d[args.split_key], "source": d["source"], "type": d["type"], "sample_type": "reward", "paragraph": d["postedit"], "zscore": d["creativity_z_score_post"], "zscore_int": d["creativity_z_score_post_int"]}
         sample4["text_input"] = reward_prompt.replace("[[PARAGRAPH]]", d["postedit"])
-        sample4["output"] = '{"score": '+str(d["creativity_z_score_post_int"])+'}'
+        sample4["output"] = '{"score": '+output_post_score+'}'
 
         if d[args.split_key] == "train":
             train_reward.append(sample3)
