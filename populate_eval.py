@@ -2,7 +2,7 @@ from llms import generate_json # Tuhin: this is an equivalent to `anyllm` at Sal
 import json, argparse, os, tqdm, multiprocessing
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--input_fn", type=str, default="data/finetune_PRGS_test.json")
+parser.add_argument("--input_fn", type=str, default="data/lamp_PRGSH_test.json")
 parser.add_argument("--model", type=str, default="gemini-1.5-flash")
 parser.add_argument("--r_mode", action="store_true", help="use R-mode for pairwise samples")
 parser.add_argument("--n_workers", type=int, default=5)
