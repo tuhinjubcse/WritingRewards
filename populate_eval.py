@@ -1,4 +1,5 @@
 from llms import generate_json # Tuhin: this is an equivalent to `anyllm` at Salesforce
+from model_skywork import SkyworkRewardModel
 import json, argparse, os, tqdm, multiprocessing
 
 parser = argparse.ArgumentParser()
@@ -8,9 +9,16 @@ parser.add_argument("--r_mode", action="store_true", help="use R-mode for pairwi
 parser.add_argument("--n_workers", type=int, default=5)
 args = parser.parse_args()
 
+
 clean_model_name = args.model.replace("tunedModels/", "")
 if clean_model_name.startswith("ft:"):
     clean_model_name = clean_model_name.split(":")[3] # suffix: gpt-4o-mini-2024-07-18:tobias-schnabel:lamp-4o-mini-p:AW87KsXz
+
+is_reward_model = "skywork" in args.model.lower()
+if is_reward_model:
+    model = SkyworkRewardModel(model_name=args.model)
+    clean_model_name = args.model.split("/")[-1]
+    args.n_workers = 1
 
 if args.r_mode:
     clean_model_name += "-rmode"
@@ -42,6 +50,15 @@ def process_single_sample(d):
     sample_type = "pairwise" if "pairwise" in d["sample_type"] else "score"
     if args.model == "baseline":
         output = {"preference": 1} if sample_type == "pairwise" else {"score": 5}
+    elif is_reward_model:
+        if sample_type == "pairwise":
+            # we need to generate a reward for each paragraph, and then compare them
+            reward_1 = model.score(d["paragraph1"])
+            reward_2 = model.score(d["paragraph2"])
+            pref = 1 if reward_1 > reward_2 else (2 if reward_2 > reward_1 else 0)  # tie if equal
+            output = {"reward_1": reward_1, "reward_2": reward_2, "preference": pref}
+        else:
+            output = {"score": model.score(d["text_input"])}
     elif args.r_mode and sample_type == "pairwise":
         # we need to generate a reward for each paragraph, and then compare them
         reward_1 = generate_json([{"role": "user", "content": reward_calc_prompt}], model=args.model, step="writing-rewards-eval", variables={"PARAGRAPH": d["paragraph1"]}, max_tokens=num_tokens)
