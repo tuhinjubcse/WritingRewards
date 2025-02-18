@@ -1,0 +1,718 @@
+{
+    "The Kingdom That Failed": {
+        "Patrick Wing": {
+            "Story1": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The story had a unity in a single scene that made it understandable. The inner thoughts of the narrator, and the spoken words of Q made it clear to the reader what was happening."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "There was nothing distinctive about the choice of words and phrasing, and if there was any literary allusion, it was lost on me. In particular, the way Q spoke on the phone felt contrived, and not the way a realistic one-half of a phone call would sound."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The ending did not feel abrupt, in that the narrator’s observation of Q ended in a natural way after his phone call and after he left the pool area. However, the conclusions the narrator reaches in the final paragraph seem somewhat grand and overblown, in an effort to introduce some complicated philosophical ideas. It isn’t obvious that these profound ideas follow naturally from what the narrator described."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "I thought there was a good balance between the events playing out in real time, i.e. the narrator’s observation of Q, and Q’s phone call on one hand, and the narrator’s reflection on his past experiences and memories with Q."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "I think this is the problem that needs the most attention in this story. The narrator’s conclusions about Q’s troubles, including the way he has traded stress and worry for material success don’t seem to follow from his brief encounter in this scene, glimpsing him across the pool. Perhaps the point is supposed to be that the narrator’s imagination is carrying him away to assumptions of his own making, but it is not clear to the reader that this should be the case. The narrator’s conclusions about Q’s life, which thus are meant to lead to larger philosophical questions, feel contrived and don’t seem to follow from the scene he is observing. How does he know about all the details of Q’s life?"
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "I think there is nothing much surprising about what happens in the story. The actions of Q seem appropriate, but nothing very surprising."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The perspective of the narrator is the single perspective, and he fills in the perspective of Q for the reader. Q’s perspective is unknown to the reader, beyond the conversation he has on the phone."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "There is a good balance; the reader can imagine what is happening at the poolside, what Q is doing, what he looks like, and at the same time the reader understands what the narrator is thinking."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "There is nothing very original here. The structure is pretty flat and predictable."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The main idea seems to be that seemingly successful people deal with hard things. This does not seem like an original idea."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "It is original, if not terribly interesting. I think the author manages to avoid cliche for the most part, although the grander philosophical takeaways, particularly in the last paragraph are pretty overwrought."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "There is not much to suggest what the place looked or felt like. It isn’t even really clear where this is taking place; a hotel pool presumably, but the story would benefit from more sensory description."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Q’s character feels contrived though the narrator’s description, but it isn’t clear to the reader how the narrator knows so much about Q’s life and thoughts if he hasn’t seen him or talked with him for such a long time."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "The meaning seems to be all on the surface, and mainly from the narrator telling the reader what the meaning is. It does not make for a very satisfying story, as meaning isn’t discerned from the non-narrative elements of the story."
+                }
+            },
+            "Story2": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The story fits together logically. The chronology of events is clear, and the author’s main points are understandable."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "There is nothing very distinctive about the language usage. It is difficult to place exactly where the narrator is from, or even if the narrator is a man or a woman. The author does not employ metaphor or literary allusion to any real effect."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The end of the story feels somewhat abrupt, because of the amount of time and events that have been compressed and passed over vaguely in the second half of the story. While the description of the encounter at the pool is quite vivid, the events that follow are not, and it is difficult to know what these people were doing or talking about. The ending thus feels abrupt and unsatisfying."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "As I mention in the prior question, the events of the second half of the story are too compressed. There is a balance between stretching at the beginning, and compression toward the end, but the compression does not effectively serve the story, because presumably the details of the characters’ relationship are important."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "More detail is needed to fully understand how the characters’ relationship developed after their first encounter."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The fact that the old friends reconnected after the uncertainty that the narrator felt about it was somewhat surprising and interesting. After this point, there is not much in the way of tension or surprising developments."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The reader only has the perspective of the narrator. Everything about Q is mediated through their description and summary of their activities."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "There is a good balance between the description of events at the pool and the narrator’s own thoughts. Again, however, there is not enough detail in the second part of the story for the reader to become very emotionally invested in the relationship."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The structure of the story is not remarkable."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The author’s main idea that friendship can survive the test of time despite the twists and turns of time is not an especially original or interesting idea."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The author does rely on cliches and some formulaic language (e.g. “I couldn’t help…”, “rekindle,” “twists and turns,” etc.)"
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, at the beginning of the story. The author does a good job of evoking the feeling of being at the pool, e.g. being warmed by the sun, the lapping of the water, the flickering lights as it got dark, etc. The second part of the story is vaguer, and these kinds of details are lacking."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Q’s character is not fully developed. We don’t know anything about the specific struggles he faced, how he has overcome them, or much at all about his character and personality."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "Most of the meaning of the story is on the surface, conveyed directly to the reader by the narrator. The reader is told the meaning in a way that is less interesting than discovering it through other literary means."
+                }
+            },
+            "Story3": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "I say this only because I am unclear about how the first two paragraphs about the fish and the kingdom that failed fit together with the rest of the story. Aside from these two first paragraphs, the story develops logically and the relationship of characters to the events described are clear. After reading the story, I found the published version online, and understand that the final paragraph has been left out here. Only with that final paragraph are the first two paragraphs understandable."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "The voice of the narrator is distinctive, particularly at the beginning with the description of the fish in the stream. The author does make effective use of metaphor (“fog of insincerity,” “dead-end street”)."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The end of the story feels natural, even if the action ends abruptly. The reader is in suspense about whether Q will recognize the narrator, and the resolution of this suspense is satisfying."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The period in the past when Q and the narrator were students together is well-paced, we get a good idea about who Q was, and this is balanced with the details of the encounter in the present with Q and the woman at the pool."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Even though the author summarizes the conversation between Q and the woman, it is done in a way that doesn’t leave out relevant detail, and gives some depth to Q’s personality. To write out the entire conversation would have become tedious."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The woman throwing the coke in Q’s face is both surprising and appropriate (or understandable), given what we know about the circumstances of their relationship. The ending is also surprising, or at least, filled with tension, as we don’t know whether Q will recognize the narrator. The fact that he doesn’t seems perfectly reasonable."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Q’s perspective is evident through the discomfort we understand he feels at having to give the woman the bad news. She is also somewhat complex, even as she is a minor character, as she seems both sympathetic to Q’s role, while also resentful of his inability (or unwillingness) to help her."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The reader gets a good balance of description of events at the pool, along with flashback to past memories, and the narrator’s own thoughts about Q in the moment."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, in the sense that the beginning is curious and interesting. However, it is not well connected to the rest of the story. The structure of the story is fairly straightforward."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "The contrast between the way the narrator remembered Q, which is pretty idealized and untainted, and the embarrassing scene at the pool, including Q’s seeming uncertainty about how to handle his conversation with the woman, is interesting and will likely provoke some reflection and thought in many readers about how our memories from our youth compare with reality."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "It is original and the writer avoids using cliches."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "The author uses little details to make scenes vivid and believable. For example, the coke stain on the narrator’s book, and the woman yanking the seat of her bikini."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "Each character feels properly developed, particularly in the way Q’s present reality seems removed from the memory the narrator has of him."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "Q is awkward, uncertain, and flawed, even as he is being described as quite flawless by the author."
+                }
+            },
+            "Story4": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "For the most part the story holds together in a coherent and unified way. However, the ending is confusing, it wasn’t clear to me what the calamity was that Q was undergoing here."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "The author does a good job of evoking a sense of the people and circumstances surrounding Q through allusion (e.g. “thick socks and mahogany cable-knit sweaters”) and metaphor (“levers and gears on which the world operates”).  These kinds of expressions don’t become too forced or awkward."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending was abrupt and confusing. It wasn’t clear to me how Q was “grappling for his own survival” in the conversation with the woman. The narrator walks away, but the stakes of Q’s conversation, or even what is actually happening in the final scene, are not clear."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The author balances details from the past with a sweep of time so that the details suggest larger truths about Q’s life without saying them explicitly. For example, the shared car rides with the narrator, and Q showing his mother’s journals, offer glimpses of moments within a larger compression of time in the past."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "I thought there was a good balance between the details of the scenes and the narrator’s reflections on them."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The narrator recognizing Q, deciding to talk to him, and then deciding not to built suspense and tension, and led to the surprising result of the narrator deciding not to talk with him. This seemed appropriate, given the distance that had grown over time between the narrator and Q."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "Q’s perspective is hard to know, especially with the vagueness of the description of what was happening at the end of the story."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story is tipped too far to the narrator’s interior thoughts. I was left wondering what Q was actually saying to the woman he was talking to."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "I don’t think the form and structure are particularly original."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "I think the average reader will be challenged to think about the ways relationships change over time, how memory can provide idealized versions of people which are not reality."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The author’s language is original, there are some very nice sentences and word choices, and not many cliches (“his hands splayed out, his arms akimbo, his fingers tapping in a frenzy, attempting to keep time with the crumbling rhythm of his ultimate downfall;” “posters illustrating the topography of wheat production in the era of Charlemagne”)."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "There is a good deal of sensory detail, particularly in the description around the pool, from the box the narrator’s sandwich came in, to the cloud of billowing chlorine, to “lavish wicker furniture and fragrant bougainvillea.” These details are specific and memorable."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The woman Q is talking to is not developed at all. Not only are her personal characteristics unclear, but it also is not clear what is even happening in the scene the narrator describes about Q and the woman."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "A good example is the narrator’s description of Q as a golden boy in his youth, reflected in others’ opinions of him, set alongside Q’s insincerity and lack of control over his circumstances at the pool."
+                }
+            }
+        },
+        "Jennifer Whitaker": {
+            "Story1": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "No; the story does follow a logical path from beginning to end, but it's so based in these thoughts from the narrator that it doesn't allow space for much of any awareness of scene or character. Yes, we get dialogue (well, monologue) from Q being overheard on the phone, but he talks like a stereotype of Corporate Person (which, in and of itself, isn't necessarily a problem for the story, if that were \"part\" of the story--that Q fits into the stereotypes that our narrator has about a high-level Wall Street person. But it isn't in this draft.)."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "No; the story does use a few idioms (e.g., \"like two ships passing in the night\"), and appropriately, but that would just signal to me that the narrator or speaker in either a first-language speaker of English or is otherwise fluent in English as a non-first language (rather than revealing anything about a deeper insight into character, etc.). I did find the \"like two ships\" idiom sort of funny in the context of the story being set at a pool? but that's about it. Otherwise, idiom/metaphor/allusion doesn't do anything to deepen the story for me as a reader."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "No; the ending does feel natural given the trajectory of the story overall, but it also doesn't feel like it offers anything more than a very cursory sense of \"closure\" for the story. The narrator is pretty much just tying a bow on what the story itself has been saying the whole time: Even those who appear super successful can struggle. I mean, it's true, of course, but forgettably described here because the ending is so preachy."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; while this story's pacing doesn't add much to the story, I don't think it really gets in its way, either. There's no suspense built or tension created, but the way the backstory between the narrator and Q is meted out feels appropriate enough in terms of proportion of the story and where it comes (so early in the story)."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "No. I guess technically there is scene here because there's a smidge of setting presented (at the pool), but otherwise, this man could be being watched by his old friend any place and it wouldn't seem to make any difference to the story as its written now. Pacing on the side of the road? Pacing in a hotel hallway? Pacing at a 7-Eleven? It'd all be the same as what we have now for all the good to scene is doing us, I believe. Plus, there's an awful lot of exposition from this narrator, which frankly just gets tedious by para. 8 or so."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, the story is exceedingly predictable; the only turn I felt was at the beginning of the last paragraph with the narrator's assertion that he \"left the pool comforted\"; at first, it seemed a little cold of a reaction for him to have when witnessing his past friend's struggle--but then when he described why, it felt very predictable given the tenor of the rest of the piece."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, if the story is successful anywhere, I think it's probably here in at least telling us (if not showing us) that appearances aren't always what they seem, etc. In this way, it could serve as a reminder for readers that every human is complex. Also, a lot of times, it seems that seemingly super successful people aren't looked at with a lot of compassion or sympathy, and this story does complicate that notion somewhat."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No. I'll give it to this narrator, he's very comfortable letting us see him think, but us seeing his thinking doesn't do much in the way of fleshing out characters or themes. Almost nothing actually *happens* in the action of the story here--which, in and of itself, could be totally fine! but the story doesn't tackle anything of the nuance that could come from the sort of modern/postmodern situation of watching someone you used to know struggling and doing nothing to interact/intervene/etc. It's a weird kind of voyeurism, which could be super interesting in the hands of a different writer, but here it just seems a bit boring."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "No. The only unconventionality here seems to be in...the lack of closing quotation marks? Seriously, there's nothing particularly compelling for me as a reader in the language, style, or voice here, and nothing to make this narrator memorable or notable."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "No; here again, I think it could serve as a (somewhat trite) reminder that People Are People no matter their profession or seeming status--but I cannot imagine this story being anything that the reader would remember even a few minutes after reading it. This is partly because of the heavy interiority of the narrator (in ways that are pretty milquetoast) and partly because it presents a pretty accepted idea in a very mundane way."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "No; while it isn't *quite* an established cliche maybe, there are too many descriptions of the weight on Q's shoulders from immense pressure of his job to feel believable. I found by the third time or so that this was described, I was getting antsy and rolling my eyes. It seems like a real narrator would think or comment on different things, not just the shoulders over and over again. This might seem like a small quibble, but in a short piece, such an overfocus on one kind of description feels really weird unless the narrator has an issue with shoulders that is revealed later."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "No; as above, this story is nearly devoid of any world-building or description that would make it feel real. Especially at a pool--I pictured this as an indoor pool, but I don't even know that--there are SO MANY OPTIONS for making the dang thing feel real! The humidity! The contrast between what Q is wearing and being at a pool (potentially--but I don't even know!)! The way his voice would echo (if it is, indeed, an indoor pool)! etc. etc. It feels like such a missed opportunity here."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, I will begrudgingly say that the story passes this test, I suppose. Both of our narrator and Q are pretty flat, but since it seems like the whole \"point\" of the story is to get to how we're all part of the same struggles, etc. etc., it does feel like Q and the narrator are rounded out enough to do what they need to here. As above, there is such an understandable distance in this case between the narrator and Q and a bit of flimsyness to the character makes sense; any time we observe or even quasi-interact with someone with whom we were close but aren't any longer presents the challenge of seeing them as somewhat \"less real\" than we ourselves are."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No, there's no subtext at all here; it's all text-text. The narrator REALLLLLY wants to make sure we understand the \"moral of the story\" here and so doesn't let there be any room for...well, anything except exactly what's being overtly described."
+                }
+            },
+            "Story2": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "No, this story collapses under the weight of what the narrator has to tell us about capital L Life. If the story hadn't resorted to so much exposition at the end, I think it could've been saved, but as it is, it languishes at the level of stalling out once the pool scene is over, and the pool scene itself seems like just a tool to give us the rekindling of the friendship, just to give the narrator the chance to wax poetic on the nature of people and friendships, etc."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "No, the use of idiom and metaphor just feels ordinary here and not facets that develop the characters or story further. It mean, it'd be pretty weird to have deep literary allusions in a story like this, but some metaphors could spice things up, or some idioms in the actual mouths of these characters could at least make them seem more real."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "No, there's nary a shining thing to say about this ending, I'm afraid. It's so heavily explanatory and moral-y that I just read it, and I can barely tell you what it said. The last 9 paragraphs as a whole feel like they're throat-clearing to the ending, and then when we finally get there, it feels like it's just recapitulation."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this doesn't do much for the story overall, but it does feel appropriate. I don't understand why so much after the pool scene is glossed, but that relates more to scene v summary, which comes up next, so I'll hold onto that criticism for a moment. For what this story is trying to do I think, the pacing I think works sufficiently."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "No. The hyper-chronological progress of this story makes it feel like it's all washed out. The opening of the story, with its description and details starting in paragraph 2, make it seem like it's maybe going to let us see these characters rather than just being told about them...but that falls away pretty quickly, and then everything just stays at a cursory level of explanation once the opening pool scene is dispatched with."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, the only thing that seems surprising about this story isn't that the narrator and Q don't end up in a romantic relationship or something by the end. (This might have been me trying to build tension where there kind of wasn't any, but the description of Q \"still exud[ing] that same confidence and magnetism that had made him so irresistible back in college\" coupled with the fact that the narrator seems very attuned with his individual features--his lips, his eyes, etc., made me think the narrator was potentially seeing Q as a love interest. I think I just reallllly wanted something to be at stake here.)"
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No; while I found the narrator to be unlikable for the sheer fact that they didn't seem to care about telling a story in a compelling way, that feels like a petty reason to dislike a character, and it wasn't due to the way the character was crafted particularly. There isn't a lot of diverse perspective presented here in the story at all."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No; while I think the first bit of the story (the pool scene) is gives it much potential, the story overall feels pretty emotionally flat. We're told by the narrator that there's this deep feeling and kinship between the narrator and Q, but it doesn't seem \"felt\" by the characters in the ways it's described."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "No, this story doesn't offer much in the way of form and/or structure. I mean, it has a structure, of course--but it isn't one that feels well considered and chosen, but instead one that is expected and overly chronological."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "No, I don't think the story would offer readers a unique or original idea or perspective. I *almost* answered yes here, because I think it could offer a reader some comfort in the idea of nostalgia or rekindling friendships from years' past or whatever, but there's nothing about the way this story is written that packages this idea in a meaningful or memorable way. I had such high hopes based on the beginning! But alas."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "No, this is a big no from me. The most egregious paragraph in this regard was, for me, \"As the seasons changed, our friendship blossomed, intertwining our lives in the most unexpected ways. We became each other's steady rocks, offering support during times of uncertainty. We were there to celebrate each other's successes, and to lift each other up during moments of defeat.\" Boo! There's nothing in this entire paragraph that feels unique, original, or compelling. \"Friendship blossom[ing]\" and \"each other's steady rocks\" were the cliches that sent me round the bend. Nope nope nope."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, although there's nothing super notable about the world here, the beginning half or so at the pool does contain lots of descriptions that make me believe the narrator is really there; the sound of the laughter, putting on the sunglasses, the lights turning on at dusk, etc. make this all feel pretty real."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "No. The woman from the beginning, overheard conversation seems to be just a pawn to show us that Q struggles and to give the narrator the opportunity to observe Q without interacting. By the end, Q just seems to be a sort of stock character to let the narrator have these \"realizations\" and let us see the hand of fate bringing old friends back together."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No, I don't think there's enough subtext--or really any balance of the surface and subtext--to make this story rewarding for the reader. It feels like every idea/instinct/message/thought that comes into this narrator's head about the topic of Friendship and Q is told to us flat-out, so that it denies the reader the opportunity to arrive at any understanding ourselves."
+                }
+            },
+            "Story3": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, and oh my gosh, I'm so grateful to have gotten to this story when I did! What a joy it was to read! It was engaging and finely written, and by the end (though the very end itself felt a little underwhelming for me), it felt like a satisfying portrait of a past relationship brought into the present. The conceit of the eavesdropping works well here, and while I have literally no idea what's happening between the first two paragraphs and the rest (or what connection to draw from the first two paragraphs), it puzzles me and makes me think and I am so grateful for that!"
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, these idioms are used in exactly the way they should be--to give us a glimpse into the speaker/narrator and to contribute to these being real, complex people. Some standout ones were \"pocket money\"; the use of \"anyhow\" as a transition; and \"right on the mark.\" This made me feel like it was a real story populated with real people, written by a real person."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; while the actual final 2 sentences of the story were a little flat for me, ending with the un-realized interaction between Q and the narrator felt satisfying and right for the story overall, and how we get there seems like it was well earned by the writer. And that we stay in scene right up until those last two sentences? Yes and yes and yes."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this was well handled. Again, with the exception of the fairytale-like intro of the first two paragraphs, the story feels exceedingly well put together and measured. There aren't details here that feel stalled out or gratuitous."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this is beautifully done as well. When the story drifts into exposition or summary, it feels strategic and necessary. The scenes themselves feel like they're approached by the writer with patience and grace, letting them unfold in an interesting way."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this is well handled here I think. I'll get more to the first two paragraph issue in a moment, but the \"turn\" between those and the third paragraph are the only potentially problematic one I see; the rest of the turns feel well in keeping with the world and story that's being created. It's perhaps an \"easy\" turn, but the Coke-in-the-face moment made me actually, audibly gasp; it's set up well and executed well to boot."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, these feel like real, actual, interesting people to me (mostly the narrator, of course, since that's who we find out most about here). His description that \"[Q] almost never studied for exams, but he never failed a course. He really listened to the lectures\" feels so honest and dear, and the fact that this is a narrator who would have noticed that Q \"really listened to the lectures\" feels like genuine compassion and interest in another person. Also, the imagined dialogue of \"I lent you salt, remember?\" \"Hey, that’s right, and I borrowed a bottle of salad dressing\" made me actually laugh out loud. This is a narrator who I'd want to hear much, much more from."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the balance between exteriority and interiority here is really well handled. What the narrator holds back versus what he shares is beautifully measured, and through his descriptions and observations of Q, I feel that I come to really care for this narrator."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the language and style here are notable, and I suppose we could toss in some points for genre flexibility as well. As above, the speaker/narrator here feels distinct and compelling without becoming caricature, and this narrator (through the writer's use of voice, diction, and pacing) seems infinitely likable, which I believe can make the \"ideas\" of the story go down a little easier. (More on this in a moment.)"
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "I think I've decided that, for me as a reader, the first two paragraphs (the fairytale paragraphs) read like an epigraph to the story itself, which, if this were the case, would get rid of the problem of the lack of transition there and shift in voice. I'm a sucker for fairytales, and so I'll admit that anything that plays with that genre is automatically interesting for me. But what I think makes this actually work well, though, is that way that the seeming at-odds-ness of the first two fairytale paragraphs with most of the rest of the story; the only other part of the story that gives me an inkling that there's something else at work here is when the narrator says, \"Whenever I try to tell anyone about Q—to describe him as a person—I feel totally helpless. I’ve never been very good at explaining anything, but, even taking that into account, it’s a special challenge to try to explain Q to someone. And when I do try I’m overcome by a deep, deep sense of despair.\" The stakes here seem SO HIGH--out of measure for the task, at least with what we know about the narrator and Q so far. It's a weird detail, and one that I'm really intrigued by. The story itself has the quality of having been translated--expertly, down to the easy use of idioms--from a language other than English. The syntax itself feels like syntax borrowed from a non-English language, too, though I could be wrong here, of course."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this story feels really free from cliches for me. As above, the idioms are really well executed and feel like they're in the voice of our speaker, so that they make him feel real and engaging."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, yes, a thousand times yes. Not only does this world feel believable, but it's so compellingly described that I'd want to live in this world! And one of the real strengths of this story, I believe, is the way that the story forces the reader, upon finishing it, to return to the beginning to consider: How on earth does this connect back to the failed kingdom from the beginning? It's skillfully and thrillingly handled."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "Yes! Although I have never done this in the past, I would pay good money to be friends with this narrator! And through his descriptions of Q and their world, I feel like we get a sense of the complexity not only of Q, but even of random attractive bikini woman."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this is expertly done! It is partially accomplished, I'd argue, by the seeming mismatch of the fairytale paragraphs/epigraph and the story itself (which I think lends a striking reading of the story once it's finished). The rest of the subtext comes from the peculiar and lovely way this narrator observes, analyzes, and interacts with his world."
+                }
+            },
+            "Story4": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "No, this story has many moments of wonderful realism and delight, but there's such a forced way the thing is written that it mitigates those momentary thrills. There's a sort of chaotic bent to this narrator's descriptions of the world, and partly because of that, it makes the story itself feel sort of messy and all over the place."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "No, the idioms here end up tripping into cliches too easily or strained to the point of breaking. What in some cases could look like attention to detail and a kind of quirky use of language descends into a farce of an actual story."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "No, this ending feels like the height of a sort of unhinged rambling on the part of the narrator. As the story progresses, it feels like this narrator becomes less and less human, if that makes sense? What starts as sort of eccentric descriptions or details early in the story becomes almost incomprehensible strings of words that no actual human would put together."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, I think the pacing here in the story is generally successful. The time compression and places for expansion are well-enough handled and the pacing in general feels appropriate for the story."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the balance of scene and summary seems appropriate here, even if much of the scene-making itself feels super strange. (I'm thinking particularly of the following description, so odd that I can't stop thinking about it: \"At lunchtime, fueled by a nostalgic curiosity, I found myself drawn to the pool area. I had brought a humble sandwich with me, housed within a small box that seals with a slight, airtight pop upon being opened. The poolside seating area was tiled with mesmerizing blue oblongs the size of postage stamps, the patterns of which continued up the sturdy pillars supporting the roof overhead. // In the clear water, a wispy white cloud of chlorine billowed serenely out of a small cluster of pipes.\" What the what? It's all *so* weird.)"
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, not for me. The turns here don't feel well supported by the story itself or by the narrative moves throughout, and the surprises for me are in the sort of alien-realm descriptions that anything that seems consciously decided."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, I end up thinking the story does pass the test here, though it's a hard sell. But ultimately, I am wooed by details (again, early) like Q being \"president\" of the university's badminton club, and how \"[Q] showed me his mother's journals in his room.\" There's such nuance and backstory to moments like these, and even though it seems like an algorithm was culling countless bits of data to come up with something as nonsensical as \"I realized that Q in private was much the same as the man who squired the daughters of university senators around the leaf-twined paths of the arboretum,\" I think there's a quality of diverse perspectives that is present here."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, there isn't what feels like real emotion in too many places here, and as above, the descriptions of the exterior events are chilling to the point of androidness. An exception, for me, is the description \"the dim lighting of which lent everyone the same air of soft romance as they glided across the scuffed gymnasium floor.\" This is tactile and nuanced and appeals to so many senses. I love it! but it isn't enough to salvage the rest."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "No, while there's unusualness to the structure and style, and certainly unexpectedness throughout for the reasons I've mentioned already, it doesn't seem to unfold in ways that feel well considered or planned, or even guided by writer at work."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, I actually do think the reader could gain some sort of original or exploration of different thoughts here. This mainly, for me as a reader comes in through moments such a this one: \"The sort of daily coincidence that holds friendships together easily unravels into silence once you no longer share the same spaces.\" That's *so* smartly said and interesting! It's not just for that moment, but it's moments like that here that make me feel like it could present the reader with new information, despite the oddity here throughout."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "No, there are a fair number of cliches here that end up making the story seem even more \"unreal.\" A particularly offish moment for me was this one: \"yet deep within my heart, I never felt that a distance had truly grown between us. He was often on my mind, like a specter that I could never entirely shake.\" Nah. It's both not original and also feels like a throw-away line."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "No, and this is perhaps where things with this story get the weirdest: the details here are often so specific that even the most peculiar person wouldn't I think, come up with this particular combination of words. My favorites for their bizarreness include: \"the walls of which were dominated by posters illustrating the topography of wheat production in the era of Charlemagne\" and \"I met Q's eyes and smiled warmly. He smiled back, as insincerely as I can ever remember smiling at another soul.\" A-MAZING, but not in a satisfying way. \n\nAnd then there's this harrowing description, which made the hairs on the back of my neck stand up: \"There were matters of an alchemical nature in that room that cannot now bear thinking of shudderingly, those languid thoughts, so commonplace at the time, floating through my mind as my weary eyes closed at night: a cramped bunk room for two, my arms gripping a dove-grey blanket as I shivered in the biting cold, watching him across a single narrow aisle in which a pair of socks would be lucky to cross paths and not become hopelessly entangled.\" I can't look away, in a train-wreck sort of way. HAUNTING."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "No; while I absolutely adore some of this narrator's descriptions, the characters as a whole feel computer generated. Moments that I thought were really successful include this description, which was really arresting: \"I watched as the first of a flock of elderly women in bathing suits ambled over, followed by those who had learned to swim in the forties in decadent poolside cabanas accompanied by lavish wicker furniture and fragrant bougainvillea, and finally, the worldly men drawling out the final syllables of the high life.\" But in general, these characters felt either so over the top as to be meaningless (as in the case of the narrator), or fairly one-dimensional (as with Q)."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No; there is MUCH going on here, but I don't feel that any of it rises to the level (or, falls to the level?) of subtext. Moments that I thought could be forecasting subtext early (e.g., \"inexplicably drawn to him, forever in his debt,\" the mother's letters part, the way the narrator feels only he can see Q for who he really was) end up never paying off."
+                }
+            }
+        },
+        "Connor Greer": {
+            "Story1": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The narrative here primarily unfolds internally, but it unfolds in a way which does not interrupt forward motion. At no point does it double-back on itself. It is linear and clear."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "Though the prose is relatively restrained and pleasingly subtle, it consistently relies on cliches and idioms to create its characters, setting, and general meaning. For instance: “We were now like two ships passing in the night, our lives fragmented into separate chapters”.  It also leans heavily on very broad descriptions of characters and events in lieu of specifying those characters or their world."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending is unsatisfying. It wraps up the thought process which makes the story into an easy bow where the narrator’s assumptions are not meaningfully challenged or reconsidered, only superficially. There is no disquiet here: “I left the pool comforted, realizing I was not alone in that lifelong struggle. Our shared humanity still bound us, despite the distance between us.” It is also relatively absurd—I cannot imagine, frankly, an encounter with a friend like this which would not give me some degree of pause about the nature of living."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The pacing is fine here. The story moves elegantly into and out of internal monologue, using insertions from the conversation Q has with his colleague to signal transitions into and out of scene. It is effective. The problem is not ht bones, but the meat."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "This is an internal story. It does not and cannot follow a traditional balance between scene and summary. It exists mostly within the mind of its narrator, overhearing a conversation. The narrator offers the reader moments of description of the scene around them. These are welcome and well-paced. The story’s sense of its structure is keen. The problem is the tropes and cliches it leans on to fill that structure."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story is clear about its direction from the beginning and at no point offers surprises, turns, or changes. It packages its narrator’s conclusions without complexity and indicates from the beginning how this transformation will occur. Its attempts at foreshadowing or creating narrative are clumsy and poorly considered: “I squinted, trying to place him. It couldn't be. After all these years, was it really—?”"
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "Broadly speaking both major characters in this store feel unconvincing and very vaguely defined. Worse, their characterizations are often inconsistent—for instance, how does Q’s idealism, perhaps his most commented on trait, align with his decision to pursue corporate life? This potential disjuncture is never commented upon, and indeed his “stature” as a corporate figure is never seen as potentially at odds with his and the narrator’s earlier vision for life."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The narrative possesses limited depth and is unable to depict emotional complexity. There is an interesting potential subtext here, where the story is able to show that the narrator is unable to think in a non-binary fashion about Q, but instead the binary thought-process is unremarked upon, implicitly or explicitly."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The narrative follows a clear trajectory as I noted before. Its internality is appealing to me as a kind of story, but it isn’t particularly uncommon. It fits amid a broad category of contemporary short story."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "As I noted above, the story contains very little complexity in its thinking and does not seem to be a metacommentary on itself. Instead, it feels like a collection of cliches. It generally states outright what could be implied: “My assumptions about Q's perfect and enviable life had been challenged today, reminding me that no one, not even the seemingly invulnerable Q, had life all figured out. “"
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The trajectory here is taken out of a book of tropes. For Q, it can be summarized in this sentence: “The idealistic, bright-eyed Q I once knew seemed to have vanished, replaced by this weary and worn down version”. I have read stories like this before. The trope is not complicated by what is on the page."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "There are some attempts at creating a scene here in spite of the internality. I appreciate those attempts, though they are rare. For instance, “…faint lines now etched his forehead and framed the edges of his tired eyes”. In the end, however, they are a bit too rare and the story mostly dwells in a realm of broad statements and cliches."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The story wants for its reader to believe that its narrator undergoes a transformation by virtue of seeing Q again. However, that transformation is so vague and broad that its conclusions, as I talked about in describing the ending, are difficult to swallow."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "There are attempts at subtext, especially in moments when the story allows Q’s dialogue to speak without then summarizing or stating outright what is being implied: \"No, that claim is unfair and completely inappropriate. I have never made an important decision without careful consideration of all possible consequences and outcomes. I would never intentionally damage our company or harm people's livelihoods. I have always respected your leadership and appreciated your counsel. There's no need for threats or attacks on my integrity. Let's remain civil and professional.” However, moments like this where the situation is not then immediately summarized and restated by the narrator are very rare and the themes and conclusions the reader is expected to see or draw out are always spelled out in blunt and simplified terms."
+                }
+            },
+            "Story2": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The story makes sense. It follows a linear trajectory, for better or worse. Though the narrative is extraordinarily broad, at no point does it stumble in making itself understood."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The story consistently uses cliches and very broad language. It rarely employs imagery or sophisticated language, instead relying on very broad statements. What imagery there is feels robotic. For instance: “His usually perfect poise cracked…” or “We weathered storms and celebrated triumphs…”"
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending of the story is, frankly, ridiculous. It follows a bizarre and rapid temporal fast-forward which is so vague it challenging to accept even within the frame of the story. Perhaps the issue is deeper, that the narrative fundamentally lacks conflict and so its ending, which is also the peak of its non-conflict, feels all the more ridiculous."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The early part of the narrative is paced in a relatively normal fashion, but when the story begins to make temporal leaps after the narrator and Q reconnect, its pacing loses all sense of coherence. It move quickly and vaguely and proves impossible to accept on any terms. For instance, “As the seasons changed, our friendship blossomed, intertwining our lives in the most unexpected ways.”"
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "The story stays almost entirely in summary. Even in the early portions, when there is a vague sense of a scene by the pool between the narrator and Q, it is unable to conjure the specifics of the scene confidently. It then loses the thread completely and floats in very broad summary which spans years: “We became each other's steady rocks, offering support during times of uncertainty. We were there to celebrate each other's successes, and to lift each other up during moments of defeat.”"
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The narrative follows a standard trajectory—in-scene beginning followed by temporal jump. This can work as a structure, but here it is so broad that it cannot hold weight."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "Though the story is largely internal, the narrator’s voice avoids all specificity. This results in a story which feels impersonal and imprecise precisely when it should feel the opposite. The narrator has no complexity and the possible nuance in Q’s trajectory as a figure is done-away with as soon as the narrator meets him again in earnest."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The narrative is largely unable to convey emotion. Again, the broadness and lack of complexity creates a sense of overwhelming and one-note positivity, shattering any complexity that might be found in the characters or their relationship with each other."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The rapid temporal jumps have the potential to be formally interesting, but this choice is not in and of itself particularly inventive and unfortunately, in practice, it reads mostly as a failure to stay in-scene or specify the narrative environment."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The themes here largely resolve around the power of friendship, like a television program for children, but without even the nuance and complexity that might be found there. Instead, friendship is something only uplifting, only positive. It is saccharine: “Q encouraged me to rekindle my old passions, to chase after the dreams I had almost forgotten. With his unwavering support, I took risks, explored different career paths, and embraced new opportunities. He reminded me of the person I used to be, the person I could still become.”"
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The story is told through cliches. Instead of complexity, nuance, or specificity, it relies in cliches to create familiarity and meaning. For example, “We became each other's steady rocks…” or “ Our friendship became a shelter from life's storms…”"
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "The story is so broad in both its characterization and its attempt at depicting or creating a sense of place that it feels like it floats. While there are some minor sensory details in the early paragraphs near the pool, they quickly fade out entirely."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Both the narrator and Q are given minimal texture and the extent of the depiction of their relationship is that knowing each other is positive. There is no development. In a certain sense, it is challenging to call them characters."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "There is no subtext here. What occurs in the story is told outright. There is no subtlety, no implications, and nothing is left to stand on its own."
+                }
+            },
+            "Story3": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The story has a strange logic. It doesn’t follow a traditional narrative line, but it still feels intentional. There is a trajectory and an allegory being drawn between the kingdom in the opening lines and the encounter with the friend."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "The language here is fun, bizarre, and compelling. It initially feels like a child wrote it. The kingdom in the opening paragraphs is a striking image, unexpected as a way to start a story. Why is there a kingdom in the stream? I love that."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The story ends abruptly, but humorously. At first, it felt inappropriate, but on a second reading it ties to the image of the kingdom in the opening paragraphs. It is an oblique connection, but a satisfying one."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The flow between scenes doesn’t quite make sense, narrative pacing is bizarre and moves around all over the place, but it feels intentional. If it were broken up into sections, it might make more sense and have a clear implied rhythm. But maybe I am projecting. The story uses transition markers with some elegance, though they are also somewhat annoying: “Their conversation took another turn into a dead-end street”. I feel inclined to trust it."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Story does a good job moving between scene and summary and mixing them in unique and exciting ways. Though the logic is perhaps abnormal, especially in the motion from the narrator at the stream in the story’s beginning to being beside the pool with Q in the bulk of the story, each “section”, and so each internal set of summaries, is given a tangible frame. The scene itself, with Q and the woman, is low on detail, but it isn’t needed so much because the narrative space is maintained clearly and cleanly."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The structure is the most exciting part of the story. It doesn’t follow a traditional plot, exactly, rather it jumps from narrative space to narrative space and creates narrative out of the comparisons the reader draws between those jumps. It’s a smart structure."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The voice is flat and deadpan, but it offers some degree of ambiguity. I do not feel I am meant to believe exactly everything that is said and I understand that the narrative occurs, in part, outside of the prose and in-between it. When the dialogue is insincere, which feels like a failure on the story’s part, this is instead acknowledged by the story and incorporated into it. An annoying choice, but an effective one."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Again, the story shows dexterity in moving between scenes, visions, images. The kingdom in the beginning paragraphs frames the narrative and it is through the comparison that meaning is produced. The comedy of the story—the spilling of the coke, the ruining of the paperback, the lack of recognition at the story’s end—exists within a melancholy, a sense of tragedy, drawn out from that image."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "As I said, the structure here is the most exciting part of the story to me. It moves between images and scenes with confidence, expecting and demanding that the reader follow its logic. It does not spell out its changes or nuances."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "The narrative refuses easy answers and relies on the reader to complete it, to tease out the comparison being made between the kingdom the narrator witnesses at the story’s start and the narrator’s apprehension of Q’s life trajectory."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The story avoids cliche and easy answers. It works through implied meaning and comparison, which usually is successful in this respect as a narrative strategy and that is no less true here."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Strong setting, though it is not exactly realism, the story is grounded in Japan and in the world as I understand it, the same world that I live in as indicated by references to artists, novelists, and specific places. Though a soft touch is used in describing the particular scene the characters occupy, it doesn’t matter because the logic of the story doesn’t demand particular textures in that respect."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "These character are not exactly three-dimensional, but they are not asked to be. They also aren’t exactly flat. Because the story doesn’t follow realist principles, there is no demand for the characters to appear “alive” to me in a traditional sense. Rather, because the story relies on coyness and sleight-of-hand, the characters are able to feel alive via implication and language play."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "The structure creates this sense of doubling and as I have said a number of times now the story mostly exists in the space between images and the way the reader reads those spaces and those images in relationship to each other. In this sense, the meat of the story is in its subtext."
+                }
+            },
+            "Story4": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The narrative moves haphazardly forward and neither the temporal jump in the story’s middle nor the ending feel coherent. Both interrupt the narrative flow and seem to happen arbitrarily."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The story uses over-the-top language and consistently relies on cliches to create images or, more accurately, to take the place of images. For instance: “a humble sandwich”; “mesmerizing blue oblongs”; “They were idyllically ensconced in a world of overpriced suntan lotion and La Mer creams…”"
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending is abrupt and poorly considered. The story ends without finishing or fully entering the scene which feels like it is supposed to be the meat of the narrative. More frustratingly, the observation the ending hinges on—“After all those years, our friendship had become faint, weathered at the edges and drenched in the muted melancholy of time's relentless march, forever consigned to the past”—does not make sense to me or connect meaningfully to the scene which precedes it. Rather it seems to assume a progression or trajectory in the narrative which does not actually occur on the page."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The pacing is challenging here. The temporal details help convince that the pacing isn’t inappropriate, but the rapid jumps and failure to slow the narrative down when in-scene prove the piece’s undoing."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "The story stays almost entirely in summary. The attempt to shift into scene causes the story to stumble. It ends before hitting the scene’s stride. There is no dialogue. Everything is paraphrased."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "While the structure is unpredictable insofar as the narrative makes unexpected decisions, the contents and implications of these decisions are not unexpected—the temporal shift, the rapid scene summary—only the implementation."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The narrator’s diction is strange and off-putting. It reads like a parody of a WASP, which is funny considering the narrator’s qualms with Q are related to Q’s sense of self-importance and ingrained power, the rhetorical characteristics of which he displays in his own speech. There are moments where the voice feels alive, like when the narrator says “I sometimes wonder if he was ever close to anyone” but they are too rare."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The narrative is almost entirely internal and told through paraphrase.Unfortunately, it struggles to imbue its voice with emotional texture or complexity. Instead, it says outright what could be better implied and it does so in cliched terms, without nuance."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The form is unexpected in its shifts, but clumsy. Had it been able to give each section a precise image to put in conversation, perhaps this structure would have been effective, but it currently feels lost and uncertain."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "There is not much of a theme here—friends drift apart? But Q and the narrator don’t seem to have meaningfully been friends. The story lacks nuance and at the same time is thematically inconsistent and confusing."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The story struggles to articulate or investigate complicated ideas, instead it appears to attempt to paper over its simplicity through its overwrought language. This fails."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "While there are attempts at specificity, both in setting and in the depictions of the characters lives—for example, “…furiously chain-smoking Malaysian girls to the privileged offspring of fifth-generation alums wearing thick socks and mahogany cable-knit sweaters” or “They were idyllically ensconced in a world of overpriced suntan lotion and La Mer creams…”—the world being described feels inconsistent and the in-scene work so vague and ill-formed that it never comes together as a living place."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The characters do not show growth or change on the page. There are changes which are telegraphed, but only outright. Without implication or subtlety, character growth is challenging to impart on a reader in a convincing way."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "There is no second layer. What is written is what is meant and nothing is left off the page as far as I can tell. Dialogue is avoided."
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,718 @@
+{
+    "Barbara,Detroit,1996": {
+        "Jon Michael Darga": {
+            "Story1": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "There was a clear beginning, middle, and end to the story that worked together cohesively. The beginning of the story featured Barbara at the service, the middle featured the gunman arriving, and the end featured the pull back to what happened after and the \"reveal\" of the narrator's relationship with Barbara."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "The story makes use of these but not necessarily accurate use -- for example, fresh paint is compared to \"vanilla,\" although I can't think of anybody who would actually say that paint smells anything like vanilla. Descriptors like \"hair like a nest of copper wiring\" and \"both hands beneath her belly as if she were holding a large salad bowl\" are more accurate while still evocative."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The story tied up all previous narrative and emotional threads of the story, including \"revealing\" the narrator. We find out that Barbara had the child, her relationship with her family afterwards, and that she recently passed."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "There is a \"flash forward\" near the end to show Barbara in the \"modern day,\" but it's done to illuminate the events of the story. The rest of the story goes in-depth on the shooting and feels like it happens in \"real time."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "It's a bit tricky -- the story is told as a fictional character telling the story, so there are moments where the story is summarized but it's done in relation to the narrator's focus and voice, which is part of the story. Overall, the effect seemed intentional."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The reveal of the gunman was surprising and appropriate. There aren't really any other turns; we know that the story is being told by somebody who's not Barbara, and once the gunman is introduced it's certainly expected that he'd use the gun."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The story provided a convincing perspective, although it sounded like the author might perhaps be trying too hard to convey a stylized \"voice\" by addressing the reader. (\"That’s Barbara in the third row from the back of the sanctuary, the one with the sunglasses holding up her tangle of orange hair, see her?\") It doesn't work because aside from that first paragraph, the reader isn't addressed again, so it's inconsistent."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "We get a clear sense of Barbara as well as the external events that are occurring around her. We know that she's bored because we hear the droning of the rabbi, we know that she's hungry because she's thinking about chewing on her neighbor's shoe, and even when the events are described (like the shooter's rant) we still get it filtered through Barbara's perspective. (We know that he's ranting, but not what he's saying.)"
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "The story is clearly trying to be original by giving the narrator a unique style and voice, as if the narrator is having a conversation with the reader. (I provided an example of this earlier.) However, the form is not consistently applied throughout the story."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "Not really -- it's clearly meant to touch on themes of radicalism, racism, anti-Semitism, etc. but the story is too short and moves past things too quickly to get any real meaningful sense of anything. There is a touching moment near the end where it's revealed that Barbara fights to see the humanity in the shooter rather than just painting him as a monster, but the moment isn't given much weight or detail."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "I wouldn't say that the piece is without any clichés, but it's truly difficult for anything to be wholly original from start to finish. I didn't think that clichés were a problem here -- but am answering the question asked. The very concept of a shooter entering a synagogue could be argued to be cliché, but that's because it happens not infrequently in real life."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "As mentioned previously, the writer clearly intended and put effort into engaging the reader's senses, but the sensory details provided (fresh paint smelling like vanilla) sometimes felt jarringly inaccurate. Or, for example, Barbara's hunger leading her to think about chewing on her pewmate's high-heeled shoe -- wouldn't she simply imagine something that she really wants to eat instead?"
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "Barbara is really the only character who's developed -- but you're meant to see things solely through her perspective, and she has a limited focal point of the other characters, so it works. She speculates at the motivation and emotional state of the gunman, and we know that the narrator admires her, but we don't get any sense of who the narrator is aside from the fact that Barbara's story is important to them."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "This is a little trickier -- the story does work on a subtext level, but it's surface-level subtext. As mentioned previously, the story is clearly trying to engage in multiple levels of subtext, but it never gets into great detail about any of it. So, I would say that the story does operate on multiple levels of meaning, but not necessarily that it does so well."
+                }
+            },
+            "Story2": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The elements of the story made sense and felt cohesive. The beginning featured Barbara's attendance at the synagogue and the shooter, the middle featured her trying to make sense of the shooting, and the end discussed the ongoing legacy both of Barbara and the shooter."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "There weren't really any idioms, metaphors, or allusions present in the story. I'm not sure what more to say to expand upon that!"
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "Rather than getting \"tired of writing,\" the piece feels like the author won't shut up -- there are about three or four spots where it should have ended, and it got more and more repetitive and unrealistic the longer it went. One paragraph begins: \"And so, as the years turned into centuries, the legend of Barbara Adler continued to inspire, guiding countless souls through their darkest hours, and reminding humanity of its capacity for resilience, compassion, and love.\" The next: \"Her story became a part of the fabric of the community, woven into the collective memory of generations to come.\" One after that: \"Her legacy reached far beyond the boundaries of the synagogue or the community she had once called home.\" Then the one after that: \"And so, the story of Barbara Adler lived on, growing more vibrant and powerful with each passing generation."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The story flashes forward into the future too many times at the end. Please see the above answer for more details."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "There are both scenes and summaries present in the story. The \"flash forwards\" discussing Barbara's legacy at the end are definitely summaries, but the shooting itself is described as a scene."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story contains turns that are surprising -- that the rabbi was Barbara's husband, for example -- but that are not appropriate -- she refers only to the rabbi as \"the rabbi\" and not by name or \"her husband,\" for example, and is surprised when she finds that her husband is not next to her when the shooting begins when it was previously established that the rabbi is at the front of the congregation."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story is a pretty rote summary of events -- almost like a book report. (For examples, please see the \"multiple endings\" discussed above.)"
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "I'm not sure the story does this well, but the elements and attempted balance are present. The discussion about Barbara's legacy is, obviously, exterior, but we get good interiority during the shooting: \"As Barbara pushed her way through the crowd, she found herself being swept away, carried by the surge of terrified bodies. Every shout, every cry, seemed distant, echoing in her ears as the world spun around her. She reached out, desperate to grasp onto anything that could anchor her back to reality, but found only empty space."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "I'm not a huge fan of this question in this context -- the story is told chronologically, which isn't original, but this story *should* be told chronologically."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The story tries very hard to convey a unique and original idea -- that sometimes the bravery comes from processing and living beyond a traumatic event -- but the idea feels rushed and clichéd and hammered into us. (\"As years passed, Barbara became a beacon of hope and resilience for those around her.\" \"Barbara's story became a legend, whispered amongst the community as a reminder that strength and compassion can arise even in the darkest times.\" \"Barbara Adler's legacy lived on, a testament to the power of resilience and the indomitable spirit of the human heart.\" \" He spoke of the power of forgiveness and the strength of community that had allowed him to forge a path of peace amidst turmoil.\")"
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The aphorisms discussed above about courage, tragedy, etc. are pretty cliché."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "There wasn't a huge amount of detail, but there was some, and I found it appropriate. Please see above answer regarding Barbara's experience during the shooting."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "Again, Barbara is pretty much the only character, so she's developed appropriately. As described above, we get a lot of detail -- perhaps too much! -- about how the events of the shooting changed her and what she decided to do afterwards."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "Again -- the story does, technically, operate at a surface and subtext level, as described above with the multiple descriptions of Barbara's legacy. But, crucially, this question doesn't ask whether or not it does so well. (It does not.)"
+                }
+            },
+            "Story3": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The elements of the story work together and it felt cohesive. The story begins with the sermon, the middle is the shooting itself, and then the end discusses the aftermath and how the community responded."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "There were not really any idioms, metaphors, or allusions in the story. I'm not sure what more to say!"
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The end of the story feels well-paced and cohesive with the rest of the story. It discussed how the community reacted after the shooting and Rabbi Adler's memory and legacy, particularly as it related to Barbara's child."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "There are no unreasonable jumps in the timeline, and the progression feels fairly balanced."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "There are both scenes and summaries present in the manuscript. The shooting itself is described as a scene; the description of what happened after the shooting is more a summary."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The gunman appearing and killing Rabbi Adler was surprising, and was appropriate as it was the inciting incident of the story."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story is told solely from the point of view of Barbara, and there are not really any others present. However, Barbara's perspective is at times inconsistent. At one point, she bemoans the fact that she'll have to tell her husband about his newfound responsibilities at the synagogue; in the next paragraph, she's fuming that he's always on work trips and never at home."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "There is a good balance between interiority and exteriority, but the interiority isn't executed particularly well -- it feels like a writer who's learning about emotions for the first time. (\"Barbara started weeping uncontrollably. She had known Rabbi Adler ever since she was a little girl, and was very close to him and his family. She couldn't believe that something like this would happen to such a kind, caring man. Her heart broke as she heard Mrs. Adler's cries of anguish upon seeing her husband's lifeless body.\")"
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The story progresses chronologically, which is appropriate but is not original."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "There are no \"takeaways\" from this story. A lot of emphasis is placed on Rabbi Adler's teachings, values, and legacies, but the reader is never told what those are."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The concept of facing tragedy but persevering anyway is a fairly cliché one -- and, as mentioned, we never really learn about any other takeaways that the story mentions."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "The senses aren't remarkable, but they are invoked when describing the service. (\"At eight and a half months pregnant, every movement was an effort. She eased into her usual seat in the middle of the sanctuary with a soft groan of relief.\")"
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Barbara is really the only character developed, but she's developed somewhat inconsistently, as discussed in an earlier answer."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "Not really -- \"persevering in the face of hardship\" is a fairly surface-level story, as discussed earlier."
+                }
+            },
+            "Story4": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "This story was incredibly confusing -- characters appearing and disappearing out of nowhere, a bizarre ending that makes no sense. (\"This young man, however, was accompanied by a great, mysterious beast, beautiful in its terrible symmetry as it gracefully sidled down the aisle next to the nonchalant newcomer... The object in the young man's hand was edged with cold, brown paper. As he stumbled through the frigid muck, reaching for the shadowy tendrils of hope, Rabbi Adler opened his mouth to sing the blessings – the blessings of the Torah, to sing \"Blessed are the animals that guard the crops, that sing away the thorns.\" But he vanished with puffs of cold breath as the shivering young man raised his cold left hand."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "The story makes sophisticated yet sometimes nonsensical use of idioms, metaphors, and allusion. I gather from earlier stories and context clues that the \"great mysterious beast, terrible in its beautiful symmetry\" and \"the object edged in cold, brown paper\" refer to some kind of gun or weapon."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "Technically, the ending could be justified as \"intentionally abrupt\" to startle the reader as much as it startles the characters, but that's stretching it. It ends with the rabbi's abrupt (magical?) disappearance and the young man's response to his prayer, with no motivation or reaction given."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "There wasn't really any compression of time here -- everything seemed to happen more or less in \"real time."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "The necessary background was given as summary. (\"More often than not, Barbara found herself overwhelmed with anxiety and spent a considerable portion of January nestled in the soothing darkness of the synagogue, her breath casting a warm mist above the gently flickering taper candles of the shammes.\") The story itself -- the events of the sermon and the appearance of the young man -- was told as a scene."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The turns are surprising but nonsensical -- it is absolutely unclear who the newcomer is and what he's doing there, as described above. It's certainly surprising that the rabbi disappears in a puff of smoke!"
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The only perspective in the story is, really, Barbara's, and she's portrayed accurately. (\"Distinctly unsettled by the newcomer, Barbara felt the prickling cold sweat of instinct race down her spine,\" etc.)"
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "There is an appropriate balance between external descriptors (\"As she eased herself onto the chair, Barbara's expansive belly rubbed against the trapezoidal seat back.\") and a sense of Barbara's interior emotions, though often nonsensical. (\"Barbara opened the shutters in her mind..."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The story is told chronologically, which is appropriate. I suppose the magical mystery surrounding the young man's appearance could be described as genre hybridity, if you wanted to be generous?"
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The story is too confusing to obtain any ideas from it, and no themes are explicitly presented as in other examples."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "There are certainly clichés present throughout -- the rabbi is, for example, \"a forward-thinking individual hailing from the bustling metropolis of New York City."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "The writer attempts to make the fictional world believable at the sensory level, but the details are nonsensical -- details like \"fixing a madeleine cookie to the clasp of a tight necklace\" or \"pressing a heavy invisible hand over her quickened breath."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "The only character that's developed is Barbara, but it's done appropriately -- there's really not much development needed in this current iteration of the story, as she's only reacting to the events of the story and we don't get a sense of her after. So, there's no development -- but that's appropriate within the framework of the story. (If disappointing.)"
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "As discussed in earlier answers, the story is fairly surface-level and doesn't engage any deeper than that."
+                }
+            }
+        },
+        "Ronnie Huett": {
+            "Story1": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "This essay is wonderfully constructed. Every element, from the epistolary form of address, to the movement from present to past tense, works together seamlessly. Barbara is a vivid, complex, and well-rendered character whose actions would be confounding to witness, but because of the access the narrator gives us to her history and thoughts, make surprising, illuminating sense. There is no narrative fat in this essay."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "The metaphorical language in this piece is fantastic. Examples: hair like a nest of copper wiring, hands beneath her belly as if she were holding a large salad bowl, the rabbi's words like shapes...raining from the skylights like fat drops of light, porcupine hair, unworldly silence that still coats stories of that morning."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The ending is movingly complex and rendered with a mix of resolution and unresolve that feels deeply human. We learn, or have confirmed, Barbara's feelings towards her husband. Her character as a human being is illustrated in a moment of obstinate and oppositional cultural defiance when she speaks in defense of the synagogue murderer. We are left with a clear understanding of both the narrator's affection and appreciation for Barbara, a type of role model, and for the type of woman Barbara bravely was in the context of her time and culture."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "When we are introduced to Barbara she is in synagogue feeling checked out, a mood that is appropriately mirrored in the amount of time/text expended conveying it. When the startling act of violence occurs, it happens with appropriately abrupt, brief, narrative precision. When the narrator moves to put this event and Barbara into deeper context, it is done with a satisfying efficiency and economy of language."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "The use of present tense and epistolary address is highly effective in the scenes set in the synagogue, creating an appropriate immediacy for a moment of startling violence and an unusual reaction to that violence. We feel Barbara's alienation and boredom in those scenes. The dip into Barbara's recollections of her husband's bigoted and dismissive behavior is appropriately summary and brief. When we are in scene it is appropriately so, and when we move into a more distant, summary use of time it is likewise appropriate, providing context for the scenes that illuminates and adds to the reader's understanding of the text."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Because we are treated to such an intimate and well-rendered view of Barbara's thoughts and mood early on, her surprising actions later make total sense to the reader even as they upset the other characters in the text. Most people would expect a pregnant woman to appreciate being steered away from violence, but Barbara resists - and the reader roots for her in that moment. When she speaks up for the murderer at a family event later, it satisfies the reader's desire for Barbara to become a fully actualized woman, freed from the constraints placed on her by Howard and society.."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Barbara herself is a complex, dynamic character whose actions confound the other characters in the text, but are lovingly rendered to the reader. The writer is able to render Howard, an unappealing man, with admirable economy. He is barely present in the text, and yet I could practically hear his voice as I read his words."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "This piece is outstanding in its ability to convey Barbara's complex interiority as well as how who she is as a person manifests through her actions. She is an obviously pregnant woman who decides to move against the crowd of people fleeing a gunman, even laughing at the dentists, chiropractors, and podiatrists calling out that they are doctors."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "The piece as a whole is exciting in its use of structure and form. The reader is directly addressed throughout, an unusual and interesting move. Most of the essay is written as though in third person, but at the end the narrator inserts herself (I infer the writer is a she) into the narrative with the I-pronoun. The overall effect is a triumphant and coherent mix of the 2nd, 3rd, and 1st-preson perspectives"
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "Barbara is a complex woman positioned in a highly specific way. She is a mother, a wife, a rebel, and a dissatisfied original thinker chafing under the constraints being inflicted on her from without. She expresses ideas that many would/will find morally repugnant, but because this is conveyed in a sophisticated manner, the reader gains insight into what might cause a woman like her to think and do the things she does. I will be thinking about Barbara for a long time after reading this piece, and perhaps even wondering, \"what would Barbara do?\" in moments where perceived truth must be spoken to power."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The ideas in this piece are unique, and expressed with original language. The metaphorical language referenced above is a list of good examples. Others include the moment when she slides her sunglasses down and everything goes darker; Rabbi Adler's monotonous drone rendered as--son...his...own...flesh; Barbara rocking like the overloaded boat she's become. This piece is practically bursting with new, exciting ways of expressing familiar things."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Again, the precision and idiosyncratic language of this piece demands appreciation. The fresh paint of the synagogue smelling like vanilla, its triangular roof jutting  across the freeway like an airplane, the tactile sensation conveyed when Barbara's pregnant belly rests against the back of the chair in front of her as she leans forward. It is absolutely believable on a sensory level."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "Barbara is fully formed from beginning to end. We understand her depth in the opening paragraph, a sensation that only increases as we witness her actualization of her internal state externally (by doing the opposite of whatever one else is doing and by vocalizing her own opinions later even though she must know they would be poorly received) as a result of the assassination of Rabbi Adler."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "The reader infers unstated things about Barbara through her actions in this piece. Likewise, we gain a subtextual understanding of the narrator through her appreciation of Barbara, seemingly a woman bravely ahead of her time. Why was Barbara the narrator's favorite aunt?  Why would the narrator like to report that Barbara dumped Howard and moved to California or Morocco? The reader infers that the things that made Barbara different from all the other women in the narrator's life made her an inspirational figure. From this we gain a slim, but meaningful insight into the narrator's own life, constraints, and desires. This is an excellent essay."
+                }
+            },
+            "Story2": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The overall narrative is confusing both logically and in terms of human nature. The death of Rabbi Adler seems to have no meaningful effect on his pregnant widow, Barbara Adler. I do not know why she went towards the shooter, or what caused her to lose consciousness when she did. Rabbi Adler seems to have been shot at the front of the synagogue, but then Barbara reaches for him as though he were seated near her, then she moves forward to confront the gunman to prevent further tragedy, but also maybe her husband, who was already shot? The essay then asserts an impact and renown of Barbara's actions that seem totally out of proportion to what she did, which appears to have been a trite internal realization that carrying on after a tragedy is an act of strength. It is unclear how raising her child was received as an act of forgiveness for her husband's murderer, or what form her advocacy took, or why it turned her into a legend."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The essay is littered with overly-familiar figurative language. Words wash over Barbara, her eyes snap open, people stampede. There are few if any metaphors."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending relies on an impact that it does not make sense for Barbara to have had, or at least the mechanism for it is glossed over. WE are told that she became an advocate for peace, but the form of that advocacy and why it was so impactful is unexplained. Additionally, the essay repeatedly attempts to end several times, each time building on itself in superficial ways using similar language: As the years passed, Barbara became a beacon of hope (how?); In the decades that followed, Barbara's story became a legend (why?); As the world continued to grapple...Barbara Adler's legacy lived on; Years later, (Barbara's unnamed son) grew up to become a remarkable individual...an advocate for peace...carrying his mother's story with him; Generations passed, and each one carried forward the tale of Barbara Adler... I count 16 attempted endings in this format."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The events of this essay are treated in a summary, superficial mode that does not adjust story time effectively. When the story moves from moments in scene at the synagogue (which are conveyed in an oddly removed fashion) to even more distant, summary expository descriptions of what happened afterwards, it is done with a lack of regard for those later actions. We are told that Barbara had a remarkable and accomplished life, but achieving such a life must logically involve many moments of tension and drama that are absent from the text."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "The time spent in scene at the synagogue is conveyed in a simple, this-happened-then-that-happened manner that approaches summary. The expositional details that follow stretch credulity and evade the necessary narrative work of putting the information in scene."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The plot twists, which is to say, Barbara's actions once the shooting happens, are more confusing than surprising or appropriate. What comes after that - Barbara becoming a legendary advocate for peace - stretches credulity."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There is no dialogue in this essay, and little to no opportunity for diverse perspectives to be presented. We know only of Barbara's actions and her decision to honor her husband by...raising their child? The characters in this essay are simplistically rendered and, other than the gunman, uniformly virtuous to a degree that does not reflect real life."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There is almost no interiority in this piece. While we do learn some of Barbara's thoughts, they are asserted to us in a summary manner by the narrator, and they do not feel like the thoughts or feelings that a real person would have in those circumstances."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "As mentioned above, the language of this piece is rife with overly-familiar phrasings (Words wash over Barbara, her eyes snap open, people stampede). more examples include: this evening would change her life forever, chaos erupted, her gaze was fixed, her maternal instincts kicked in, she became a beacon of hope, etc. These are ways of conveying this information that involve little to no work on the part of the author, because they are common usage. The plot, while unconvincing, moves in a straightforward and simplistic fashion towards a pat happy ending that does not reflect the behavior of real human beings. The one deviation from this is the repeated attempts at an ending, which must be unintentional."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "This essay depicts characters who do not behave in a meaningfully human way. The ideas that it expresses - that forgiveness, courage, community, and peace are good things - are superficial."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "As indicated above, the piece relies on cliched turns of phrase to express actions and thoughts. Reality hits Barbara like a tidal wave; days turn to weeks (and weeks?) and months; she uses her experience to \"bridge divides\" and \"heal wounds."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "The few sensory details in this piece are simple and superficial: a bitterly cold evening, a loud noise shattering the tranquility."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Barbara Adler is not a believable character, because her thoughts and actions are confusing and context-less. Her inner change is asserted rather than shown, and does not seem realistic. The secondary and tertiary characters are flat and devoid of personality and depth."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "I cannot identify subtext in this essay. Its events and actions are presented in a removed, simplistic, and superficial manner."
+                }
+            },
+            "Story3": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The story follows Barbara's experience of witnessing the assassination of Rabbi Adler and her resulting grief, but seems to prioritize reiterating Rabbi Adler's importance to Barbara and his community impact over her growth as a character and person. Her husband dips in and out of the narrative to no meaningful effect. The story seems undecided as to whether Rabbi Adler could never be replaced, or if the congregation would find solace and purpose in replacing him with a woman. Threads like Barbara agonizing over her husband needing to lead the congregation in Rabbi Adler's absence are dropped, then seemingly contradicted by what happens later (a new rabbi)."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "There is little to no figurative language in this piece, other than common phrasings like \"her heart broke.\" Its facts and events are recounted in mostly literal declarative sentences."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The story seems to be about Barbara, but switches focus in the conclusion to the effect of Rabbi Adler's death on the community as a whole. He is initially presented to us as a righteous man of profoundly positive community impact, which is effectively reiterated in the final paragraph; he/his reputation is the same at the end as it was in the beginning, though of course his loss is presented as a tragedy. In a broad sense, Barbara and the congregation can be seen to have experienced narrative change in the sense that they go from a place of mourning to one of hope for the future. However, this change comes about through superficial mechanisms (the birth and naming of a child, the finding of a new rabbi who happens to be a woman)."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The use of time in this piece is vague and confusing. Barbara's husband is away on business in one paragraph, at the hospital in the next, then away on business again two paragraphs later, and it is unclear how much time has passed throughout. Without her husband's arrival, actions, and disappearance, I would have read this section as though Barbara had been in the hospital for a day, perhaps two."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "This is a close call, but the piece does give a relatively balanced amount of scene and summary. Though I feel the turn to exclusively summary exposition in the final two paragraphs is executed ineffectively, it is a conventional writing move."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There are few turns in this essay. The one moment of interesting surprise is the congregation's choice of a woman for rabbi. However, this event is conveyed through a single mention and what lead to that choice, its effects, and how it occurred are elided completely."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "Barbara is the only character into whom the reader is given any degree of insight, and she is a flat, static character whose thoughts and actions are ordinary and predictable. The other characters are barely present."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "While the essay does move from exteriority to Barbara's interiority and back, it does so in a vague, superficial manner. Barbara's thoughts are repetitive and and so focused on what Rabbi Adler's loss would mean to the community that it is easy to forget that she is a woman who is giving birth after having just witnessed a murder. It doesn't track on an emotional level."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The essay proceeds in a conventional, step-by-step manner. The language is simple and expository, relying on pat phrasings to tell, rather than imply or show, what happened. For example: \"Barbara brought baby Amos to synagogue for the first time to meet the new rabbi, a woman, symbolizing hope for a new generation.\" That final clause is typical of the language in this essay, in which the reader is simply told what happens and what meaning to make of it."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The ideas in this piece are simple and predictable. It expresses nearly universal values - that forgiveness, strength, community, and progress are good - in a conventional manner."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "While the piece avoids overused expressions, its ideas and themes are hackneyed."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "There is insufficient sensory detail in this piece for its fictional world to feel real. I know that the synagogue was cold on the day Rabbi Adler was murdered, but cannot find anything else to tell me what it looked, smelled, or felt like. Similarly, the hospital environment is completely undescribed. The physical world of this piece almost doesn't exist."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The only real character of this piece is Barbara, and she is handled in a superficial manner. The other characters are simply mentioned, and in the case of her husband, confusingly rendered. His decision to go on a business trip while his wife is hospitalized, about to give birth and having just witnessed a murder, would seem heartless if I didn't read it a lack of care given to tracking his actions and whereabouts."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "There is little to no subtext in this piece. It is conveyed through surface-level declarations of event, consequence, next event."
+                }
+            },
+            "Story4": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "This piece seems to shift focus with almost every paragraph. Numerous characters are introduced, then dropped, their presence seeming arbitrary and distracting. It is difficult to track them all - for example, we are told that the synagogue has a new, progressive rabbi, and are then introduced to a Rabbi Adler and a Rabbi Ben-Gurion. But it is unclear which is the new rabbi, or if perhaps they are even the same character? At the same time we are introduced to an Isaac Adler, who appears to be a young child. The story is full of confusing details (\"this young man...was accompanied by a great, mysterious beast, beautiful in its terrible symmetry\"). I cannot make sense of its ending, in which Rabbi Adler vanishes with puffs of cold breath as the mysterious young man chants what I assume is a religious verse while raising his hand that (maybe?) holds a gun. I do not understand what actually happens in this piece, which seems to end at an arbitrary point."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "There is limited metaphorical language in this piece, and that language is confusing - Barbara can't wait until \"any day now\" would be added to her name (?), like \"fixing a madeleine cookie to the clasp of a tight necklace.\" I do not understand that metaphor."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "This piece abruptly ends at what narratively seems to be its climax, the aftermath of which is not resolved or explored in any way. I am unclear as to what actually happens at the end."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The essay takes place entirely during the Saturday bat mitzvah recitals attended by Barbara. there is no meaningful manipulation of time that I can identify."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "As this story effectively takes place within one long, confusing scene, there is no balance to be struck with exposition or summary."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "This story contains turns, but they are not appropriate. I am confused as to what actually happens, the sprawling cast of characters, and what is being articulated."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The characters in this piece are uniformly flat and border on caricature. Their religion and culture seem to be the only traits that they have, other than Mrs. Levine's tendency to gossip, which feels like a stereotype."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "While there is an interesting moment in which Barbara closes her eyes and pictures various aspects of her home (?) and Detroit, it is unclear why this happens or what it means. This piece lacks coherence overall."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "While there are numerous examples of unconventional language in this piece, they are mostly strange and confusing: Barbara's \"fragrant ear,\" Mrs. Levine's \"spindly hand turning unnaturally white and cold,\" a vague \"threatening pocket of inky darkness\" reaching for Barbara with its \"chilling, spiking tendrils."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "This piece lacks narrative logic sufficient for its readers to obtain a unique and original idea. I am unsure what happened in this piece and why."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The characters in this piece are so defined by their religion and culture as to be flattened by stereotype. The events of this piece feel arbitrary, almost random. While that does grant it an unpredictability and a vague form of originality, it feels thoughtless."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "While many of the details of this piece are confusing, some of them make enough sense that its physical world is perceptible. The ornate filigree frame of Rabbi Adler's portrait, Barbara's breath casting a warm mist above the gently flickering taper candles, the stirring gray steel and billowing turbines of the town's (schmatta?) factory."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Every character in this piece is flat. Many of them are difficult to distinguish from others."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "This piece is too difficult to understand for multiple levels of meaning to operate. I do not understand it on a fundamental level."
+                }
+            }
+        },
+        "Jennifer Whitaker": {
+            "Story1": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this is an excellently crafted story. The beginning, middle, and ending feel both unexpected as they come but also somehow inevitable. This is a hard balance to achieve, but the writer does so here with considerable grace."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; my comments here are perhaps more related to vernacular and voice, but the narrator here feels exceedingly believable for the way they build up the scene through conversational diction. I suppose it's less an matter of idiom here, but I feel like this is the best place to comment on this strength. The metaphors here are also darn near perfect--sparse, and therefore meaningful when they come. I particularly love these for how much they evoke for the reader: \"the triangular point of the roof inspires as it juts out across the freeway like a plane taking off\" and \"she rocks like the overloaded boat she’s become."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, and WHAT an ending this is! The return to the rhetorical questions of the beginning here at the end is pitch-perfect, and frame the story beautifully without feeling contrived. When I read that final sentence--\"Who would know, or care, that a pregnant relative of mine stood in the parking lot that morning and half wished she were carrying a martyr’s baby?\"--it actually took my breath away for a moment. WHAT A WAY TO END THIS STORY. We're prepared as readers for the ending narratively but not emotionally; it's brilliant."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, and I'd argue this is one of THE most successful parts of a VERY successful story. Even small moments such as \"and, for no reason she’ll be able to explain later,\" set the reader up to be kept somewhat off-balance by something that's looming. The focus on Barbara, the creep forward of the service, the details all point us toward the fact that something is unsettled and that the story is counting down to something--and then the way that the author uses punctuation to slow us down as we get to the climactic moment? DYNAMITE:\n\n\"Barbara is too far away to see what’s in his hand, and after he fires a single shot into the ceiling the sound is so alien to the space, so incomprehensible, that it takes Barbara a moment to start to register what has just happened, and even then she isn’t sure, in the jittery quiet that follows, exactly what’s going on.\" The interrupted syntax here is so purposeful and excellent."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "YES. This is just so delightfully done! The story stays pretty solidly in scene, and because the scenes are so expertly crafted, this is a real strength. One particularly superb moment is, \"Moments later, when the young man abruptly stops and swings around and says, 'Rabbi,' before shooting Rabbi Adler once in the arm and then again in the left side of the head, and then holds the barrel up to his own forehead and fires, Barbara is, again, bewildered.\" The author keeps this in the context of the scene, and uses Barbara as a means to both advance the plot and show us the stakes of the situation on a personal level."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; this story is the most well handled I've read in a good long while when it comes to incorporating surprising turns in believable and seamless ways. This feels like true life: even as we know *something* is going to happen because of the way the story is constructed up until this point, the *what* is unknown until the very moment it happens--and that feels right and true for a story set in the world we all know."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this is also a real treat of the story. Barbara's complicated reaction to the \"young boy,\" combined with the closeness we find late in the story between Barbara and a character who is a second cousin (I think that's second-cousin territory?), rounds out different perspectives here and challenges our beliefs about what a character stands for and our expectations about people more broadly. This is really dynamically done."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the familiarity with which the speaker talks about Barbara is crucial here, and we're able to get into Barbara's interior reactions without having Barbara as our narrator. This casts an interesting light on the narrator--one who is so intimately familiar as to feel capable of getting into another's emotions and able to do so while making it feel so believable."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, here again, the story is an example to be followed when it comes to form and structure. A less compelling story would've maybe told us the who of our narrator at the beginning, which could be seen to lend credibility and authority to the narrator as one closely connected with Barbara. But waiting until all of the story's action has passed--until the third-to-last paragraph!--to reveal the narrator's connection gives even more importance to the \"why\" here, to the story's kairotic moment of the story's telling. Brilliant."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, a thousand times yes. The revelation at the end is so weird and complicated, and it makes us go right back into the story (starting, ideally, with the story's title, which of course is absent here but wouldn't be for a regular reading situation), which is, of course, what a good story should drive the reader to do. The story subverts our expectations at nearly every point, and we're so much better for it."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "Yes--there's nothing here that struck me as cliche in the writing. The only cliche I noticed was \"She was my mother’s favorite cousin, Barbara, a woman who, my mother says, always danced to her own beat,\" and because this is put into the mouth of the mother, it feels appropriate and believable, since characters can get away with a lot that narrators cannot."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this is a world that feels not only believable but one that we actually FEEL. Part of the beauty here is that we're not hit over the head with piled-on descriptions; they're given to us across the space of the story, so that the reader feels like the goal (or, at least, a central goal) is to communicate (rather than to impress us with lots of descriptions or something). This is precisely the way it should be!"
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "Yes--these characters are really notable and full; even the murdering young man feels human in Barbara's/the narrator's gaze. And I love the inclusion of the narrator's feelings in this statement: \"I’d like to report that she dumped Howard and split to California or Morocco, the kid in tow. A free spirit, my mother’s favorite cousin Barbara, but not too much of one.\" It's so carefully done and smart."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; gosh, this is great here. The surface is rich, and could almost even be enough, but of course, it wouldn't really be; the author's use of description--where the narrator puts Barbara's attention in the synagogue scene, and the way the story unfolds from the moment of the shooting--makes a satisfying and engaging subtext. I especially was wowed by the building of subtext here: \"The force of the crowd trying to get out was too strong, and she was thrust into the parking lot and the thick, unworldly silence that still coats stories of that sunny February morning, even as car doors slammed and engines rasped to life and distant sirens moved closer."
+                }
+            },
+            "Story2": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "No, this one is pretty tough. The story fails on this criterion in large part because there doesn't seem to be an awareness on the part of the writer of how to create believable tension in a story yet. The \"before time\" leading up to the shooting is unremarkable and cliche, and the \"after time\" (or, during and after the shooting) is drawn out and tedious."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "No; the idioms used here are in the narrator's exposition and descriptions of characters or scenes mostly, which undermines the narrator as, in some ways, reliable. This feels like a narrator with an agenda--which can work SUPER well and produce a compelling story, but the agenda here seems to be to \"wash out\" the entire scene and story, with too much focus on making tragedy palatable. This feels false and unsatisfying."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "No, this ending suffers and fails before it even gets started, I'm afraid. The author keeps making \"to-go noises\" (signals that the story is wrapping up) for PARAGRAPHS before the story actually, finally, mercifully ends. The last...17?? paragraphs show this, filled with explanatory, conclusionary, clumsy transitionary phrases such as \"And it was through these stories that Barbara came to realize,\" \"Years later,\" \"Generations passed,\" and \"And so, the story of Barbara Adler lived on."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "No, this story seems to drag on endlessly; moments that could be big in a well-written story (e.g., the shooting itself, the birth of Barbara's child) are here reduced to feeling like a plot point in an outline of a story, rather than something that feels believably tense and important. This is also partly the problem of those weird transitionary phrases I mentioned above; we're actually supposed to believe that the story of this woman, which I'm afraid here is super forgettable, inspired people for not only years but \"centuries [...] guiding countless souls through their darkest hours, and reminding humanity of its capacity for resilience, compassion, and love\"? I don't believe it for a second, I'm afraid. Those entire 17 \"ending\" paragraphs are clumsily expansive in terms of time compression and thin on details of why anyone would actually remember her story. It's as if the narrator doth protest too much here, insisting that \"no, really! Barbara's story was super inspiring!\" Insert eyeroll here."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "No; even the scenes are un-scenic because, for instance, the synagogue scene (the only real scene in the story) feels summarized and plodding. Everything here, scenes included, is too explanatory to feel satisfying. We're not shown anything of importance, but instead constantly TOLD by the reader why or what is supposedly important. The quickest way to get a reader to not trust the narrator is to have the narrator insist that they can be trusted--and all of these grand statements do just that."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No; I can scarcely think of a less surprising phrase than \"Suddenly, a loud noise shattered the tranquility.\" The joke about \"suddenly\" is that it's, sonically, the opposite of sudden: it's multisyllabic, ends in a weak \"-ly,\" and is a word that feels only reserved for the calm, un-sudden act of safe storytelling. That's not the whole issue here, but the turns in general suffer from clumsy, safe writing, and as a result, we don't feel any sense of tension or dread here."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, there's not much here by way of diverse perspectives. I guess if we're being generous, we could say that Barbara's empathy for the shooter \"counts\" as diverse since she has compassion and understanding when few others might, but there's not enough nuance to the characters or situations to make them convincing or accurate."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, here we get very little by way of actual scene, and the stabs at interiority feel like B-rate Hallmark cards rather than actual thoughts, feelings, and subjective experiences of a real human."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "No, the narrative progression here is pretty underwhelming. I feel like the writer is bogged down in cloddish phrases that work against storytelling in general, as when the narrator says, \"But little did Barbara know that this evening would be different. This evening would change her life forever.\" Ewww. I already don't trust it; between the cliches and the boring way it's laid out, this feels like the early ideas of a story rather than a story itself."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "No, here again, the story stalls out at the level of cliche and empty statements: \"Barbara struggled to make sense of the incident.\" \"But in the midst of her grief and confusion, Barbara found solace in the support of her community. They rallied around her, offering comfort and understanding. One by one, they shared their own stories of resilience, of surviving through unimaginable tragedy.\" This doesn't strike me as anything even remotely related to the experience of trauma and its aftermath, and the narrator works against any sense of importance in the story by using so many cliches."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "No, and I know I've belabored this point enough in this feedback so far, so I'll just add a few of the worst offenders here: \"letting the familiar words wash over her,\" \"sending shockwaves through the hearts of the worshippers,\" and \"heart pounded in her chest.\" Again, if cliches come to us through characters, that can build believability,  but when it comes from the narrator--especially one as omniscient and undefined as this one--it seems clear it's a writing problem."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "No; this is in large part due to the at-odds-ness of what's being said and how it's being described (the \"suddenly\" problem from earlier). A phrase like \"In that moment, chaos erupted\" is too controlled to feel chaotic. And then we're supposed to believe that Barbara looks up and sees the shooter \"holding a smoking gun\"? And then, the overwrought description that \"The young man's eyes met hers for a fleeting moment, and she saw a flicker of recognition in them.\" Un-be-lievable. Nope nope nope. This is the stuff of TV drama, not of real life."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "No, there's very little attention paid to character here, funnily enough since the character of Barbara is obviously the focus of the story. But she feels hazy and underdeveloped, and the only other notable characters are the young man (stereotype of Emotionally Disturbed Shooter) and the son (who is devoid of qualities entirely)."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No, there's not a subtext to be had here, I'm afraid. The surface level action and descriptions themselves are boring, ill-defined, and hazy, and anything that could be subtextual is dragged out into the light with cliches and clumsy explanatory statements."
+                }
+            },
+            "Story3": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "No, this story, although infinitely understandable, follows *too* logical a path to be satisfying. The themes of the story are made too explicit and overt, and the story feels like it's only written to show us a moral--which is fine for fables but not good for stories."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "No, any metaphors here feel overdone, and there's not much sophisticated use of idiom or allusion here."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "No; although the story seems to be trying for this, it's too explanatory of an ending to feel natural and earned. Even the start of that final paragraph, \"As life was celebrated, Rabbi Adler was remembered\" feels hedgy and awkward because of the use of the passive voice."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "No. The story starts off with promise here but quickly falls into the trap of explaining rather than showing us anything real, and the way time is handled here feels impatient, like the writer is just trying to get to the moral of the story and be done with it."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "No, this doesn't work for me as a reader, though I appreciate the attention in places to description. This writing shows the signs of a fairly unpracticed writer who knows that sensory details help to build scene, but can't quite follow through in making scenes yet. There's a LOT of exposition here with little pay-off in the scene category."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No; although the turns here aren't terribly handled, I can't say that they feel appropriate and surprising. We know from the very beginning that something bad will happen by the inclusion of a super pregnant woman and the stab at tension created by \"that cold February morning,\" and then once the shooting starts and so much focus is placed on Barbara as Pregnant Woman here, it's no surprise when there's potential impacts to the pregnancy and baby here."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, there isn't really much that's a diverse perspective here. We do get the shooter, of course, but he's undeveloped (which makes sense given the POV of the story) and calling him \"the assailant\" puts even greater distance between us and understanding of him. (I'm not saying he deserves or doesn't deserve understanding here--just that the story isn't written in a way to extend that to him as a character)."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, and the story falls apart largely here due to the mistaking of stating feelings as interiority; we can be told how characters feels without actually having anything revealed about the character's inner life. A few moments from the story that would seem to show this misunderstanding on the part of the writer: \"She couldn't help feeling grateful to her rabbi, who had already guided her through so many important life events, including her wedding and her bat mitzvah.\" (This is explained feeling, not felt feeling.) \n\n\"She couldn't believe that something like this would happen to such a kind, caring man. Her heart broke as she heard Mrs. Adler's cries of anguish upon seeing her husband's lifeless body.\" (The cliches here work against any emotional center, and descriptions like \"kind, caring man\" feel like performative eulogy rather than actual feeling.)"
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "No, the story doesn't offer much by way of fresh experience for the reader here. The structure and form are predictable, and I'd argue there's too much emphasis placed on getting to the story's Big Ideas about Loss and Resilience and not enough on creating an experience for the reader."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "No, afraid not. I do appreciate that the writer here is trying to craft a story about resilience, etc., but there's too much focus on making sure the reader Gets the Importance, and not enough on actually creating the scenes and progression that would let us understand that importance. An example of this follows, where we hear the narrator keep \"interrupting\" the narrative to explain Barbara's feelings (rather than showing us how she feels): \"Lying in the hospital bed that night, she agonized over how to break the terrible news to her husband that now he would have to lead the congregation in prayers and handle administrative responsibilities in Rabbi Adler's absence.\" [We're told there's agonizing but it feels very calm and easy.] \"She felt bereft without his comfort, uncertain of how they would cope with such a tremendous loss.\" [No bereftment to be had here, just statements that she is bereft. Boo.]"
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "No, I'd say the story does pretty well not falling into language cliches too terribly, but the whole moral of the story is a cliche, and it's not interestingly written enough to mitigate this. Of course, as...someone said, there are only 7 basic story plots in the world, and persistent themes are persistent for a reason, so this alone isn't enough to disqualify a story from being original. However, this story seems only vaguely concerned with the reader's experience and is overfocused on presenting cliche ideas as meaningful."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, I think the story actually does pretty well in this regard. These moments are passing and small, but descriptions such as \"filled with murmurs of prayer and the rustling of coats\" and a detail like \"At first she thought it might be the heating system acting up again\" show that the writer is intent on making this feel like something more than an idea. I don't think it's doing all it could yet, but that's why writing is a process and not just a product."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "No, this doesn't quite work here, but it's trying! Barbara is the closest to a believable character, but the husband is just a plot point, and honestly, so are the shooter and Rabbi Adler. These are empty vessels for the writer to pour the Important Feelings into, and as a result, they feel lackluster and mechanical overall."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No, this story had promise in this regard, but ultimately fails to contain meaningful subtext. There's too much didactic rambling here to allow for subtext, although there are moments of real engagements on the surface level."
+                }
+            },
+            "Story4": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "No, I'm afraid this story is pretty much nonsense. It was honestly difficult to get through, and at times it read as a spoof of Judaism (seriously, Larry works at \"the schmatta factory downtown\"? Ugh.), which is honestly just uncomfortable. Some of the most gibberish-y parts:\n\n\"If it were a boy, at this late stage and with her first grandchild expected in less than a year, the silver mugs would clang in anticipation, her youngest sister would be whispering softly in her fragrant ear that she must hurry up and return to her marital duties.\" This makes zero sense.\n\n\"Larry and his colleagues were known to indulge in enticingly long, smoky lunches at inviting locales such as the cool taverns and warmer, intimate bed-chambers of Nina's Bar and Grill.\" What the devil is going on here?"
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "No, sadly not. There are metaphors here, and some idioms, but they don't *mean* anything; phrases like \"navigating the soup-can of her swollen body\" and \"Rabbi Adler, his eyes like lingering dark pens marking the engaged crowd,\" do nothing but confuse; they're technically metaphors but don't do what metaphors should do, which is deepen our understanding of something--characters, situations, themes, subtext, etc."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "No. I'm a pretty careful reader, and I have read a fair number of texts, and I have never seen anything that prepares me for this ending. It's like some kind of surrealist nonsense: \"The object in the young man's hand was edged with cold, brown paper. As he stumbled through the frigid muck, reaching for the shadowy tendrils of hope, Rabbi Adler opened his mouth to sing the blessings – the blessings of the Torah, to sing 'Blessed are the animals that guard the crops, that sing away the thorns.' The frigid muck? Why all the mystery with the thing in the paper? Why is any of this happening?  \n\n\"But he vanished with puffs of cold breath as the shivering young man raised his cold left hand and chanted, 'Blessed are the bees and corn-cobs, the rain and the burning leaves, blessed are the righteous men who are righteous no more.'\" That final phrase could be subtext or foreshadowing or something, but then the story ends, and it's led into with such nonsense that it's utter rubbish."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "No. The compression and/or stretching of time seems capricious. There are times when the story slows down--the part with the congregants and gossip, for instance--but it's for no particular gain to the story."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "No, there's not any insight here, when it comes to scene versus summary or anything else here. Sentences like, \"She was just a few weeks away from that revered moment when the affectionate term 'any day now' would be added to her name, much like fixing a madeleine cookie to the clasp of a tight necklace\" would derail even the best story, and this is obviously not the best story. I wanted to stop reading at pretty much every turn."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No--I have very little understanding of what's happening here at any point, so even if there were a turn to be had, I don't think I'd be able to find it due to the piling-on of complete inanity."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No; there aren't diverse perspectives to be had here; in fact, there's very little perspective of any kind offered that feels like something from real life."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No; the absurdity here doesn't feel purposeful, and there's nothing that we can trust that this narrator says, so even if there were interior life revealed or exterior moments of importance, it'd be hard to treat this as anything but meaningless."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "No; there's nothing original here about its form or structure, or the language, or the plot, or the format. Or maybe there is? But nothing makes enough sense of find any kind of through-line."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "No, definitely not. There's a lot that's never been seen before, to be sure, but nothing that holds together with other parts of the story."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "Yes? As much as I hate to praise literally anything about this gobbledegook, I would say that it's free from cliches. But, at least while we're here, we can point to one of the portions that's most offensively word salad: \"Sam Katz, the pockmarked, deeply polished cantor with his vital annual salary carefully braided in intricate plaits that his thick fingers dipped and plucked – confidently strode through the synagogue with a beautifully plated Yad, shaking the rough, strong hands of the vodka salesmen he passed. It was whispered that Sam was due for a well-earned pension."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "No, there's nothing about the story that'd make me think it's believable. For instance, the narrator says that Barbara was \"considered the best friend to each and every one of [the synagogue's] vibrant members.\" This strains credulity, to say the least. \n\nAnd then there's this, which is surreal, at best (and therefore outside of the rest of the piece), but that's giving the writing too much credit: \"This young man, however, was accompanied by a great, mysterious beast, beautiful in its terrible symmetry as it gracefully sidled down the aisle next to the nonchalant newcomer. There was something unusual about this newcomer, something that caught the watchful eye of Sam Katz.\" Even if this was a real sight that people saw, it seems impossible to believe that a) it'd be described as vaguely as this, and b) that it'd take the \"watchful eye of Sam Katz\" to notice there was \"something unusual about this newcomer.\" Could that unnameable, unusual something possibly be the \"great, mysterious beast\" next to him??? Woof."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "No, these are not even real enough to be characters. The portrait on the wall of Rabbi Adler feels as real as any of these characters do. I can't believe that Larry would \"lovingly [call] her 'the leaning Tower of Pisa'\"--because this makes, um, no sense--though Larry calling her by this weird term of endearment makes more sense than \"'Frankly, I thought she was a fashion model,' murmured the awe-struck Mrs. Levine, rubbing her nose with a touch of envy, 'with those endless legs of hers.'\" Who are we talking about here? Why? It's apropos of nothing."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No, there's not even surface to be had here, let alone subtext. The surface only keeps the reader engaged in a train-wreck sort of way, and there's nothing built up to allow for subtext to be present."
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,718 @@
+{
+    "Beyond Nature": {
+        "Patrick Wing": {
+            "Story1": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The story does not form a satisfying whole. The events are presented in a vague way, and narrative seems to ramble. Words are repeated again and again (\"solace\", \"tapestry\"), the man's art seems to be discovered twice, and the story kind of rambles to the end."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "There is a lot of vague language which feels tired and redundant. The word \"solace\" appears nine times, \"tapestry\" appears four times. Metaphors are not very sophisticated (e.g. \"The woman's face served as a canvas for his tales\" and \"Like the mountains, he too had played witness to countless tragedies and triumphs, each a minor chapter in the grand tapestry of life\"—tapestries don't have chapters)."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The end of the story does not feel natural, it just is the cessation of the text which has been repeating several times for much of the story. The language is vague; the sentence \"His art would continue to inspire, teach, and touch the hearts of those who beheld it, for the stories he had shared would forever remain etched in the collective consciousness of humanity\" doesn't leave the reader with anything specific or interesting to ponder."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "Time feels stretched out in a vague way. That is, a lot of time goes by, with a lot of text dedicated to it, but much of it is repetitive. One detail that seemed off was when we are told the wailing of sirens is in the distance, but then we get the phrase \"as darkness began to descend...\" implying a more gradual, longer passage of time, but the vehicles with the sirens arrive after this. The time feels unrealistic here."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "It felt like too much space is taken up with vague summary of the same things, the man seeking solace, and creating art."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The discovery of the cabin with the photo of the woman holds the possibility of being an interesting twist. However, it seems unlikely after so many years that the man would remember the face of the woman in the wreck. It feels contrived and implausible without more detail around it."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The main character's is the only perspective we have, although much of the perspective is actually that of the omniscient narrator."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There is not enough detail in the scenes or in the interior world of the man for the reader to care much about what is going on. What so affected him about the woman? What did his art look like? What happened to him along the way? He just keeps looking for solace in the woods."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The form and structure are not original."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "There is no interesting or original idea in this story. There is a lot of vague language about \"the power of art\" but not enough detail, history, character development for the reader to take much away from it."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "Much of the language is vague and there are a lot of unsatisfying cliches. For example \"The tumultuous scene before him mirrored the ever-changing nature of existence itself. Like the mountains, he too had played witness to countless tragedies and triumphs, each a minor chapter in the grand tapestry of life\"; \"Through his art, he hoped to capture the essence of the woman he had encountered and the resilience of the human spirit;\" \" He always carried her memory within him, a constant reminder of the fragile beauty of life and the importance of acknowledging fleeting moments of connection."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "There is not enough detail to provide a sense of reality. For example, we have no detail about what he painted, or what the woman wrote in her journals."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The characters feel flat and undeveloped. More detail about the man's life, his history, his artwork, his interactions with others, are needed to give depth to his character."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "There is not any real rhetorical complexity here. The language is vague and fails to address any kind of thematic complexity or layers of meaning."
+                }
+            },
+            "Story2": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "There were parts of the story that didn't make much sense. The things that Finch uttered did not make much sense. The way time passed was confusing (I'll discuss this below in the time question), and the way Finch seems to get distracted on his walk to the town to find help doesn't really fit with the rest of the story either."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "There are several weird sentences, which don't seem to capture the way anyone would talk. For example, Finch's statements \"So unsimulated is this place\"; \"What a deuce of a land it must be, this land I am in!\" and \"In the solemnity of our days, we cloud upon each other, one hurrah to another."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The ending felt appropriate. Finch was left again in the quiet wilderness after the body of the woman was taken away, back to where he started."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The pacing of the story was good, the narrative moved along in a way that did not drag and did not skip over too much. A confusing aspect had to do with the time of day. We're told Finch went out in the morning (\"The engine of his breath and the rhythmic sound of his boots on the brown, loamy soil were the first noises to break the serene silence of the morning.\") We also learn the nearest town is eight miles away, but he doesn't think he can get there and back before the sun sets. But if he moves at a brisk walk, he can go three miles in about an hour. So, let's say it takes him two full hours to get to town, and two full hours to return, it would still presumably be the afternoon."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "I thought there was good balance here. The description of events is pretty vivid, and this is combined well with explanation that fills in Finch's thoughts. For example, \"The relief on his face was evident, and as he slumped back into the truck bed, Finch leaned onto his knees, observing the landscape as they ventured back through the wilderness. His mind, like the wind, swirled with chaotic thoughts of grief and disbelief."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Finch's happening upon the car wreck is a surprising event which also seems reasonable. Some problems here with the details, though, are that his first encounter with the car is described like this: \"As he reached a bend in the road, his journey was suddenly halted by the tragic sight of a swerving 1950s coupe. The car had flown off the road into the underbrush, making a disastrous impact with such velocity that it wrapped around a tree.\" Did he see the car swerving, or did he see it in the underbrush? Later, we understand he must have seen it resting, but this raises another problem, because we are told about the woman: \"It was possible she had been in such a state for days or even weeks.\" This is confusing when we learn later that the men looking for the accident had just been told about it, presumably because someone had witnessed it just happen. It seems less likely that they would be called to it weeks later, at precisely the moment when Finch found it."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "We really only have Finch's perspective."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "I thought there was a good balance between description of the action, and Finch's own thoughts. Of course, as I mentioned earlier, what he actually says doesn't make any sense, even if we get a good idea of his thoughts from the narration."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The form and structure seem pretty standard."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "I don't think there is much for the reader to grapple with here. The ending does not do a good job of tying together the themes of the story, and instead the story ends with a pretty vague set of phrases that are overly general: \"In this desolate landscape, Finch found solace in the company of the mountains, whispering a transcendent symphony of fleeting past, the impermanence of events, and the undeniable continuation of life itself. Finch looked off into the wilderness, a new sense of purpose filling him as he thought, \"In wilderness, illogic is pursued, and logic is denied, but life moves on.\" And with that realization, he began his journey back into the peculiar, untamed world he called home, with an appreciation for the fleeting nature of life and a newfound determination to not take it for granted."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The writing does seem original, if strange and nonsensical at times. Some odd phrases include \"the men took final accounts of the wrecked car, lamenting its crushed state as if it was a prized possession\" and \"As he walked by, the wind blew an ominous gale in his face, causing him to pull his tartan scarf tighter around his neck as he hurried on, rattled by the bad omen that seemed to linger in the air."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "The story does have good details describing the physical world, including \"Below, the land sloped steeply away, leading down to a greenswept valley, glistening with morning dew. A river coursed through the bottom, fed by the spring thaw and summer rains and various mountain lakes, whose still shores no foot had disturbed\" and \"When they finally returned to the accident scene, the sun had fallen considerably, casting lengthened shadows that left an eerie unreality over the disturbed surroundings. Amidst the gathering gloom, Finch pointed the men in the direction of the woman’s body, smeared with congealed blood upon her leg."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "I don't think Finch's character has much depth. What we know about him is based on descriptions of his reactions to things happening around him. He feels grief and disbelief, but we don't have much information about his past or background to give him much complexity."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "There is not really much meaning below the surface. The action carries the story along, but without much rhetorical complexity which could be developed through more detail about the main character, particularly his back story."
+                }
+            },
+            "Story3": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Overall, the story forms a coherent whole. One exception to this, though, is the fact that the main character stayed with the woman for so long. If his goal was to get help, and his phone didn't have a connection, presumably he would have walked back the way he came. It isn't clear why he was stranded there with her, especially since she was clearly dead and did not require his presence."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The story does not make sophisticated use of idiom, metaphor, or allusion, and language is awkwardly repeated in a few places (\"clearly deceased,\" \"rivulets of blood,\" \"inky sky\")."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The ending felt natural. John stayed with the woman until the ranger came, and then was left alone to ponder what had happened. It made sense and did not seem arbitrary or abrupt."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The pacing was good, important details were stretched, and longer periods of time without as much detail, as John was waiting, were compressed."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "There was a good balance here, particularly as the memories of Alice came to John's mind amid the scene of the accident. The language around this was a bit awkward and unrealistic at times, e.g. as John started sobbing uncontrollably at his memory of Alice. This may have been his reaction, but it seems unlikely given how focused he is on getting help for the accident scene in front of him. One might expect him to break down later, when he is alone at the end of the story."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "I thought the phone call from the husband was both surprising and appropriate. It was very dramatic, and brought some depth to the character of the woman. It was also appropriate and realistic given the circumstances."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The main perspective is that of John only."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "There was good balance overall between the action and John's thoughts about it. Some details were confusing though, such as \"His heart clenched at the sight. This was no stranger, this was someone's daughter, perhaps someone's mother.\" He reacts this way when he sees the name, but presumably seeing the name would make him recognize her as someone he knows, not just that she is a real person (this of course would be obvious with or without her ID)."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "Form and structure don't seem original."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The story was understandable, but there didn't seem to be much depth, even with the detail that John's wife had recently died. I didn't feel like there was an original idea here."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The writing felt original and avoided cliches. However, the repetition of language made the writing seem mechanical at times."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "There were good details that made the world believable, such as \"He recalled learning to drive on these winding roads, clutching the steering wheel with sweaty palms as his father grasped the passenger handle with white knuckles, warning him to slow down\" and \"The accident must have just happened, for the engine was still ticking, motes of steam rising from the dented hood\" and \"He spotted a wedding band on her left hand, glinting in the pale moonlight."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "John's character did not feel completely developed. More detail about his life, and his past with Alice would help with this."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "The story seemed to exist mainly at the surface level. We understand the resonance with the death of this woman with the death of Alice, but this is about the extent of the deeper meaning here."
+                }
+            },
+            "Story4": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "This story comprises a unified whole, each part makes sense and fits together with the other parts."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "The story makes interesting use of allusion, such as the main character's story about the movie theater where the projectionist narrated films. The parallelism with the main character as the narrator or interpreter of events for the dead woman is interesting. There are also references to the impermanence of things, like the cinema in Bucharest, and like the forest used in the German film."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The ending is satisfying, even though the action is not really resolved. The themes of impermanence, of abandonment have been introduced, though. The main character feels abandoned, even though he is alive and supposedly staying with the woman so as not to abandon her. The irony is that she doesn't require it, as she is already \"beyond danger."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The pacing of the story is good, not too compressed, not too drawn out."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "The scenes are vivid, the discovery of the car, the discovery of the woman, the sounds of the distant ambulance, of the rustling in the bushes. These are balanced with the memories and monologue of the main character, which give insight into his own thoughts."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The discovery of the car and the woman are surprising, but are appropriate, and form the basic structure of the story. The story is interesting, but not unbelievable."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "We get the main character's perspective of course, but we also get that of Alex, though the main character's own imagination."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The inner thoughts of the main character are blended well with what is going on outside him. An example of this is: \"He sat for a while without talking, as if it were her turn to speak. Then he heard some movement in the trees. It felt to him like a substantial presence, maybe a bear. He had heard that these mountains were heavily populated by brown bears, and it was illegal to hunt them. In that moment, he felt alone. Abandoned."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The form and structure do not seem to be original."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "I think the reader will find this story interesting in that it suggests themes of impermanence in the world, amidst the most permanent of all conditions, i.e. death. The natural world persists in emptiness and silence, even as we humans try to fill the space with conversation, even with those who can't respond."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The writing seems original and avoids cliches."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "There are good details that bring the world into vivid focus, such as \"He could see fresh signs of damage—the tire marks at the edge of the gravel road, where the car must have gone over, and the scrapes where the undercarriage dragged across a rock, leaving behind a screech in the trees. The wheels of the car were pointing upward, as if the world had been turned on its head and the car were now going to continue driving across the sky\" and \"The radio was on, the real world still keeping in touch. He turned the car off but then decided to leave the tail lights on, so the rescue services would find them more easily if it got dark. The interior of the car smelled of coffee. There was a paper cup on the ceiling, the contents all over the dashboard."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "We get a good insight into the depth of the main character's life, though both his reaction to the accident, as well as what he says to the dead woman, and through the narrator's filling in the blanks."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "There is a good level of rhetorical complexity, combining themes of the silence, emptiness, and impermanence of nature with the sounds of the living, including the screeching of car tires, sirens, and the voices that narrate everything that is happening, whether in a Romanian cinema, or on the side of a cliff."
+                }
+            }
+        },
+        "Jennifer Whitaker": {
+            "Story1": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "No, the story fails to pass the test here. It's as if everything in the story is *too* connected, too tightly wound to be satisfying. The main character's insularity is jarring in the beginning, and by the ending, it feels as if the entire story has tried to serve as a showpiece for this character, despite there not being a lot about him that feels remarkable or nuanced."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "No, not quite. The story does use a fair number of metaphors, and a few if them are quite arresting (e.g., \"It was as if the world had collided with itself\" when describing the wreck site), but overall these don't add up to anything cohesive. \n\nAs a side note but worth mentioning is the overwhelming creepiness of the metaphor that \"The woman's face served as a canvas for his tales, etching the stories of his past across her motionless features.\" The scene, the situation, the description is utterly chilling, and I thought this was going to be something developed and followed up on by the author, but everything progresses in the story without touching on this again."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "No; although the ending doesn't feel rushed (since the story seems to carry on long after the point it should've ended), it denies the reader a sense of closure because of the weird tonal issues which are at odds with the grandness of the setting and the \"big ideas\" that are so readily explained by the narrator."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "No; the moments that seem like they should be drawn out, or could benefit from being drawn out (such as when the man finds the car wreck, when he finds the cabin, on a \"representative\" walk that'd taken on new meaning after finding the wreck) are slowed down but not effectively here. In other words, time in the story is spent in these moments, but the information provided there doesn't actually deepen any kind of understanding of the characters or situations."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "No; as above, the story shows a lack of understanding of how to balance scene and exposition. A description such as \"his steady voice faltering in the face of an incomprehensible tragedy\" feels like such a missed chance; instead of actually letting us see (or hear) something, the story settles for explanation and didactic statements. These weigh the story down."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No; I actually think the initial surprise of him finding the car wreck is pretty well done, but then the story \"jumps the shark\" when he finds--wait for it!--that very same woman's abandoned cabin. This feels really contrived and heavy handed."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, this story doesn't do much by way of diverse perspectives. I suppose the main character is unlikeable for the way he recasts the world in his own image (then again, I realize we all see the world through our own lenses, with ourselves at the center of our own world), but the narrator and story itself doesn't give us much beyond sort of platitudes and vague inspirational quotes like \"he embraced the wilderness that surrounded him, finding solace in its untamed beauty and profound stillness\" and \"Through his art, he hoped to capture the essence of the woman he had encountered and the resilience of the human spirit."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No--there's very little by way of exteriority, despite the fact that the story sets itself as so tied to nature and the ways people interact with and are impacted by nature. There is, of course, plenty of interiority, but it's heavy-handed overall (e.g., \"The tumultuous scene before him mirrored the ever-changing nature of existence itself. Like the mountains, he too had played witness to countless tragedies and triumphs, each a minor chapter in the grand tapestry of life.\"). Sentences like those feel, at best, like writing only concerned with advancing Big Ideas, and, at worst, like lazy writing."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "No, the form of the story doesn't give us much by way of form or structure that is memorable or that does much to advance the story in a meaningful way. The best that can be said here about form is that it doesn't particularly get in the way of the story, but it doesn't help it, either."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "No, there's not a unique or original idea presented here, I'm afraid. The ideas here don't go much deeper than the surface, in ways that feel overdone and fairly cliched. The outrightness of statements like \"finding solace in the reminder that life was transient, that every experience, no matter how profound, eventually returned to dust\" make it feel like overtrodden territory."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "No, here again, the writing stalls out at the level of being predictable overall. It hits upon the theme of the transience of life and the majesty of nature, and then it just recasts this idea again and again throughout the story."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "No, the story doesn't offer much that appeals to the senses beyond a stray description here and there. Rather than descriptions that connect to us on a sensory level, the story gives us vague summary like \"As the man's work gained recognition, his paintings and photographs were exhibited in galleries and museums across the world. People were drawn to the raw emotion and authenticity captured in his pieces, a reflection of his encounter with the tragedy on that fateful day.\" This is overwhelmingly forgettable because it's so summary-driven."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "No, there aren't many characters here to start, and the main character here is a sort of non-character for the lack of care with which he's described or crafted. He feels like a cut-out of a character rather than a fully developed one."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No. There's only surface here, and any possibility for subtext is destroyed by the story's reliance on overwrought statements and heavy-handed proclamations."
+                }
+            },
+            "Story2": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, I think this story passes the unified, engaging test. It's an odd story, to be sure--mainly because of the over-the-top unbelievability of the main character's voice--but the respective parts add up to a pretty cohesive whole."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; I'm a bit torn here because the story is *nearly* overwhelmed by the peculiarity of some of the metaphors (e.g., \"The wrist was cold and waxy, with the appearance of a raw parsnip plucked a few days before\"), but the story overall is handled with some restraint in its metaphor. An example of a successful metaphor--unusual enough to be interesting, but not so unusual as to make it obvious that it wasn't dreamt up by a human--is this: \"he spent his days either socializing with mourners or wandering in the mountains, through the numerous roads and paths that crisscrossed it like a tapestry bordering on disintegration at its seams."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the ending here does feel natural and earned. I am *not* a particular fan of the ending writing itself, as the final paragraph puts too tidy a bow on the \"meaning\" he found (rather than leaving the reader with something to ponder), but I do this it's purposeful. For my money, I'd advocate for ending the story a couple paragraphs earlier, so that it finishes on more of a scene--but this is an unoffensive ending."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, I think the story passes this test in terms of pacing and timing overall. The description and narrative movement slows down at strategic points--finding the wreck, the character's struggle with what to do next, the reminder of childhood at the lake, etc.--and the pacing generally hums along without stalling out. \n\nAs a note, this isn't *strictly* a matter of pacing--more stylistic--but the story overall has the quality of things being a little too...modified, as if the writer is trying too hard to write Importantly, if that makes sense. Rather than 'the sight of 1950s coupe' it's the \"tragic\" sight; a \"brutal accident,\" etc. Now, of course modification can add a lot to writing; however, the story does tend toward these editorializing modifiers, which feels a little too easy of a tactic for me as a reader."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, overall. As above, there's a pretty well handled sense of when to slow down here, and the story moves as a fine clip, which is at least partially due to the balance between summary and scene. I will say that the scenes themselves are a little too fleeting for my taste--I think slowing down even more and waiting in description could help quite a bit--but I still think the story passes the test here."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No; despite the overall success of this story, I wouldn't say the story contains turns that are particularly surprising. The universe of the story is one that is nearly apocalyptic in its desolation, and so I would think that something as jarring as the wreck and finding the woman's body would stand out, but the pacing and description of the story stays pretty constant throughout. More description, or a shift in syntax, or *something* that strikes the reader as different would help the \"turns\" to feel like more here."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No; and this comes down for me mainly to the \"convincing\" aspect of the test. it's one thing for a peculiar narrator to have an internal monologue that is also peculiar, in its ideas or phrasing or dialect/idiolect/etc. However, the words that are put into the mouth of this main character are, for me, entirely unbelievable. From the slightly nonsensical (e.g., \"So unsimulated is this place\") to the just plain weird (e.g., \"What a deuce of a land it must be, this land I am in!\"), the way this character speaks strains credulity.  \n\nAnd the crime of it is that the only other time we get spoke words in the story, it's well handled! When the driver says \"Sir, we got word of an accident down the mountain,\" it sounds dialectically believable and idiomatic and great! This makes, for me, the fact that the main character speaks like a C- version of a Shakespearean side character all the more noticeable."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, I think this is ultimately successful. A phrase such as \"oddly enough, they were each other’s only company amidst their lonely surroundings\" feels true to this world, and shows the main character's connection to the outer world as well."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, although it pains me to say this here, I think the story does show some originality in its form. The structure itself is pretty well handled and seems to suit the subject matter, and the style of the piece--overdone at times as I think it is--generally gives the reader something to hold onto in terms of its shape."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, overall I think this story can give the reader a somewhat original understanding of this man's connection to the land. It feels to me written in the image of McCarthy's _The Road_, or like it's trying to do similar things--the grandiosity and perspective of the main character, the desolation of the land combined with the \"incursion\" of the man-made and tragic."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this is successful here I believe. The story doesn't feel like a cliche, and generally avoids cliches themselves. There's a novelty to the descriptions and insights here, even if it does go too far in the other direction sometimes."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this fictional world feels believable for the mountains of Appalachia. Again here, my hesitation in this criterion is the entire unbelievability of an actual human speaking like that, but the world building itself feels successful."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; this is a close call for me for the voice issues I've mentioned at such length at this point, but in terms of character development itself, it feels believably done. Sure, the truck guy is there just to keep the story moving, but the way he speaks is so believable and has the cadence of real, actual speech, which is a relief in light of our main character's penchant for speaking like a robot version of soliloquy."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No, I think this is an area for possibility for this story still. The surface here is pretty richly painted, but there's not enough nuance for subtext to be at work here, I believe. There are moments that *could* be symbolic or commentary or hidden (the way the wreck is described, the description of the world as \"sepia-toned photograph, etc.), but it fails to be developed as the story continues."
+                }
+            },
+            "Story3": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "No, the story doesn't quite pass this test here. There are a fair number of cohesion problems in the story (time issues, mostly) which makes the story feel underconsidered or under-edited. I do end up caring about John by the ending--he's drawn as a caring, good person--but the threads of the story don't unify quite enough for me here."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "No, this isn't quite sophisticated enough to pass the test here. There are some idioms and metaphors used, but none add up to a richer experience for the reader."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, although I don't think the ending is particularly strong because it ends in \"moral of the story\" territory, it is at least framed nicely within the confines of the end to a long night. The story ending on John's thinking about Alice and the mountains also feels fitting given the focus of the story itself."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "No, this feels hard to manage here. As mentioned above, there are some jarring narrative inconsistencies in the story (i.e., John \"rushed over quickly but saw immediately that the female driver was motionless, clearly deceased, her pallid face marred with rivulets of dried blood\"; the next paragraph then says, inexplicably, \"Rushing over to investigate further, he saw a woman slumped over the steering wheel, airbag deployed but lifeless, clearly deceased. He whipped out his cellphone but there was no signal. Holding back panic, he checked for a pulse multiple times, to no avail. Her pale face was marred with rivulets of dried blood, her limp body twisted in a way that signaled her neck was likely broken.\"). This serves to break the believability of the story. (The other notable instance of this was when the narrator says that the accident must have just happened, but then John feels her \"cold, clammy skin.\") While these elements might not seem strictly related to pacing, they make the story hiccup weirdly, and pull out out of the story-world into the world in which we're reading a story (which works against the suspension of disbelief that comes with fine writing)."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the story here is pretty successful. Information is delivered in manageable chunks for the reader, and the story is willing to slow down enough to give us scenes that overall feel believable. The exception for me here is in the answering the cell phone \"scene\"; it's written as a scene, but nearly the whole thing is glossed over with summary, which makes it lose a lot of its impact."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No. Although I find this story to be successful in some areas, the turns that happen in the story feel a little abrupt (as in the case of finding the wreck) and/or manhandled (as in the case of the shift to John answering the woman's phone, which mysteriously has signal). I was genuinely surprised to figure out what was happening with the phone ringing, but the \"scene\" as mentioned above feels rushed through, so that it feels like a little too much for story to sustain."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes. I'll answer yes here because the perspectives offered are finely handled, though there's nothing particularly diverse about perspectives offered here. But there's also nothing objectionably done here, so I suspect a yes is the best answer, since I feel like I can understand the characters' motivations and the reasons behind their actions."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, this is a story that's a bit too interior to be wholly successful I believe. There is plot movement, but there's a lot of time languishing--which *could* be useful to make the reader feel the waiting that John does with Jenny Thompson's body--but right now, it feels unremarkably handled. In part, I think this comes down to the fact that the story feels very average syntactically; nothing different seems to happen with sentence structure or description throughout, so everything takes on the same feel as everything else."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "No, the story misses the mark here I believe. In addition to the narrative inconsistencies mentioned earlier, the writing settles for a fairly predictable, sun-up to sun-down structure, and there's not enough notable or memorable in the writing to make it stand out in other ways. There's a sort of slap-dash quality to some of the statements, too (e.g., \"her loved ones who would soon get the terrible news\" after he's already talked to Jenny's husband), which make it feel like it wasn't revised and edited properly for structural and/or narrative cohesion."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "No, there's not too much that's original by way of ideas here. When the narrator describes putting the jacket on Jenny's body as \"a small act of compassion for this poor soul,\" it feels like this is supposed to be part of the grand idea of the story, but John's staying with Jenny Thompson's body, and even talking to her husband on the phone, feels too \"evened out\" to be particularly meaningful. In other words, the cadence of the narrator's description and pacing don't change when it comes to these moments, and as a result, what I think is supposed to feel like a vigil for the dead, an act of compassion for a stranger, instead ends up feeling so interior and unremarkable."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "No; unfortunately, the story contains some cliches as the level of language (e.g., \"each recollection opening the wound anew,\"  The darkness seemed poised to swallow them whole\"), and the entire set up of the story as one that pairs a man's personal tragedy with that of another feels a bit overdone."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; narrative inconsistencies aside, the sensory descriptions here do tend toward feeling like the world is believable. Again here, I would've benefitted from more scene and description, but details like the ticking of the engine feel of-the-world and compelling."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; while John doesn't really undergo meaningful change in the story (despite what the ending would seem to want us to believe), the way he connects his person tragedy of losing Alice to the death of this woman and the loss to her family feels believable."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No, the story doesn't give us quite enough to build up subtext here. What we see is what we get with John and his story, and although there's parts that are successful in the story to be sure, the creation of subtext feels lacking. Part of this might be based in the fact that we don't really get to see John interact with many other people; the phone call feels like the biggest opportunity, but it's given to us in summary mostly, which mitigates any subtext clues we could get otherwise."
+                }
+            },
+            "Story4": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this story has a unification to it that helps it hold together throughout. The satisfaction that comes by the story's end is due, at least in part, to the fact that we have a believably nuanced character who seems to have actually, really been affected by this tragedy--not just seeing the tragedy as a mirror version of his own, but understanding his own experiences (somewhat mysterious as they are) in the context of his \"job\" now, which is to bring comfort to this woman. The fact that she's dead and \"beyond\" comfort is, of course, what makes it actually about the main character, and this complexity is what makes this story cohesive and infinitely believable."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the metaphors here are carefully meted out, so that they actually support the ideas of the story rather than overwhelm them. A description such as \"the components of emptiness; It was as though the landscape were in shock\" is arresting and captures a feeling while deepening our understanding of the plot points and character(s)."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; the arc of the story feels very well realized, and the sense of closure comes not just for the main character but for the reader as well. The fact that we are denied what might masquerade as closure elsewhere--emergency services arriving, \"answers\" about who this woman was or Alex, etc.--actually feels like the \"right-est\" kind of closure for this story: We're left with the main character struggling with his sense of responsibility and compassion in a foreign place without a guidebook for how to correctly do this act of kindness and vigil (and bear-scaring-away)."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, yes and yes. I am in love with this author's use of suspension and compression of timing in the story. The shift in syntax to the declaiming, succinct, \"Everything was calm now. Nothing more could happen\" feels rich and nuanced and like revelation for the reader because we are understanding how the main character is describing the world and situation to himself, what he's saying to self-soothe as much as anything else. He's not telling us what we should believe about the situation; it's like we're allowed to \"overhear\" the conversation he's having with himself and the woman's body. It's super effective."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this is quite well done here as well. There's a good amount of exposition here, but we're always dragged back to the scene of the wreck. The author doesn't let us lose sight of the context here, and that's part of what makes the scene/summary balance really useful and strategic here."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; the turns here are mostly of the interior variety (the information given to us through the main character's talking to the woman), and even so, they are artfully done. We are given enough information to feel for our main character without the story feeling like it's only there to tell us his story, if that makes sense."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes. This story isn't huge on diverse perspectives, since it's so linked to our one main character, but the ways we see him interact with the woman('s body), the person at the hotel on the phone, and even the imagined interaction with Alex present perspectives in a convincing way."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, and this is one of the story's main strengths, I believe. It's exceedingly difficult to make a story so compelling with so little interaction between (live) characters, but this author manages it beautifully, such that we feel the resonance of him singing at the end \"to scare off the predators\" as an act of solidarity and compassion and reclamation. The interior landscape is built here and then \"shared\" with the reader because the main character \"shares\" it with the woman's body: it's a weird and slightly unsettling detail that rounds out the interior-made-exterior here nicely."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this is well managed as well. In addition to the compelling way the author crafts the narrative itself, the language and style let us weave in and out of memory and the present moment, and the fluidity of these different landscapes makes it both original and believable."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "Yes! The bones of the story--solitary man finds woman's body from a car crash in an isolated place, wrestles with his own and others' mortality--have of course been seen before, but the ideas (built through the backstory we get through the main character's storytelling) feel human and nuanced and compellingly articulated here."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "Yes. The story is free from cliches, both of the narrative and language variety."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, and I can't state this strongly enough. This place feels *so* real: \"the tire marks at the edge of the gravel road, where the car must have gone over, and the scrapes where the undercarriage dragged across a rock, leaving behind a screech in the trees,\" \"The radio was on, the real world still keeping in touch,\" and descriptions we get from the main character's memory all add up to a world that feels not just real but one that's been actually experienced by the characters."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, our main character is wholly complex. Even the ways we see his talking to the woman through summary--which is very, very hard to do, indeed, show us something of him as a real-seeming person: \"He told her not to worry, he would stay with her until they arrived, even though it was almost fully dark by then, only the stars out above them and a black infinity in the trees.\" This is ALSO exceedingly hard to do, I'd argue, in the third-person, but the author accomplishes it beautifully by attention to sentence structure and language."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "Yes. There is so much richness here; I'm still thinking about the subtext of the \"running commentary, delivered in a flat, disinterested tone, as if the translator had seen this movie a million times, there was nothing new in it for him. And sometimes, he told her, the voice disappeared, leaving the audience guessing. Maybe the invisible translator got distracted, lighting a cigarette or eating a sandwich, or maybe he was so taken by the action in the movie that he was suddenly unable to speak. Then the voice would come back and rush through long scenes in a few breathless lines.\" Oh, my gosh. This is artfully done here, lending layers of meaning to the situation of the story and that which we image for the main character. The idea that the main character comes back to (in some form or fashion) a few times, that \"in that moment, he felt alone. Abandoned. He had been left behind in the living world, while she lay beside him, beyond danger. He had a duty to stay alive, to feel hope and to be interested in the future, while she had come to some peace with herself. Nothing could hurt her now\" feels connected to the character's own story through what he says to try to \"help\" her. I love it; we see him self-soothing in his own panic through the lens of helping her, and the inclusion of parts of his (presumably real) story help to make the whole situation more meaningful for the reader."
+                }
+            }
+        },
+        "Jameson Owens": {
+            "Story1": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "This story's only cohering elements are the constant, perfect triumph of the protagonist through roughly connected, almost nonsensical events, and the narrator's almost narcissistic identification with him."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "Instead of simply telling the story, the narration tries to tell the reader how to feel, repeating melodramatic words and phrases like \"solace,\" \"beauty,\" \"testament,\" \"sanctuary,\" and \"unyielding desire.\" This persistent melodrama bears the mark of a writer who is not experienced in writing fiction in English."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "None of this story is natural, and the ending is no exception. There are many reasons for this, but the main one is that the events in this story are simply things that don't actually happen to people in real life. Each event seems to be better for the protagonist than the last, arbitrarily boosting him up through life without any tension or doubt. The end is the same."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "Time seems to stretch and compress only to do what the writer wants to do in a given moment. In other words, this is a piece in which the writer forces events onto the story instead of discovering what the story itself requires."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "There are really only two scenes here, and only one of them really counts as a truly present scene. Everything else is very rushed summary."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "Unsurprising elements like the protagonist's constant success felt predictable and unsurprising. The discovery of the cabin, while surprising, felt unearned."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story only presents one perspective, and it is not convincing."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "This is difficult to say. This balance is definitely the least problematic element of this story, but that seems partially to be because it is almost entirely summary."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "While the structure used is not common in short fiction, that is only the case because it isn't much of a structure at all. Narrative structures are based on tension, and this story has none."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "I'm not sure what the thrust of the story is. A random man seems to co-opt the death of a woman he does not know and use it for his own artistic and financial gain, while somehow gaining a sort of connection to her, even before he knows anything about her."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "This relates to the use of idiom in the story. Linguistically, this story dips into cliche at every turn, by using melodramatic \"beauty\" words."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "At the story's beginning, there were some good sensory details, like the snow under the man's boots. Those did not continue to the rest of the story."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The dead woman is very obviously a plot device."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "This story suffers from being impacted: the surface and the subtext are meant to be one and the same. This makes neither of them successful."
+                }
+            },
+            "Story2": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Satisfying is a strong word, but this story happens all in one short period of time--important for a story of this length--and its elements, for the most part, work together."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "Again, sophisticated is a strong word, but this story does show a working knowledge of both denotation and connotation, and worked to set a mood through its literal description, instead of telling the reader how to feel about things."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "This story, like the first, sums itself up in a way that seems to suggest that the story was not actually for itself, but for the sake of some predetermined over-arching moral or thought: the fleeting nature of life, etc. This theme should be something that the readers gather naturally by the end, not by the narrator telling them how to feel."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "This story handles time nicely, and that's related largely to its use of summary and scene. It uses just enough summary at the beginning to drop the reader in, and once we're in, everything happens in one time period. And in the scenes, enough time is spent on the surrounding world to realize it, but not get bogged down in it."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "See above."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "While this story is more enjoyable to read than the first, its narrative structure is strange and lacking coherence: There is a man; this man discovers a car accident while walking; he is conveniently picked up by strangers; the end. The events are governed by coincidence, not by necessity."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The protagonist of the story is convincingly strange, but that is all. The things he says are odd, but don't give the reader any real insight into a particular perspective."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "There is a nice balance between the character, Finch, and the world around him."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "See answer 6."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The fleeting nature of life is the least original of ideas, perhaps second only to the solace of nature; so, no, the readers will not be learning anything new, if they are adults."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The similes and metaphors in this story were perhaps its greatest strengths. They were mostly interesting and original."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "The writer uses many vivid verbs, sufficient literal descriptions, and evocative figurative comparisons."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The characters seem to be operating at the appropriate levels of roundness and flatness, however, there seems to be no development of them whatsoever."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "In order for there to be subtext in a story, things must remain unsaid. Because this story chooses to tell the reader all its intentions at the end, it removes any possibility of subtext."
+                }
+            },
+            "Story3": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "This story's parts work together well. They're believable enough and emotionally resonant."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "My first thought was no, since I couldn't think of any examples off the top of my head, but on second thought, that seems like a mark of fluency and fluidity. Though there aren't any examples of truly great or startling metaphor, the plainness of this story's telling seems to demonstrate some experience and fluency on the writer's part."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "This story still explains the protagonist's feelings far too much, but even so, this ending feels much quieter and realer than the stories before it. The sensory presence of absence in his bed worked well at the end."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Simply, yes. The past is dealt with in thoughts only, while all the story's actual events happen in the present, in scene."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "This story seems to try to eliminate summary wherever possible, and that is the right impulse. This story is the most engaging and emotionally resonant so far, largely because of this excision of summary and prioritization of scene."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "My true feeling about this question is more neutral than positive, but if I have to pick one, I'll choose yes. While none of the event in the story are very surprising--except for the beginning, in which the story doesn't have enough context to actually be surprising--most of the events ARE appropriate for the story, setting, and scene."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "This question does not completely apply to this story in particular, since it isn't undertaking to represent diverse perspectives, but the perspective that it does portray is fairly believable."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "It does achieve more emotional flexibility than the other stories, but this story's primary way of communicating interiority is still through telling, through directly explaining the protagonist's feelings, which is not an effective way of creating a believable interiority."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "This story does not do anything particularly original in any of the ways described above."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The reader will not gain a unique or original idea, but they will have had a particular emotional experience that is somewhat effective."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "This story is still operating on many common, faulty, clichéd story devices. One is the dead wife; one is the vulnerable--or, in these cases, dead--strange woman in need; another is the protagonist who is not someone with real agency, but someone to whom things just happen; and the last is the ending that sums up the main idea of the story: life moves on indifferently. These are all pretty clichéd ideas."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "The writer's use of light and darkness, silence and sound, work well and compliment the story."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "I'm sort of neutral on this. The characters do serve their purposes, and they are developed enough to serve them, but their purposes are largely to satisfy plot requirements that allow us into the interiority of the protagonist. So, the other characters still feel used, rather than truly alive (or truly dead)."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "This story almost achieves subtext, but it still clearly states its subtext, which again makes subtext impossible."
+                }
+            },
+            "Story4": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "This story brings together separate lives, experiences, and sensations to create a coherent, unified story."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "The language used in this story is an example of what the beginning of language mastery actually looks like. There are no, or very few, standout idioms or metaphors or literary allusions, but the plain language in which it is written is just the kind of language that serves it best."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "This ending does have both a sense of arbitrariness and one of just-so-ness, but it is the best by far, and it gives the reader interesting insights into the protagonist himself, without overstating them."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The handling of time here is nearly perfect for this story. There is a sense of past, but it is without flashback, and its exposition feels natural because the protagonist is explaining it to the dead woman."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "This story spends almost all of its time in scene and handles summary very cleverly and awarely."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "This story's use of insight into the protagonist's life through summary is effective and contains surprising elements that then become relevant in the real life of the story."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "There is really only one perspective here, but it is convincing."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "This writer's treatment of surroundings is spare enough not to distract from the protagonist, but present enough to inform our view of him and his situation."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "Ending this story before the ambulance arrives and in the tension of not knowing if/when it will is an original and effective move."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "Again, perhaps not an idea in particular, but an experience, a feeling, and a set of ideas together. I think everything about the protagonists' life--from his need to talk to the dead about it to the actual events of it--is unique and interesting."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "Some of the language about the danger and beauty of the mountains is a little clichéd, as is some of the language about the passing nature of life and experiences, but mostly, this story is effective, and the clichés do not distract too much."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "There is a very fine level of detail here. From the scrape marks left on the rock, to the flashlight on the woman's phone, to the nothingness of the woodland sounds, the sensory details in this story are working effectively."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "There is only one real character in this story--the man. The woman is more of an object used to reflect the man. Maybe that is a fault, or maybe it works for this story. I lean toward the idea that it is a fault, simply because I could easily see this story as the end of a much longer story about these two people's separate lives converging in this accident. In other words, when I think about it, the woman still feels like a plot device, but in the experience of reading the story, her passivity does not stand out or distract. So, I'm sort of neutral on this question."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "This story has some subtext because it does not explain everything that happens. Disparate events and thoughts happen and are pushed together, but they're not explained; they're just made to sit together. This is the beginning of subtext. It isn't particularly rich, but it is subtext."
+                }
+            }
+        }
+    }
+}

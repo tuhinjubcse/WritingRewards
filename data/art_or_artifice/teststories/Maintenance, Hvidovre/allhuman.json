@@ -1,0 +1,718 @@
+{
+    "Maintenance, Hvidovre": {
+        "Patrick Wing": {
+            "Story1": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "A couple things did not make sense in this story. It was unclear why the woman was in the hospital and her real baby was already at home. Presumably she was in the hospital to give birth, but she goes home and her real baby is already at home. It's also unclear why she should have more flow of breast milk because two different babies were nursing. Presumably this would happen if two babies were nursing at the same time, but not if two different babies nursed at two different times. The long-term emotional attachment the woman has to the brown-eyed baby also seems unrealistic. I didn't understand why she continued to be so profoundly attached to him over the long term."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The story doesn't make sophisticated use of these literary devices."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending seemed arbitrary. The main action (i.e. the interaction between the woman and the brown-eyed child) happened a while ago, and it isn't clear why the story ends at this vague point in the future."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The manipulation of time seems reasonable; the stretching of time around the time of the birth, and the compression of time as the story moves farther away from the birth is reasonable. However, the ending would probably be improved by a return to a scene in which time passes in the \"present\", rather than trailing off at a vague point in the future."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "I thought there was a good balance between scene and exposition. The pace is good. An improvement would be more background about Laura in the time before this experience."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The fact that Laura is so emotionally affected by the mistake, and caring for the other boy, does not seem appropriate, or at least, it isn't explained. There may be some reason for her feelings, but the reader doesn't really understand why she feels such sorrow and anguish at being separated."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The only perspective we have is of Laura, and even then the reasons for the strong emotions she feels are not really explained, either by background exposition, or other allusions throughout the narrative."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "I thought there was a good balance here, we get a description of events happening around Laura, as well as her feelings about what is happening, and neither outweighs the other. The exception is at the ending, where more specific action happening in the world would be helpful."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The form and structure does not seem original, both are familiar and straightforward."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "It seems like the reader would come away with the idea that Laura endured a long-term emotional trauma that she never quite recovered from. I'm not sure if there is much more that the reader would take away. I think that for the story to pass this test, there would need to be more context and depth around Laura's character, including her background and the reasons for her feelings."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "This story avoids cliches, and the writing does seem original."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "The author does a good job in creating a believable world, with details like the smell of the baby who has just nursed, the baby's soft hair and delicate ear."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The only character which is developed at all is Laura, and even with her it is difficult to understand the source of her feelings, or much about her character, beyond the fact that she is anguished by the separation from the baby."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "It didn't seem to me that there was much meaning or complexity apart from the surface action and the reflections from Laura's point of view."
+                }
+            },
+            "Story2": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The story does not work together as a unified whole, and there are some aspects that do not make sense. It is unclear why Lily and the other woman decide to switch their babies. This doesn't seem like a logical outcome of a night of supportive conversation. It also seems absurd that the hospital would allow two people to simply switch babies. The encounter with the older man who knew Lily's mother also doesn't make sense. They are at a showing of Grace's artwork, so why does the old man say that Lily is an extraordinary artist? Presumably, her artwork is not on the wall. Besides, Grace is not her biological daughter, so how did Lily pass on her own mother's talent to her daughter? The ending of the story has redundant passages, and doesn't fit together with the first part of the story. How was the mix-up in the maternity ward related to Lily's discovery of her own artistic talent?"
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The language is straightforward, and does not make sophisticated use of these devices."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The end of the story feels arbitrary, in so far as the ideas at the end of the story don't seem to follow from the events at the beginning of the story. We are left with Lily's sense of peace because she had found art and motherhood. Yet, the connection between these two things is not clear in the story."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The last couple pages are characterized by a vague sense of time, which is repetitive and not tied to any specific chronology. We are told that \"in the end\" things happen, but then they continue to happen, so it is not clear when \"the end\" is. This is disorienting and confusing."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "The summary of events over the course of the last two pages is rambling and redundant. The events here could be summed up in a more concise way, and some of the details could be more drawn out. For example, what were the communities Lily was working with? What work about social justice was she doing? These events could be explained in greater detail. On the other hand, the \"mix-up in the maternity ward\" is mentioned a few times, which seems unnecessary."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The turns taken in the story don't seem appropriate. Lily's decision to switch babies isn't really explained. The shift in focus from her daughter to her own art career doesn't really work, and the connection between them is not clear. The encounter with the man who knew Lily's mother has the potential to be interesting and surprising, yet, he praises Lily's artistic ability at an art show exhibiting Grace's art, and thus is confusing."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The other mother disappears from the narrative without much explanation, and Lily is really the only character whose perspective is developed at all."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "There is a good balance between action and Lily's interior thoughts, especially in the first half of the story. Things are happening around her, and she reacts to them. This balance declines as the story goes on, and we get more and more summary that seems removed from Lily's own character."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "There is nothing really original about the story's form or structure."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "Perhaps if the emotional connection between the hospital encounter and Lily's later life could be explained, there could be an interesting idea here about motherhood, creativity, support, etc., but as it is, these ideas aren't really developed together."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The end of the story drifts toward cliche and uninteresting language. For example, \"she brought together people from diverse backgrounds, bridging the gaps that divided them and fostering understanding.\" This sentence really doesn't say much of anything about what Lily was doing or why she was doing it. Another example: \"Through workshops and mentorship programs, she empowered individuals to find their own creative voices and reimagine their realities.\" How did she do this? Who were the people? What were the specific consequences?"
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "Overall, no. There is good attention to details at the beginning, including things like Lily's room number, the pale faces of new mothers, the wailing of infants. This type of specific sensory detail fades over the course of the story."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Lily is the only character that is developed to any extent, and even then it is unclear why she does many of the things she does (e.g. switching babies, creating art for social change)."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "I couldn't discern much of any meaning or allusion below the surface meaning of the narrative."
+                }
+            },
+            "Story3": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Every event and reference in this story seemed to move the narrative along, and reveal something important about Marie."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "This story makes effective use of metaphor, such as the reference to curtains lime amniotic membranes, or life as a tapestry of tangled thread. The allusion to the mythological Autolycus also invites some thought about the meaning of the name, and the theme of theft in the story (i.e. the switching of the babies as a kind of theft)."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The end of the story is satisfying, the resolution coming with the end of the night, and the confusion and uncertainty that came with it, and the recognition of the other woman, and Marie's felt connection with her."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The pacing is well-balanced, in that the actions taking place over the night are balanced with Marie's thoughts about coming to the hospital, and ending up in the maternity ward."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "The story does a good job of filling in background and providing depth to the characters through details in the scenes. For example, we get references of Marie's fears and horror at motherhood, even as she is going through the procedures necessary to become a mother (going to the hospital, giving birth, staying in the maternity ward). Expository information about Marie is conveyed through descriptions in the scenes, which helps the author avoid tedious summaries of facts about Marie's life."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The fact that Marie takes the other baby is surprising, even shocking, and yet it is described in such subtle ways in the narrative as to make it seem almost natural. This is the best aspect of this story, in my opinion. The reader is convinced of the propriety of this act through the subtle description of the action. If the action was described in a more straightforward way, we would be less sympathetic to Marie."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "We get a little bit of the annoyance of the nurse, but nothing really about the other woman. Marie's perspective dominates the story."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "In my view there is a good balance between the inner life of Marie, including her sense of fear and forboding, as well as her sense of peace by the end, and the exterior world of the maternity ward."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "I'm not sure if the form and structure is all that original. Still, it seems appropriate to the story."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "I think the interesting idea here is the subversion of the way mothers are supposed to feel about giving birth. Marie is uneasy and fearful and horrified at motherhood, but finds peace in the connection she finds to both the other baby and its mother."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "At times the language gets a bit convoluted (e.g. \"Marie imagined herself and the other mother entwined within some invisible snarl, a fabric that spanned outwards towards the concept of kin, weaving thickets of connection through the generations.\"). Yet, overall the language and style is original and avoids cliche."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "The world is described very richly, and there are plenty of details that make the setting real and believable. For example, \"Fat bundles of stardust swaddled in textiles of sky-blue, daisy-yellow, or April-green\" and \"The air tasted honeyed, the sweet mixture of milk and warmth permeating throughout the room."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The focus is mainly on Marie, and so we can't really say that other characters are developed with any complexity."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "I think the story does operate at multiple levels. The hospital  is both a frightening, towering monolith, and a place of serene peace, as if surrounded by amniotic membranes. There are fragrant flowers and cold stone walls. These physical contrasts work together with the emotional contrasts we get about childbirth, which is described as both a frightening, and tender experience."
+                }
+            },
+            "Story4": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The story does hold together well. Elements like the bleeding, the encounters with other new mothers, the question \"did you seen my kid\" help to give the story coherence, even when it gets strange and surreal."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "The language is somewhat clipped and abrupt, and helps to build tension and suspense. For example, \"The hospital was still. The hospital gown was unfathomably long; it hung down between my legs. My strange, distant feet walked. The child lay like a shadow in the cot as I opened the door. The door made a sweeping sound.\" Similarly, the allusion to the women who have lost their breasts is effective in suggesting the narrator's pain and loss, and feeling of being alienated from her body."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The ending is abrupt, but its abruptness fits with the clipped language throughout the story. The ending provides a kind of resolution while also leaving the me curious and thinking about the meaning of what I just read."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Much of the time of the story is happening \"now,\" there isn't a lot of stretching of time. This pacing works well, in my opinion, and helps to sustain a feeling of suspense and unease."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Most of the story unfolds as \"scene\" but this is appropriately balanced with some exposition and summary, such as in passage like \"When I was taken upstairs from the delivery room back to my own room, the porter had told me that I’d given birth in a part of the hospital that was built during the Cold War. I hadn’t known that I’d given birth underground. But there were several floors down there that had been constructed to withstand a nuclear blast."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The elements that are surprising, such as the encounters with the zombie-like women, the disappearance of the baby, the discovery it is the \"wrong\" baby, the whitewashing scene outside the hospital, all lend an air of surreal suspense. These elements don't seem inappropriate, however, as the reader understands that these elements exist to evoke the feelings of unease and disorientation of giving birth in a hospital, something natural and supposedly happy and beautiful, surrounded by windowless, badly-lit corridors, subterranean nuclear bomb shelters, constant bleeding and discomfort, etc."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The perspective comes mainly from the narrator, and it is unclear what the other characters are thinking. The encounter with the other woman at the end is encapsulated simply with \"time passed."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "I think the author does a very good job of bringing together the jarring atmosphere of the hospital with the thoughts and feelings of the narrator. Each seems to be a reflection of the other."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "The surreal middle part of the story is original and works well. There is a strange \"group cleanse\" among the new mothers, all of whom are disoriented and out of sorts, which is bookended by the more realistic scenes that the narrator experiences in the hospital."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "The reader is left with a feeling of disorientation, confusion, alienation, and is confronted by the fact that these feelings are closely connected to the birth of a child, who may or may not be even the child the narrator gave birth to. The final allusion to happiness seems to turn all of this on its head at the end in a way that is interesting."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The writing seems quite original, and avoids cliche."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "There are plenty of sensory details that help to evoke a believable, if somewhat surreal world. For example, \"Blood ran down our legs, soaking our saggy hospital socks and mingling with the white liquid on the ground. The red and the white couldn’t agree, wouldn’t mix, but wove together in long marbly rivulets. A strange fog came down around the gable end, whose maintenance was our responsibility.\" Another great passage is \"The room was blue. Yet the long white curtains seemed to glow with a sinister light, like two cylinders of glass filled with bleach. Gradually, the morning emerged outside the window."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The narrator is the single character who is developed with any complexity."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "The story is really rich in different layers of complexity. There are allusions to zombies, to pre-modern mutilations of women, to nuclear war, to being in a maze (i.e. the corridor, the hedges). All of these elements contribute to themes of confusion, pain, disorientation."
+                }
+            }
+        },
+        "Connor Greer": {
+            "Story1": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Story follows a clear plot trajectory. It does not double back on itself and the progressions in the plot make sense."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "Though the language in the story is understated, it consistently and repeatedly employs cliches and uses adverbs in frustrating ways. For example, turns of phrase like “Laura's heart shattered into pieces…”, or “tiny bundle”, or the repetition, again and again, of “little boy with brown eyes”. Adverbs like “smiley” are also challenging to accept."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The ending is not particularly nuanced or complicated, nor is it satisfying; however, given the story’s broader issues with complexity, it is a fitting ending and feels neither rushed nor arbitrary. The progression towards acceptance and normalcy which the story leans on, for better or worse, reached its culmination in its ending."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "In general, the pacing of the story is strong. Though the story has difficulty staying in-scene, it flows easily through time and is consistent in its use of temporal signposts. It could, perhaps, slow down a bit at the end, but that would be more in service of a level of emotional complexity that the story does not seem interested in exploring."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "The story has a lot of difficulty staying in-scene. At the same time, however, it does not fall too deeply into exposition, rather it maintains a consistent paraphrase, pulling into and out of dialogue elegantly enough to give the illusion of depth. Still, I suspect the story’s broader issues with complexity could be resolved by giving more space to in-scene moments."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "There are two ways to answer this. On the one hand, the story follows an easily anticipated trajectory—the mother and her child are reunited. The other child is remembered fondly and, in fact, his memory ultimately serves to increase the mother’s care for her own child. On the other, what makes this both interesting and frustrating is that the beginning of the narrative is profoundly ominous—the narrator’s obsession with the “wrong” child hints at a different story, one darker and more twisted. However, the story does neither follows that trajectory nor seems to incorporate its implications. Is that expected or unexpected? It works against what it suggests. I guess that is exciting in a way."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The narrator’s love for the “wrong” child is as close as the story gets to flexibility or to depicting ambiguity. At this stage, the story does not seem capable of dwelling in that complexity, allowing for easy and complete solutions to the dolmens being presented."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story struggles with depicting emotion outside of outright statements. For instance, “Having fed him when she woke up, she grew attached to the little stranger in her arms. She spent a blissful few hours getting to know the little boy, his expressions, sounds and gestures” or “She begged the nurse to give her a few more minutes but the nurse insisted he be returned to the rightful mother immediately. Laura's heart shattered into pieces as she watched the nurse disappear down the hallway with the little boy“. Very rarely does the story rely on implication."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The story follows a standard progression and resolves all of the questions that it asks about the nature of love and motherhood. There are no cracks in the solutions it provides."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "Likewise, there is little nuance in the themes on display. Love is love. The “correct” order is restored and, indeed, the “test” of the narrator’s love is rewarded with a stronger reiteration of that order."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The story consistently displays a cliched and hackneyed understanding of the situation it depicts. This is especially challenging at the end: “ She hoped his mother held him tight and never stopped appreciating the gift she'd been given. She knew, in that short time together, her life had intertwined with a stranger's in a way she'd never forget” and “Her secret experience had opened her eyes to the fragility of life and deepened her appreciation for the blessings she had been given…Her life felt more complete than she had ever imagined, yet still, she kept the little brown-eyed boy tucked away in her heart - a symbol of the wonder and possibility each new life holds.”"
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "Though not entirely without texture, the story sticks primarily to paraphrase and even vital characters to the plot, such as as the other “wrong” child are primarily described in broad and vague terms—to the point that I remember him only as “little boy with brown eyes” without any other characteristics."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The narrator superficially struggles in her encounter with the “wrong” child, but there is no meaningful change or development to her character. She does not come to see love differently or to new understandings about the world. Rather, her sense of the world is ultimately reiterated rather than complicated."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "The story struggles at providing subtext or showing the narrative that it tells. Rather, the reader is told directly what the narrator feels and by extension what the story intends for them to feel, think, and believe."
+                }
+            },
+            "Story2": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The narrative consistently shifts so quickly that it is entirely implausible or nonsensical and includes scenes, especially in the second half with Lily, that are positively baffling."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The story uses overwrought language throughout. For instance, early on: “Each room seemed to contain its own unique symphony of wailing infants, creating a disorienting chorus that reverberated through the halls”. This language is matched by the narrative’s overwhelming melodrama, so perhaps it is fitting, but the reading experience is more than displeasing."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "Many of the decisions the story makes are startling and baffling, starting with the mothers’ decision to swap children. By the story’s end, the rapid description of Lily’s life and career as an artist feels ludicrous, and the thought that this career and the child-swap might emotionally resonate in some way with a reader is deeply ridiculous."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The narrative pairs its absurd leaps in logic with equally massive leaps in time. Both are impossible to accept and the story’s attempt to wave these problems away with signposting like “Years later” is so goofy it is almost transcendent."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "Though the story does contain some scenes within its summary, all of them are ludicrous, starting with the conversation about swapping children and ending with the conversation about Lily’s artwork which appears from nowhere and means nothing."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story makes unhinged decisions. It is bold and some of these decisions I might love in an entirely different context. As it stands, the narrative is structured in such a fashion as to destroy all possibility of an emotional experience for its reader."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "Lily is an empty vessel. I do not believe she is really a character. She makes decisions that are ludicrous and no attempt is made to suggest a character who might make decisions like that—instead, the reader is expected to accept them and be emotionally moved by them, to put them in conversation with each other, as though they might build into something other than a nightmare."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There is no emotional experience to this story that is not outright stated."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The originality here is that the turns and twists this story takes are practically impossible to imagine. I love the robotic feeling of the child-swap. There is something there, a striking thing. Whatever that is, however, this story doesn’t explore it."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "To be frank, I do not believe this story has themes. It does not feel as though it is intended to anything in particular other than to be words on a page which are connected to each other."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "I am tempted to answer yes to this because the narrative’s logic is so wild I can’t even fathom it! But I am not sure it is “thought” which is on display here—if there is, I am bringing it; on its own, it does not add up to anything."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "There are attempts to create scenes here and there, especially in the beginning in the hospital, before the narrative speeds up. But those attempts are florid and insufficient. By the story’s end, there is no texture whatsoever. The reader is not told even what it is that Lily paints."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The characters are just names. Lily does something fascinating, devastating, but the decision is not explored. It is only praised. It implies that the story does not believe in love or cannot fathom it."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "There is nothing happening in this story that is not stated outright, often to the point of real laughter on my end. For example, this description of Lily’s artwork: “Lily's art became a driving force in the fight for justice and equality. She used her platform to advocate for the voiceless and shine a light on the issues that often went unnoticed. Through her collaborations and exhibitions, she brought together people from diverse backgrounds, bridging the gaps that divided them and fostering understanding.”"
+                }
+            },
+            "Story3": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The story does follow a logical progression and the plot remains focused. It is a small story insofar as it keeps itself relegated to one setting until the ending, when it attempts to jump forward."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The language here is unbearably overwrought from the very beginning. For instance, “Marie noticed that each cry seemed imbued with an otherworldly power, as if it could influence the very fabric of reality”. The child’s name is also “Autolycus” which is hysterical."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The story skips ahead rapidly and abruptly in its ending. The attempt to connect Marie and the real mother of “Autolycus” is ridiculous. It is also the baffling last note of the story."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "For the most part, the story maintains a relatively strong sense of pace, keeping itself confined to one narrative period and location. However, it consistently loses itself in long passages of irritating and superfluous imagery which feel like filler in lieu of narrative complexity."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "While the story does contain scenes, it remains largely in paraphrase. This is not in itself a problem, but the over-the-top language of those paraphrase and the rhetorical questions it employs overwhelm the story and make the in-scene moments feel bizarre and out-of-time. Some of the dialogue is bizarre—“‘A lovely name—strong arms, you have there’”—and I cannot get over the child’s name."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story follows a standard, linear progression. The only surprise is the adoption, but it is ridiculous. The temporal leap in the ending is a common one in short stories."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "Marie is given no interiority. There is one moment where it is suggested: “Marie stared at the child in her arms. It must have been, for no one had taken him from her in the night. She nodded once more, although she was not quite certain”. However, for the most part, the character is depicted flatly on the page, without meaningful reaction to what she experiences."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There is minimal interiority here that is not stated outright, outside of the one moment I cited above."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "As I wrote before, the narrative follows a standard linear trajectory. It has some ridiculous plot moments, but they are not navigated through in a way to suggest experimentation or intentional subversion."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "There are broad gestures towards a theme of randomness or interconnectivity, something transcendent guiding serendipity, but they are so vague it is difficult to parse what is being said. I would say that this story lacks a theme."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "Though there are moments where the language is bizarre enough to be striking, or absurd (“a distillation of desire”), it largely is written as a series of overwrought cliches from the first line: “There is no sound in the world quite like a baby crying”."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "Though I appreciate that the story has chosen a particular setting—Prague—it offers no meaningful exploration of this setting or its implications nor does it situate the particulars of the hospital in any kind of cultural context. Rather, it seems to float."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Because Marie has so little internal life it is challenging to discern whether she undergoes any kind of change or whether there is meaningful nuance to her character."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "There is one moment of acknowledged uncertainty here, where neither the reader nor the character quite knows the truth: “Marie stared at the child in her arms. It must have been, for no one had taken him from her in the night. She nodded once more, although she was not quite certain”. This is the most exciting moment in the story, but the uncertainty is not mined for meaning."
+                }
+            },
+            "Story4": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Clean story that follows clear progression. Though it maintains a dream-like tone, it is never without coherence and the uncertainties around characters or the nature of reality (whether there is a child, what child, etc.) feels consistently intentional."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "Very strong and subtle use of language here. Some examples: \"“It was so small and scribbly, like a cracked casing\"; \"She sucked eagerly, a few drops of colostrum. It hurt. It was a dry pain. Like sex when you’re not wet”; \"“The red and the white couldn’t agree, wouldn’t mix, but wove together in long marbly rivulets\";"
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "I think this would not be my ideal ending for the story—I would prefer something even less certain, which exploded an idea of parenthood and which did not return to a kind of reality that a consensus could be built around. However, it is not that sort of story and what is here is earned and expected and does not allow for easy answers. I especially liked the line: \"The trees blossom in the street and I look at them through the window. I am an implement, a sweeping brush, who remembers the other child. It’s like happiness.”"
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Story stays in-scene and uses beats of dialogue and repetition (\"'Did you see my kid?\"') to create a satisfying narrative cadence."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Story stays largely in-scene with only very minor digressions into summary or memory, all of which strange and interesting (\" I remembered an old folktale in which a woman cuts off her breasts. Then I thought about Mutter Pappenheimer, a beggar woman in Germany, who had her breasts torn off with a pair of tongs in 1600.\")"
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The story takes on a strange and compelling tone and it functions almost like a dream. Moments like where the staff find the narrator's child suggest that there is and there is not a child and that it both is and is not the narrator's child. The questions of reality here work towards unpacking the disarming experience of childbirth and pregnancy."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Neither the narrator nor the external characters of the story feel like they can be trusted. This places the reader in the fascinating position of intuiting a reality, what is metaphor and what is truth. The complexity of the characters comes out of the metaphorical space the story occupies. It is effective, but non-traditional."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Likewise, while this is not a traditional depiction of emotion, the way the story floats through its narrative and world contains a number of different layers as metaphor, as fable. The story seems to work as it describes in its ending: \"There was a strange sound, a gasp as I searched myself for the right feeling, but it was like clutching running water, and I realized then that I was laughing.”"
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "The narrative moves in an interesting recursive way through its moments of dialogue. The beginning and ending maintain a sense of narrative normalcy, i.e. that the narrator is in fact a mother with a husband, etc., which the rest of the story disrupts. I think there's another direction the story could have taken that is more original, but I cannot hold its decisions against it."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "Though, again, I think the beginning and ending of the story ultimately limits the most exciting thematic possibilities here, the dreamlike logic which makes up most of the story questions the nature and consistency of identity, both internal and external."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "By staying in-scene and operating on a level of fable and large-scale metaphor, the story largely avoids cliche in its plot—equally, as I said above, the language is consistently fresh and exciting."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "The story does not aim for traditional realism; however, it effectively creates an atmosphere reminiscent of a dream through texture and language. For instance, \"The paint was flaking off the walls like skin. We came to another door, this one held ajar by a bucket. My fellow-pursuer slipped through the crack, and I followed, taking the bucket with me so that the door could close. We were out among the weird shrubs now. The messy-haired woman was still ahead of us. Between the low hedges I saw several other women, bandy-legged, in the same hospital gowns, their laborious way of walking revealing that they, too, had just given birth. We followed."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "The narrator exists in a foggy space and the fog never lifts. Her motivations are not entirely clear—is she looking for her child? Does her child exist? It moves into and out of this dream-space and few answers are given for her motivations outside of the beginning and ending, when it becomes clear the narrative functions as an allegory for the profound bizarreness of pregnancy and childbirth."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "The basic conceit of the story is to walk a line between allegory/dream and something like realism, which creates a subtext throughout. The story foreshadows this cleanly: \"I’m talking about it now because my husband doesn’t believe me and our two other children don’t, either.” On a smaller level, a good deal of the dialogue relies on omission. This is the strongest aspect of the story."
+                }
+            }
+        },
+        "Maggie Cooper": {
+            "Story1": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The story feels unified in that the events proceed in a logical manner and circle around a clearly stated set of themes; however, it is not satisfying or engaging because the cohesion feels like a result of a lack of complexity rather than the resolution or balancing of tensions of some kind."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The story contains almost no figurative language or literary allusion, and the language as a whole feels entirely expected and often cliche rather than artful or original (e.g. she tossed and turned, this secret ache in her soul)."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "While the ending feels intentional, it also comes across as overdetermined and pat, with the whole story concluding on a series of cliches about gratitude and \"the fragility of life."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "While the opening scene of the mother nursing the brown-eye baby succeeds in slowing the reader down to confront us with the strangeness of the mother finding the wrong child in her arms, after that, the story stumbles on pacing, jumping ahead with overly expository and somewhat clunky sentences like \"Laura struggled with her emotions in the following months.\" The author is clearly attempting to balance compression and stretching of time, but the story is not entirely successful in doing so."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "While there are moments of both scene and summary here, what is most striking to me is the way the story lacks an important type of exposition—context. We learn almost nothing about the character or her situation, which makes it very difficult to invest in the narrative as a whole."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "While the premise of the story manages to contribute a sense of surprise (babies switched at the hospital), the rest of the narrative unfolds in a way that deadens the impact of this initial \"twist,\" and rendering the piece as a whole relatively predictable."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story's primary character is presented primarily as an avatar of stereotypical motherly instinct; even her potentially subversive desire to claim another child over her own is attributed to primal desires that reinforce the assumption that the mothers of newborns are ruled by a biological instinct to nurture above all else."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "This story manages to disappoint both in terms of interiority and exteriority: while a great deal of space is spent describing the emotions of the characters, those emotional are not particularly subtle or well rendered; at the same time, we don't learn enough about the exterior context of what's going on to maintain much tension or understand the greater significance of the story's events."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The story proceeds chronologically without novel use of structure, format, language, or style. It is conventional, but seemingly without an awareness of desire to comment on its own conventionality."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The world of the story feels quite narrow, without much engagement with a larger literary landscape or the political and cultural questions the subject matter might invite readers to consider (feminist thought, reproductive justice, mental health, institutional support for parents, etc.)"
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The story contains quite a few cliches, including phrases such as \"her heart broke\" and \"she cried inconsolably\" to convey the main character's distress. On a broader level, the writing both conforms to cliches of language use and reinforces lazy stereotypes about the emotional life of a mother."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "While there is a little bit of sensory detail here, it feels rote (blue eyes vs. brown eyes, wailing cries) rather than rich, tangible, and reminiscent of real life."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Although the story seems to believe it is delving into the feelings of its main character and does succeed in capturing some contradictions (for example, the mother both desires her real child and wants to keep the child she is given by mistake), it lacks the psychological realism and acuity to convince me that this is a truly well rounded character. The story provides virtually no backstory and fails to portray the mother's inner life with true nuance."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "The story is mostly what we call \"telling\" (vs. \"showing\")—the author interprets the meaning for us, explicitly summing up rather than allowing the reader to use subtext to draw their own conclusions."
+                }
+            },
+            "Story2": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The two main threads of this story: the baby mix-up and Lily's development into an artist don't feel meaningfully connected, resulting in a somewhat dissonant reading experience."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The language throughout lacks sophistication—I didn't find any allusions to speak of; any idioms feel more like cliches than intentionally chosen turns of phrase; and where there is metaphor (\"The gallery walls whispered her name\"), it doesn't feel particularly original or additive."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending to the story feels contrived and pat rather than meaningfully earned or even truly related to what proceeds it. This is also story that feels like it has multiple endings—several times, I imagine we might be coming to the close before another section began, creating a tiresome and repetitive reading experience."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "While the narrative does include moments of both compressed time, the use of this technique feels elementary, resting on simple transitional phrases like \"years later\" that don't do much to really make the reader feel the impact of time's passage."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "There are both scenes and summary here, but neither are fully satisfying, and the pattern by which they appear is repetitive: the story alternates between several, very similar scenes, and jumps forward in time that are briefly notes but not summarized in any meaningful way."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There are surprises here but they feel mostly arbitrary—the reader is never given either the larger context or a deep enough understanding of the characters' motivations to understand, for example, why the women switch babies or what the significance of art is in the lives of Lily and Grace."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story does not provide diverse perspectives, and the one perspective that we do get feels more like a greeting card or inspirational speech than a real person."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "While the story offers us perhaps too many descriptions of Lily's thoughts, her interiority does not feel believable—her interior life is filled with deep thoughts and revelations that lack the texture and nuance of real life."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "While this story fails to execute on a traditional three-act structure, it doesn't do so in a way that it effective or demonstrative of an original form. Rather, it proceeds chronologically from one thing to the next, without a satisfying sense of cause and effect or source of tension to drive readers onward."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "While the story seems to be attempting to offer up some deep takeaways about fate and the power of art, it doesn't succeed in delivering its ideas in a way that feels supported by the plot or characters, which means the piece, at times, reads more like a collection of uplifting quotations rather than a real narrative."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "This piece is full of cliches, including phrases like \"twist of fate\" and \"Lily's heart skipped a beat."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "There is very little sensory detail here—descriptions are primarily visual and often revolve around general adjective-driven phrases like \"breathtaking\" and \"beautiful."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "With the exception of the fact that her mother died when she was young, Lily's backstory is left out of the story almost entirely. And while we do see her discover her passion for art throughout the story, we don't learn enough about what it is about art that speaks to her to really appreciate this shift."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "The piece clearly has aspirations towards a larger meaning, but rather than allowing those to come through via subtext, the story delivers them explicitly and sometimes repetitively, which ironically undermines their impact."
+                }
+            },
+            "Story3": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The elements of the story felt somewhat incompletely stitched together: we have Marie's career as a linguist and her regrets over this pregnancy, which feel more grounded, alongside the surreality of the overnight at the hospital, and then, the somewhat metaphysical final paragraphs. Although another piece might be able to harmoniously move amongst these three modes, I wasn't sure if this story was successful in doing so."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "Metaphors abound here—the baby's name \"might rest upon his skin like a downy plumage\" and the main character \"suddenly found her tongue dipped in ice\" when she cannot speak. However, I would argue that sophistication entails not just the use of these figures of speech but also the ability to judge when they will add value to the story rather than serving, as they do here, of ornamental and often distracting flourishes. Throughout, the flowery language seems more likely to obscure meaning rather than enhance it."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending of the story feels unearned—rather than being the organic consequence of a series of events, it is simply a big philosophical claim that emerges as the character looks back at the action of the story from years later. It isn't rushed, but it is overdetermined; more of an interpretation of the story than a real ending to the narrative arc."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The pacing of the story is relatively successful—the narration slows down in order to allow the reader to feel immersed in a few important moments (such at the crying of the babies in the stories opening or Marie's reverie, during which the narration explicitly states \"Time seemed to slow and grow heavy, each second lasting what felt like a lifetime\"), then speeds up (\"Marie left the room an hour later\" and \"years passed quietly\") in order to move the action along. It's not subtle or particularly creative, but this part of the story more or less works."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "While I wouldn't have minded a bit more exposition here to cut through some of the flowery descriptive language, on the whole, the story feels well balanced, with the hospital scenes grounding us in the present action and a few moments of exposition establishing the setting and Marie's circumstances."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "I found myself more baffled than surprised in reading the story—perhaps because I didn't really know or care enough about Marie to understand the consequences or significance of new developments. I also found the ornate style was such that I couldn't alway easily parse what was going on, which also inhibited my ability to be surprised or gauge what might be apt or expected."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story really only contains one primary viewpoint—Marie's—and I didn't feel as though I got to know her deeply as a character. The portrayal of her interiority is handicapped by the overall sentimentality of the prose, which seems to prioritize pretty language, heightened emotion, and atmosphere over psychological believability."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "While the story devotes a great deal of space to describing both Marie's interior and exterior condition, I'm not convinced the two effectively work together to tell a compelling story—I found myself rereading in order to determine what was real and what was in Marie's head, and I found the sections grounded primarily in her thoughts to be tiresome and overly abstract."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "There was nothing particularly original about the structure or form here—the story uses a close third person perspective and proceeds in chronological order, with the action following the main character and her conflict along a relatively straightforward narrative path."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "My sense was that the story wanted the reader to understand something about fate, time, and the soul, but while these concepts were explicitly named and commented on in the final paragraphs, the substance of the story as a whole didn't do much to illuminate a clear idea about any of these. The story seems to prioritize mystery and atmosphere rather than true substance, creating an illusion of depth perhaps, but no real meaning."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "Cliche is not a primary problem here; while there are a few turns of phrase that feel familiar (\"sky-blue, daisy-yellow\"), the writer also shows a proficiency for original turns of phrase (the \"April-green\" that follows the previous two color descriptions). That said, these original turns are not always apt and they are rarely concise—a phrase like \"delicate membranes of privacy, like the fragile amniotic sac concealing a secret world\" feel weighed down with adjectives—excessively ornate and sometimes distracting."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "The story does offer some specific sensory detail—in particular, the screaming of the babies in the opening is described vividly. Later on, the story evokes the smell of lilies as well, a sensory image that feels a bit more rote but nonetheless helps to flesh out the setting of the hospital room."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Marie does have some complexity—we learn of her hesitancy around becoming a mother, which is in tension with her attraction to the child in her arms. We also get a glimpse of her backstory as a linguist, although I found that such a brief sketch of what had led her to the hospital raised as many questions as it answered. For her to be a truly rounded character, I'd like to see more of her motivations and personal history throughout."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "The writing style on display here seems to reach for subtext, but I found the flowery turns of phrase more often obscured meaning rather than illuminating some deeper truth. I wasn't sure what to make of the child's name—Autolycus is, classically, a thief, but it wasn't clear what he would be stealing in this context, which makes me wonder if the name was chosen intentionally and if so, why."
+                }
+            },
+            "Story4": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The story feels coherent without being repetitive—even the moments of strangeness that diverge from the main thread of the story (for example the odd overnight white-washing scene) feel like they are contributing to the tone, atmosphere, and theme."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "The writer uses language in a way that feels mostly apt and illustrative: the character's pain at the child's attempts to nurse is \"like sex when you're not wet\" (an uncomfortable but vivid metaphor). Allusion—such as that to folktales and Mutter Pappenheimer—lends depth and suggests that the character is connected to a long line of women before her."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The ending is one of the strengths of the story—the unexpected metaphor of the \"sweeping brush\" is evocative, and works to balance the explicit naming of a big abstraction like \"happiness.\" While not necessary to conclude the plot of the story, this final paragraph reinforces the thematic concerns of the piece in a way that ultimately lends depth and leaves the reader with a pleasing balance of questions and answers."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The story is effectively paced, allowing the reader to dwell in certain moments in order to sit with the narrator's sense of strangeness in her situation, while moving efficiently through less crucial action (such as the morning after the birth, which is summed up simply in the sentence \"time passed.\" or the drive home, which is addressed in just a few short sentences)."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "The story balances scene—including the capable use of dialogue—and summary appropriately. Very short fiction often doesn't require much in the way of exposition or worldbuilding, so it's fitting that scene is primary here; that said, we get just enough summary (the context about the Cold War construction of the hospital, for example) to contextualize the action and keep things moving along."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The use of surprise is another primary strength of the story—the story takes several unexpected turns, but presents each one in a way that enhances the piece's resonance rather than cheapening it. I think one key point may be that each surprise also contains a question for the reader to unravel about the possible reality of what is occurring: i.e. has the child been switched or is the mother disoriented from the experience of labor? does the mother come across a strange white-washing area of the hospital, or is it all a dream?"
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "While I didn't find the main character to be unlikeable, she did feel realistic and layered. We don't read much about her motivations or beliefs, but my sense that this was appropriate to a story of this length and tone."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The exterior, physical detail of the story and the descriptions of both the main character and the other mothers is precise and well rendered. The piece doesn't devote much space to the explicit description of the main character's interior life, but I think this is an intentional choice to (1) display her sense of remove after the highly physical experience of birth and (2) make room for the reader's interpretation—and her mood and reactions to the situation at hand effectively show readers her internal state, making for a satisfying reading experience."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "I'm not sure this story is truly innovative in form or structure, but I would suggest that it uses a relatively traditional structure effectively—and there's an argument to be made that there is some genre hybridity here in the way it blends a literary style with some elements of horror or the surreal in order to get at the way the experience of birth is both very common and still incredibly intense, strange, and sometimes horrifying."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "This story invites the reader to consider the essential strangeness of childbirth—the ways that this is an experience that connects women in uneasy communities, the tension between society's and our own expectations that we love and accept our children and the weird and often uncomfortable realities of what that looks like, and the gaps in the healthcare system that make this entire process more difficult. Without explicitly commenting on most of these themes, the story raises them in a way that certainly succeeds in provoking thought."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "Cliche is not an issue in this story—and in its best moments, it is quite original in its use of image and language: \"The white curtains poured more and more of their bleach onto us,\" \"A sleepy nurse was eating sponge cake in the duty room.\" While there are less exciting moments (the description of the zombie walk, for example, felt less inspired to me), moments like the above point to imagination and voice."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "The world of the main character is rendered with sensory richness without getting bogged down in detail. Various details (\"The door made a sweeping sound,\" \"I could feel how the warm blood slid out of me like liquid from a test tube.\") invite the reader into the environment of the hospital, and later in the story, the description of \"the slimy milk of lime and blood\" is downright visceral, vividly evoking the stuff of birth."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "There's not much backstory here, but the context we do get (about her other children, and their life at home) helps to present the main character as a real woman with a life outside of the moments portrayed here. Moreover, her complexity comes through in her believably dissonant feelings—a sense of protectiveness over her baby in tension with the desire to avoid the girl child who may or may not be hers; the mix of \"happiness\" that she feels in the story's final lines set against the sense that she is \"an implement."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "This is a story that thrives in subtext—the actual plot of the story, as with much literary fiction, is secondary to the deeper questions it raises and the themes it invites the reader to consider. One obvious example: I read the whitewashing of the gable as a metaphor for the labors of motherhood, in all its sticky and punishing realities; at the same time, we might understand the work of whitewashing, specifically, as referring to the way that society hopes to cover up much of this labor under ideals of the mother as a beatific or angelic force."
+                }
+            }
+        }
+    }
+}

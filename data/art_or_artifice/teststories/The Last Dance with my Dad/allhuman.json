@@ -1,0 +1,718 @@
+{
+    "The Last Dance with my Dad": {
+        "Patrick Wing": {
+            "Story1": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "All the elements of story work together well. The author provides the historical context amid the AIDS epidemic, details about her father's world, and her own in a way that feels balanced and harmonious."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "I don't think this story uses literary allusion, metaphor, or idiom in a particularly sophisticated way. The language is pretty straightforward, and the strength of the narrative is in the way that specific details, about clothing, the physical surroundings, drive the story."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "I think it is a very satisfying ending, it leaves the reader with a wonderful mixture of emotion: the fact that the narrator's father is doomed and soon will be gone is right there along with the ecstatic joy on the dance floor, with \"Gloria\" being performed. It is a quite cinematic moment, and I think it works very well as an ending."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "There is a good balance between the flashbacks, descriptions of the narrators life away over a long period of time, and the events that take place on the cruise."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "The author uses scenes very effectively to convey the emotional experiences of the narrator. For example, her narrative exposition about the difficulties living as a gay man in the 1980s is framed by her observing her father and the other men moving freely and joyfully on the dance floor."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The narrator's happy encounter and friendship with Claire and Tom was appropriately surprising. The reader wonders whether these people will be like other people she has met: judgmental and distant, but they turn out to be good companions, if only temporarily. The narrator's father's death is not a surprise, as it is mentioned early in the story. Still, the realization that the dance is the last one they will have together is somewhat shocking and quite sad."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "We don't get too much directly about the perspective of the narrator's father, or Tom and Claire. Yet, I still felt they were convincing characters, probably because the small details the author includes about them are enough to suggest something about them. For example, her father's coming home in the morning, making pancakes, sleeping, and then taking her to the beach—this is a brief and simple list of events, but it manages to convey a complex character who is living the life he wants for himself while also showing care and attention to his daughter."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "I felt there is a good balance; a lot of the story is the narrators interpretation of her experiences, but we also have a clear idea about what was actually happening, both in flashbacks and on the cruise."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "I don't think there was anything particularly original in the form and structure, they felt familiar."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "I think the story was successful in exploring the relationship between father and daughter in unconventional circumstances. The way in which the feelings of awkwardness and self-discovery of adolescence are put beside similar themes in the lives of gay men at a particular point in history makes for a very interesting story."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The author does a good job of using language that avoids cliche."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "There are plenty of examples of sensory details that evoke the time and place really clearly: the stonewashed jeans, various fabric of the clothing worn by the men on the ship, the bingo-caller, all are very nice details that make this world believable."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, there is enough small detail about even the minor characters Claire and Tom that make them seem real, and not just plot devices."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "I thought the way the author insisted on her comfort and familiarity around her father's gay friends contrasted with her descriptions of her own awkwardness, as well as the impending death of her father, which is established fact right from the beginning."
+                }
+            },
+            "Story2": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "There are parts of this story that simply don't make sense, and it is unclear how they are related. For example, the paragraph that begins \"As the cruise wore on...\" was particularly nonsensical. Other aspects of the story are jarring, such as the mention of the shared showers and the safe, and it is unclear why they are included."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The story does not make sophisticated use of these linguistic devices. Metaphor and simile, where they are found, are not really effective (e.g. \"moving in unison like a flock of seagulls—impossible to separate yet full of concealed stutter steps and sudden twists\"). It also doesn't really make sense."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending feels very abrupt, and it is not really clear what the narrator's \"newfound understanding\" of their father was."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Although the story feels very disjointed and nonsensical, there aren't really any problems with how time is presented. However, everything seems to be happening on a very flat (I'm not sure how to describe it) timeline, where things are happening almost outside of any discernible chronology."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "It is hard to tell what is happening in the scenes, and where scene ends and exposition begins. This passage is an example of this: \"However, such counsel left me feeling unfulfilled and restless as dusk approached all too soon. Sensing my yearning for more, my father acquiesced to my desire for a dance, allowing our hands a brief, tender connection that forged a visible harmony around us."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There are surprising turns but they don't seem appropriate. For example, does the father have romantic feelings for the child (i.e. \"At the same time, he maintained a cautious distance between our bodies to suppress the dangers he believed were lurking within his ailing heart.\"). Another example is that it is not clear why the father is \"condemned to die."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The only perspective represented seems to be that of the narrator."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "Again, like the issues with exposition and scene mentioned above, in this story the differences between the narrator's thoughts and the actions happening in the world are hard to discern. For example, is the part about the wigs happening in the narrator's mind/memory? Is the father actually doing something with wigs? (and why?)"
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "There doesn't seem to be anything very original about the form and structure."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "I don't think so, the story did not make a lot of sense to me. Maybe I am missing something."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The story doesn't use many cliches. It does seem original. However it doesn't make much sense."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "There are a lot of jumbled up details about things, but they don't evoke the sense that this world is real or believable."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "There is no character development to speak of. Even the narrator does not seem to be developed coherently."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "Again, I may be missing something, but I don't think this story makes much sense on the surface level, let alone at the level of subtext."
+                }
+            },
+            "Story3": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The end of the story is redundant, and goes on too long. In addition, the description of the final dance under the stars comes before a description of a lot of other activities, whereas that dance should probably be more of a climactic moment."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "Metaphors are not very interesting. (e.g. The star is like a dimaond; the sun paints the sky.)"
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The end of the story is redundant and too long."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The author does a good job of compressing the time around the various activities they did on the cruise and at ports of call, and focuses more on the dance under the stars. However, as I mention above, the dance should be the climax. The timing of the father's death is also unclear. The reader is left with the impression that he died as soon as he stepped off the ship in Miami."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, with the exception of the end. Too much exposition at the end."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There wasn't much that was surprising in the story. They went on the cruise, had a nice time, made some memories before the father died of cancer. There wasn't much in the way of unexpected twists."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "We don't get a lot from the father's perspective, he comes off as a rather one-dimensional character."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "I think the author is successful in balancing description of events on the cruise, and the thoughts of the narrator."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "There was nothing very original about the form and structure."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "As I mention above, the story is pretty basic. The son makes some nice memories with his father before his father dies. The idea that the son is also learning something about his own sexuality is not really developed, and feels a bit tacked on."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "There are a lot of cliches. The last two paragraphs consist of more cliche than original writing."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "The author does furnish the world with details that makes it believable and real: descriptions of the food, of the activities off the ship, of the night sky."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "I think the father's character is rather flat, and could be given more depth through the use of more conversation between the son and the father."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "Most of what is happening in this story is at the surface level. At the end, the reader is confronted directly with what the author wants the reader to take away. There is not really any subtext from what I could tell."
+                }
+            },
+            "Story4": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The end of this story is redundant, the author keeps repeating the same ideas over and over. The story does not feel coherent because of this, nor does the story feel authentic; the voice of the author is very one-dimensional."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "This story does not make sophisticated use of language. Some phrasing is awkward (e.g. \"heart in heart\"). It is also strange that the author refers to her father by his first name, more than once."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending of the story is too drawn out and redundant."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "Time is stretched out in an unsatisfying way, after the cruise. Aside from the narrator's reuniting with Evan, much of the second half of the story seems to not exist in any particular time at all."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "The author does balance scene and exposition pretty well, with the exception of the long ending, where the same ideas are repeated again and again."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The reuniting of the narrator and Evan could be a surprising and interesting turn of the story, but it isn't really developed in any detail. They reminisce and share memories in a very vague way, and then they are together. The father's death on the cruise is surprising, but also abrupt, and not all that believable, particularly his dramatic whispering of his final words, which turn out to be vapid cliches."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "All the characters seem to be one-dimensional, and not very developed. They tend to communicate in uninteresting cliches (e.g. \"'Life works in mysterious ways,' he mused.\")"
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "Both the thoughts of the narrator and the action and conversation happening around her seem very formulaic and not very believable."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The form and structure are not original."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "There is nothing really unique or original about this story. It seems like one cliche after another. An example is the final paragraph, which is comprised exclusively of shallow cliches."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "As I mention above, the story is full of cliches, and there doesn't seem to be much original about the writing."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "The reader doesn't really get a good sense of what the surroundings and material world are like in any of the scenes."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "All the characters feel flat and underdeveloped. They speak like robots."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "There doesn't seem to be any subtext, and the surface level action is not engaging to the reader. As a reader, I did not care about the characters."
+                }
+            }
+        },
+        "Jennifer Whitaker": {
+            "Story1": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, overall, the story passes the test for coherence because it contains a logical progression of ideas and plot points, and each of the characters or plot points brought up contributes to a somewhat unified whole. The story moves from scene to summary with some ease, and there's nothing hard to understand about how the scenes are progressing from one to the next."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "No, in the end, I don't believe this story makes sophisticated use of idiom, metaphor, or literary allusions. Granted, this story's style doesn't seem to be one concerned with or interested in allusion or other figurative language particularly; the story overall is very didactic, which often (as here) leaves little room for sophisticated use of metaphor/etc."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this story's ending does overall feel natural and earned. As a reader, I was relieved to see what the story ended on a scene--brief as it was--rather than summary, since so much of the story itself was bound up in the narrator's explanations of what was happening rather than letting us see what was happening. The ending didn't really have much resonance for me as a reader--mainly because the narrator said things to make the reader believe that the stakes were high (e.g., the father's illness and the precariousness of those in the gay community), but, as a reader, I never really could FEEL that the stakes were high. (I'll save more on this for the scene v summary question later.)"
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "No, the story's manipulation of time doesn't quite pass the test as a successful story. I mean, the use of time here is...fine? but the story is just fairly underwhelming as it relates to pacing, I believe, and is part of what makes it feel like it's written by a robot. Even those moments that I feel like *would* be slowed down for dramatic effect (e.g., when the narrator finally meets Tom in the gift shop with Claire) just aren't; everything feels slightly rushed and glossed here in this story, and as a result, moments like that ending--which I think is supposed to be a moment in which the reader feels something--fall flat."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "No, this story does not display an awareness of and insight into scene v summary/exposition. The story is so heavy on exposition that it makes the whole story sort of \"mush out\" into un-memorability. I've just read it, and I'm a pretty careful reader, but if you asked me to name some particular moments from the story, it'd be difficult beyond that necklace/disco ball comparison at the beginning; the fact that the father was wearing white jeans (which felt like a peak-80s/90s detail--lovely) at one of the dances, and her dress at the ending. I think this is in large part due to the lack of slowing down into scene throughout this story. We never get dialogue except some sort of throw-away \"You here by yourself?\" dialogue with Claire and something about where they live with random, undeveloped high boy. Partly because of this, I don't feel like I have a felt sense of this narrator really at all. I *believe* that she could be a dynamic, rich character that we could care about, but I don't right now really at all, and I think that's due in large part to how expository the story is."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, there aren't turns here that surprise me as a reader at all. I actually felt like the opening--weird as it was with the hat-tip to a travelogue (February, 1991) that never comes up elsewhere in the story--is one of the most surprising and successful parts of the story because it presents a situation that has built-in stakes for all involved and all manner of possibilities for tension. However, the story itself doesn't proceed in this way; I think we're meant to believe that the trip was meaningful, transformative, something for the narrator--but instead, it just feels like the moment that spurs the entry into talking about the speaker's family, rather than anything more meaningful. Nothing in the story feels surprising beyond the initial situation of it, which again, feels novel and compelling (but underdeveloped)."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, we don't get diverse perspectives here, unfortunately. The narrator, for me as a reader, is neither likeable nor unlikeable; she feels detached (but not in an interesting, Modernist or postmodern way). In part because there isn't dialogue to speak of, we don't get glimpses into other characters here, and so what we have from her POV is all we get--and again, it's not a POV that feels, to me as a reader, compelling or believable."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, there's a few things that \"happen\" in the story, but it's soooo exposition-heavy that it feels more emotionally absent than anything. Unfortunately, the lack of exteriority isn't made up for with interiority either; we are *told* plenty of things that would seem to be emotionally \"big\" moments for the narrator (e.g., \"So I hid. I lied. I deflected. I covered up. And, most of all, I worried that I would be unmasked as the daughter of an H.I.V.-infected homosexual.\"), but we aren't, as readers, ever \"shown\" what that worry looks or feels like, for instance. This is one of the main areas in which the narrator feels robotic to me as a reader."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "No, this story feels pretty mundane and ordinary in its use of form and/or structure. It actually reads more as a personal narrative to me than anything else--and while I think that a personal narrative structure could be really useful for a story like this, it doesn't gain much right now from the woven nature of the structure. Starting in some sort of scene--and ending in a scene, of course--is delightful, but the scenes themselves are not developed enough to feel like it's actually fully a scene in either case, and the drifting back from the opening paragraph into explanation of the family/etc. seems expected and underwhelming."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, I think the story is actually successful in this way. My issue here is with \"average reader,\" I guess; I'm not sure if it's the average of, say, the general American population, or the average of college students, or what--and I think the \"unique and original idea\"s in this would seem a lot less so for some populations of people than others. But I do think, overall, that some of the narrator's insights (e.g., that she felt most \"at home\" in this place among gay men, even though she herself wasn't a gay man; that she could see the toll this cultural moment of the late 80s/early 90s was having on these men; that she found companionship and understanding supposedly from people like Claire and Tom) could feel unique or original, depending on the readership."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, I think the story is somewhat original and doesn't contain a lot of cliches in terms of phrases or language use. There's something akin to cliche that does happen a lot, though, and I don't know exactly what to call it, but it's in telling the reader too explicitly what the story means or is supposed to mean. It's like the story doesn't trust the reader enough \"get\" it--which, to one of my students, I'd encourage them to make sure they develop the story enough so that they CAN trust the reader enough that they'll \"get\" whatever it is. An example in the story is when the narrator says, \"This was their turf; I was just a visitor. More liberated than at school, but still an outsider, and, because I had always lived in a state of hiding a huge part of my identity—my family story—I questioned my very self.\" Bleh. (What follows this--\"I didn't know how to move\"--is a much more evocative starting point to getting to all of those ideas, I believe.)"
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "No, overall, the story doesn't make the fictional work believable at the sensory level. There are a few moments where this starts to happen--again, that necklace that mimics the disco ball lights, the description of the gift shop as \"a small square space filled with toiletries, candy, mass-market paperbacks, and trinkets. A statuesque young woman in a uniform two sizes too large stood behind the register.\" Finally, my brain says--here's a place where we can actually exist with this speaker and see her interact and engage and see the way she sees the world. Ah, but no; as soon as this start, it shifts back into telling me things as a reader."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "No, not quite; as I've said throughout here, the narrator is obviously the best fleshed out, but even she is underdeveloped, and the characters like Tom and Claire feel like placeholders. Even the father, with whom it feels like we should be intimately involved on a narrative level, feels glossed. Now, I could make the case that the thin-ness of his character as described or experienced by the daughter makes good sense given the way we see she's been made to conform to his life--but this is a stretch for the story as it's written now, and isn't supported by other aspects of the story."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No; this is a story that COULD have so much subtext! An exciting amount of subtext! because of the differences (at least on the surface) between the narrator and the men on the cruise (and, it's suggested, perhaps between the people who work on the ship and the guests), but because the whole dang thing is so expository and over-explanatory, we aren't given the chance to read for subtext. What we see is what we get, and--just in case you didn't get it, reader!--often it's then doubled-down on so that the reader is hit over the head with the \"meaning."
+                }
+            },
+            "Story2": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this story holds together as a story pretty well; the progress of it feels somewhat natural, moving from the present moment of the story back to exposition and back again to the ship."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, overall, the story does use idiom, metaphor, and literary allusion to good effect. The opening paragraph's description of \"a week-long voyage aboard a magnificent ship called the Devotion appeared to be the ideal way to spend a solitary summer vacation before the imminent storm clouds of adult responsibilities and expectations threatened to take my father away forever\" sets the tone nicely for the story as a whole."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the ending here feels like it comes at the right time. The whole essay is a bit forced for my taste, but the ending here feels pretty well managed, if a little too expository and explanatory."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "No; this story doesn't have the narrative balance of pacing appropriate for this sort of short story. While it's heaps better at this than the first iteration, the story here is still trapped in lumping so much of the story into dense paragraphs as opposed to slowing the reader down in order to move us through the narrative strategically."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; overall, I think this story does a pretty good job of showing an awareness and insight into scene v summary. I am *so* relieved in this story to see dialogue! It brings these characters to life and makes it so that we can start to see something memorable about these characters and/or the narrator."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; the story isn't rife with turns, but when it does happen, I think they're surprising and appropriate (if understated). The tenderness of the relationship between the narrator and her father was endearing and somewhat surprising given the opening; sentences like \"My father was weak on the subject of the past; although when pressed, he would discuss Kierkegaard and suffragettes with some authority. I sought retroactive advice on World War II, and, as his hazel eyes scanned my features, I felt as if he were examining a map that charted his own ancestral lineage\" made me genuinely interested in this narrator and her POV."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; I actually think this is pretty well done here. The inclusion of actual language from the father and even the one-liner from Dan reveal important nuance about these characters. The narrator herself and the father seem like somewhat diverse characters from one another, and I think the story gives a pretty good sense of them."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No; I think the story actually balanced interiority and exteriority pretty well, but the result doesn't feel like emotional flexibility or even pathos more broadly (in general). This comes down in part, I think, to the formality of the narrator's diction and tone. When it's in dialogue--such as the father's abacuses and yores, etc.--it can be sort of charming and quirky and engaging, a nuance of the character. However, I think that when it's so formative in terms of the way the narrator understands the world, it serves to distance the reader rather than pull us closer."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; the overall form isn't particularly novel, but the measured way it moves between scene and summary feels unique to this story and effective. This is partly due to the way the story managed scene and summary, as described above."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; here again, while the overall diction and tone is off-putting to me as a reader, the ways of seeing the world feel particular and noticeable. If I were working with a person who'd written this, I'd encourage the writer to slow down even more in those scenes and develop them some more, so that when we get to what are supposed to be emotionally charged moments, we really feel them to be such."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; I'm saying yes here because the cliches that do appear come in as idioms (\"spin in her grave,\" etc.), and it feels very reasonable and appropriate for characters themselves to use idioms. I will admit that the idioms or metaphors sometimes feel forced--again here, the feeling that this has been written by a robot--but it's generally well handled and not off-putting necessarily."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the story itself feels believable at a sensory level, though I wish there were more of this throughout the story! The unbelievability feels, for me as a reader, at the level of the narrator speaking like this, rather than the world that's been created."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, I think for the scope of this story, the characters are developed pretty well. I mean, ol' Nigel is given short-shrift but that feels fine to me because he's just there to show desire and to be an object of her increasing affections, not as a real character."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No, this isn't working yet here either, for me as a reader, because of the overt, explicit telling done by the narrator. This is much more nuanced than Story1, but still here, the narrator declaims things like \"imbuing us with a magical memory that would endure beyond the duration of our journey\" or \"This safe did not merely house valuable possessions but also served as a storehouse for memories and secrets that might, in another life, have been entrusted to our hearts.\" Ewwww. Nope. I love the figure of a safe in this room as being representative for something, but when it's called out like this by the narrator--rather than developed through other rhetorical moves--it cheapens the whole story."
+                }
+            },
+            "Story3": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; this story holds together pretty well. There seems to be a connectivity to the scenes and ideas, and the emotions of the story emerge in pretty believable ways. There aren't any throw-away characters or scenes, and the cruise itself seems to actually add to the story rather than being tacked on."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "No. I wanted this to be better, but the story relies on too many cliches in the form of metaphors and idioms. Almost all of the figurative language here comes in the form of cliches. Examples of this later, but bleh."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "No; while the ending feels believable, it also feels too easy and therefore unearned. This story has much going for it, but the ending--while natural--doesn't feel satisfying because it's the sort of ending that we could've predicted from the first sentences of the story: dad and son go on a formative trip where the narrator son learns lots about his father than himself. This ending--that the father will always be with him, even when he has died from the cancer that vaguely looms in the story--feels obvious given this set up."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Yes-ish; the pacing here feels mostly successful, if a bit boring. But the management of the compression or stretching feels...sufficient. Like, this isn't a story I'd care to re-read because there's not enough going on in and it isn't paced such that I want to return to the text, but it's not egregiously bad or anything, so I think it passes the test with a C."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, this story does a pretty good job here. There's a LOT of explanatory statements that just tell rather than show (here again, it feels like the reader isn't trusted enough--or the writing isn't trusted to be strong enough--to get the ideas across), but in general, the scenes are well handled and descriptive."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes. The flirting, the father's illness, the dance (for example) all seem to come in carefully but not too tentatively, and end up rounding out characters rather than feeling like they come from left-field. Obviously, this isn't the sort of story where we'd expect cataclysmic shifts or aliens or some other huge, narrative plot turn, so I think the shape and scope of these turns are appropriate and somewhat surprising."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, to my mind, this story feels a little too one-flavored. There aren't a lot of distinguishing characteristics provided for anyone besides the narrator; even the father feels like a B+ version of the son. I don't find this super problematic for this story, since it's so closely concerned with the father/son relationship, but I wouldn't say it offers much in the diverse perspectives department."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, this is a story that's heavy on the exteriority with not much to offer for interiority. Again here, I think that emotional flexibility is better accomplished with less telling and more showing. This story almost accomplishes that by giving us some memorable, unexpected scenes, but then when the narrator gets to the \"analysis\" portion, it feels like the story gives in to the easy option."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "No, the form and structure here are fine, but nothing that effective. The language and style are somewhat energetic and engaged, but I wouldn't say that it's particularly original--either in exposition, scene description, or dialogue."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "No, there's nothing particularly unique or original in terms of ideas here. Sentences such as \"I only hoped, in some small way, it brought Dad the same joy and comfort his bravery had given me. His unwavering love lit the path to accepting myself when the way ahead was dim\" feel a bit overdone and, again, too expected. There's an overall lack of complication to this story that, even though there's supposedly some tension, makes it too one-note and lacking memorability."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "No. I wanted this to be better, but the story relies on too many cliches--from \"bright as a diamond\" and \"He was my compass, guiding me home\" to \"His love lit my path, a beacon piercing the darkness\" and \"we danced like no one was watching.\" Nope nope nope. As is the way with cliches, these moments felt gratuitous and empty, rather than description that enriched or nuanced our understanding of characters or situations."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the use of description is often well done here. There are many descriptions that appeal to the reader's senses; descriptions like \"all glass and chrome\" and the descriptions of the ports of call were particularly effective."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; while there aren't a lot of characters in this story, the narrator is pretty fleshed out, and the father feels somewhat nuanced. No one feels added just to move the plot or anything. (In fairness, there's not a huge plot to begin with, but still, the characters feel finely described and created.)"
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No, there's no discernible subtext here. The surface level actions are explicit, and the feelings--or any subtext--are overwritten by the narrator's explanation of what something \"meant."
+                }
+            },
+            "Story4": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "No, this story struggles hugely from the time the cruise ends in particular. I think we're meant to feel character arcs, particularly of the narrator and Evan, but it feels somewhat arbitrary and like the veneer of harmony rather than something cohesive."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; while these aren't particularly lovely or striking, the idioms and metaphors used are believable for this narrator for the most part, and idioms like \"words rang in my ears\" and \"everything under the sun\" felt easily used. The metaphor \"We explored the ship like a twister, leaving a trail of memories in our wake\" was memorable."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "Yes; if anything, the ending feels belabored and drawn out. The last...6? paragraphs all feel like they're signaling the ending, but then it just keeps going, so that the reader feels a little speed-bumped along to the ending. So this does, indeed, pass the test, but I don't think it's particularly successful or strong."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "No; without the post-cruise epilogue-type part, I think this would be more successful, but the whole overall explanatory ending three pages are painfully slow--and not in a way that makes sense for the movement of the story. In fact, the pacing seems to get super wonky here for me as a reader; those last three pages drag on and on, and it's hard for me to end up caring about the speaker and Evan at all because it's all so general feeling by the ending."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "No; without the post-cruise epilogue-type part, I think this would definitely be successful, but the whole overall explanatory final three pages are painfully slow and expository. Even when it seems like it's trying to create a scene with the house and cozy writing room, etc., the pacing seems interminable."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, there aren't really any particular surprising or appropriate turns here, mainly I'd argue because there's not a lot at stake to start with. Yes, there's a lurking \"terminal illness,\" and obvious affection between the daughter and father, but beyond that, the \"tension\" seems to exclusively comes from...whether or not she and Evan will get together in the end? which is not much to go on for me as a reader at least."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, the narrator is the best fleshed-out character since we get the world from her POV, and even she is fairly one-dimensional here. Evan seems to be a token love interest, and the father is a somewhat forgettable, token loved-one-lost here."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, I don't think so here; the interiority is forecasted too easily (e.g., \"I wasn't ready to say goodbye to Evan or my father\") and as a result, it doesn't actually feel like it's using pathos strategically at all or letting us into the subjective experiences of the narrator (or anyone else)."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "No, this is a very situation-driven narrative for the first two-ish pages, and then the story devolves into terse paragraphs of \"happenings\" to deliver us to the excruciatingly long ending \"about\" the memories and mementoes, etc."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "No, this story feels robotic in its attempts to capture the imagination of the reader; it's like the story knows the tropes to play around with (e.g., love interest, dying parent, vulnerability, pride, summer fling that turns into something more) but doesn't know what to do with those things beyond that starting point."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "No, there are a woeful number of cliches here in the description; \"drawing people to him like moths to a flame,\" \"I wanted to soak up every ounce of this experience,\" \"It was a force that could move mountains and heal broken hearts\" and \"as I held my father in my arms, that truth became crystal clear\" are the most egregious (oh, as it the \"glimmer of hope\"). If these were in the words of characters, I'd be a lot more understanding of it, but this is the sort of narrator who would be a super pain to be stuck at a dinner party with. Soooo many cliches."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "No; while there are some descriptions that are well handled, there are strange moments that again feel robotic (e.g., referring to the father's sickness as a vague \"terminal illness\"; a weird time when the narrator calls her father, in the narration, \"Marcus\" rather than \"my father\" or even \"my father, Marcus\" (which at that point is already established). These might seem like small transgressions, and they are--but they give the story the distinct feeling of being written by someone or something that has a knowledge of what stories do but not a deep, lived knowledge of how they should work."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "No; as above, Evan feels like the simulacrum of an interesting love interest, but he's one-dimension and handsome and says bland things like \"your dad would be so proud of you.\" The father feels more complicated, but not a lot more, and not enough to make his eventual dying feel like anything (nor to do feel or see this being felt by the narrator)."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No, this is surface-level only, sadly. There is much hope for me as a reader early on that the story will leave us with something meaningful; the set-up of the \"goodbye cruise\" for the terminally ill father is striking, and early on, this seems to be a narrator who is aware of and interested in her surroundings. However, as the story progresses, the whole thing seems to stall out, and any attempts we had at subtext are wiped out by the cliches and expository ending."
+                }
+            }
+        },
+        "Ronnie Huett": {
+            "Story1": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The essay follows a coherent path, though the amount of material dedicated to its structural elements is unbalanced. We begin with a paragraph set in the narrative present - a specific day in February, 1991 - then spend 5 expository paragraphs setting up this moment. When we return to the narrative present we reach a celebratory conclusion that, though anticipated, flows logically from profoundly impactful childhood experiences described in the expositional paragraphs."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "There is little use of idiom and metaphor, and I was unable to identify literary allusion in the text. On my first read, it was difficult to understand the 'ghost' metaphor at the top of page 3, but on reread it functions as an apt characterization of the narrator feeling like a mere idea or acquisition in that moment."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "I predicted that this text would end with a moment of joyous dancing while reading its opening paragraph; however, the reader can sense the narrative threads building towards the conclusion."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The amount of space given to expositional information and narrative is unbalanced. Similarly, we spend paragraphs reading about things like the gift shop where Claire works, which in my opinion are digressions."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "The essay is comprised almost entirely of summary and exposition, with brief dips into scene. There is little in the way of dialogue or direct interaction between characters. However, this appears to be a function of its genre (personal memoir) and the narrator's formal register."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Most of this essay is devoid of turns. I inferred, broadly, almost everything to come in this essay from its opening paragraph. However, I did not anticipate the characters of Claire and Tom. Their presence in the essay feels shoehorned in, especially because we spend more time with them than we do with the narrator's father. That being said, they appear to be the source of human connection and acceptance that leads to the narrator's ability to let loose in the final paragraphs."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The narrator is highly likeable and sympathetic; however, her viewpoint and experiences leave little for the reader to object to. The few characters besides the narrator are barely present in the text."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Though this is a highly interior narrative, the narrator's growth is expressed through her actions; this provides the exteriority that lends the piece its emotional heft."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "On a line level, idiosyncratic sentence structures and punctuation usage abound. For example, commas are used like this, often paired with em dashes. This creates sentences that have an odd rhythm and are sometimes difficult to parse. Quotation marks in this text are applied in a distinctive fashion in which a quote is indicated like \"this, but never closed with a second quotation mark. I can't imagine that is intentional."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "The narrator describes a highly unconventional life story, especially for the time period it covers. Her movement from a state of inhibition and outsider-ness to one of relative freedom and connection is what leaves a lasting impression on the reader."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "Although I feel this essay conveys an unconventional life through fairly conventional writing, it avoids cliche."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Details like the narrator's cobalt velvet jacket with a shawl collar and the cruise ship crew member's \"dark hair forming a soft wave across the top of his head\" add sensory depth and believability to an otherwise expositional narrative."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "Though the secondary and tertiary characters in this essay are flat and do not change over the course of its story, the narrator changes in an appropriately complex way. Her movement from feeling marginalized in both straight and gay spaces to feeling the freedom to dance on the cruise ship turns her into a well-rounded character."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "I had a difficult time identifying subtext in my first read of the text. However, on reread the fact that the internal growth of the narrator is inferred by the reader rather than told explicitly does convey implicit meaning."
+                }
+            },
+            "Story2": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The story's frequent allusions to religion and God doesn't seem to pan out in a narratively meaningful way. Similarly, the narrator's evolving appreciation for their father is insufficiently developed."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "There are many allusions to religion in the text; however they aren't effectively incorporated into the text. Metaphors like the ship being a \"contemporary rendition of Noah's Ark\" and rubber, latex, and sweat drifting on the surface of water \"like a school of inky slippers\" don't make total sense. The idea of \"contact\" suggesting extraterrestrials rather than AIDS is an positive exception."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "It is unclear what lead to the narrator's new appreciation of their father, or how that appreciation is different than it was at the beginning of the essay. Multiple threads are introduced (adult responsibilities and expectations, the father's impending death, the narrator's crush on Nigel, the effects of gentrification, religion, the unconventional personalities onboard the ship, Dan) and either dropped or insufficiently developed. The ending does not seem to result from a narrative logic."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The piece is moves from one topic to the next with almost every paragraph. The elements with the highest stakes (the narrator's relationship with their father, the father's health, the narrator's sexual longing) do not receive sufficient attention or space in the text."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "While I feel the scenes and themes of this essay are underdeveloped, it does use both scene and summary to tell its story."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The piece introduces several surprising turns, but they don't go anywhere. The father's skill at making wigs is interesting and fun, for example, but it isn't developed further."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The reasons behind the narrator's actions are hazy to me. Similarly, each time I encountered the father, he seemed like a different person. I don't know why he wouldn't dance with the narrator at the beginning of the essay, nor what changed in that regard by the end."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The events of the essay are conveyed mainly as observations on the part of the narrator. The level of interiority is too limited for the piece to have emotional depth."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The language of the piece uses overly-familiar phrasings and sometimes-stuffy diction. The structure and form of the piece is conventional."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "Because the threads introduced in the piece are insufficiently developed, the reader isn't able to gain much insight from it. It's difficult to ascertain a new perspective or insight articulated in the text."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The story introduces a number of unique and interesting ideas. They are just dropped too quickly."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "The sensory details in the piece are generally vague and sometimes confusing. The description of the material and smell of the father's wigs is a notable exception."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The father's character was hard to wrap my head around. Many of the things he says are inscrutable to me. The motives and traits of the narrator are easier to understand, but conveyed in a surface-level fashion. The tertiary characters are barely present in the text."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "it's possible that I simply missed something, but I cannot identify subtext in this piece. The elements of this essay that are not directly stated are hard for me to understand."
+                }
+            },
+            "Story3": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The story seems to attempt an ending twice, using an almost identical phrase (I clung tight... not ready/unwilling to say goodbye/part) in both instances. It is unclear what narratively leads the reader to the conclusion."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The attempts at metaphor (dad as star/diamond/rock/compass/beacon/setting sun) are clunky and awkwardly introduced. I don't see idiomatic language or literary allusion in the text."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending doesn't seem to result from narrative logic. Additionally, the narrator's sudden switch to addressing the father directly is tonally and logically abrupt. The father seems to have died, but when is unclear. The narrator's relationship with their father seems minimally changed from the beginning of the essay to its conclusion."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The story unfolds in a straightforward manner. There is little compression or stretching of time."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "While the piece does move from summary into scene, the scenes are too brief and underdeveloped to be effective. This is especially true at the end, where the father tells the narrator that he's their very own wishing star, an idea that is reiterated several times in the expository ending."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There aren't really any plot developments or revelations to speak of."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The secondary and tertiary characters are flat or conveyed in a summary fashion. The narrator seems to end the story unchanged from its beginning."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The emotional lives of the characters are told to the reader, rather than conveyed in a convincing manner. The story is told in a heavily external, summary fashion."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The story is told in a straightforward, conventional manner. The exception to this - what appears to be an ending attempted twice - doesn't seem intentional."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The ideas in this essay lack complexity. I can't identify original ideas in it that would stay with a reader afterward."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The metaphorical language in this piece consists of overused ideas and comparisons. The father is the narrator's hero, star, compass, diamond, sun, etc. - all language that readers will have encountered countless times before."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "The sensory language is too vague and simple to create a believable world. The world of this story is conveyed with minimal description."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Neither the narrator nor their father is fully defined. Their relationship lacks depth. There doesn't appear to be meaningful character growth in the essay."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "I cannot identify subtext in this piece. It is conveyed through surface-level observations."
+                }
+            },
+            "Story4": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The story lacks logical coherence. It attempts to end, in very similar ways, several times in a row. It appears to be telling two stories at the same time (the narrator's relationship with Evan and the story of their father's death) and unwilling to commit to either, The events are conveyed as facts that happened in sequence, but without the level of casual interaction that one expect from narrative prose."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The idioms and metaphorical language in this piece are overly-familiar and simple: a heart full of emotions, moths to a flame, a whirlwind of emotions, butterflies in one's stomach, etc.  I do not see literary allusion in this piece."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending is abrupt, summary, and attempted several times in a row with increasingly similar language. It does not seem to result from a meaningful narrative logic."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The essay unfolds at a simple, staccato pace. Years do get condensed into clauses (\"Months turned to years\") but without dramatic effect."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "The story is highly summary and expositional. Its scenes lack narrative and emotional depth."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The only surprising structural element of this essay, its repeated attempted endings, is surely unintended. Either way, it is more confusing than effective."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The perspectives expressed by the characters are too simple to be relatable or believable. Each character in this piece behaves in easily predictable ways that do not feel realistic."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There is little, if any, interiority in this piece. Its events are conveyed almost entirely through the characters' observable actions and dialogue."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The language, plot, structure, and style of this piece are all highly conventional."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "It's difficult to identify original ideas or content in this piece."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The language in this piece is rife with cliches."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "The world is conveyed through flat, simple details. The descriptions are overly familiar."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The characters, including the narrator, are uniformly flat and static. They and their interactions lack emotional depth."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "I cannot identify subtext in this piece."
+                }
+            }
+        }
+    }
+}

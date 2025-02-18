@@ -1,0 +1,718 @@
+{
+    "Keys": {
+        "Ronnie Huett": {
+            "Story1": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "While this story is not well-written, it does follow a logical path. Its basic beats - Daniel being  disturbed by memories of his failed marriage and desiring to be present in his current relationship, his girlfriend Isabel listening to his concerns and suggesting that they visit his old flat so that he can seek closure, his appreciation for his new partner afterwards - make sense and unfold in a coherent way."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The language in this story is elementary are highly dependent on premade, overly-familiar phrases. There is little to no meaningful use of figurative language like metaphor. There are idioms present, like \"tossed and turned\" and \"chipped away,\" but these are deployed in a perfunctory manner that weakens the writing."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending is unrealistically tidy and incongruent with real life. Because the characters are flat and unrealistic, their behavior results in a conclusion that feels neither earned not satisfying. There was nothing really at stake in this story, so the unrealistically easy \"happily ever after\" ending doesn't resonate on a human or artistic level."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The moments in this story that matter most - Daniel's interactions with his partner Isabel - are rendered in a flip, quick manner. This story is told as a series of expository summaries that do not allow for meaningful narrative pacing."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "My impulse was to answer no to this question, because the scene work in this story is so rote and flatly rendered as to be effectively summary. But there is movement between scene and summary, experience and exposition. The issue is that the writing is relentless in explaining to the reader exactly what happened and why, leaving no space for inference and little reason to care. When Daniel wakes up from his dream, we are technically in scene - but also explicitly told that \"Daniel realized how truly different they were,\" a summary bit of information that takes away the opportunity for the reader to become invested in the story."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "There are two turns in this story, both of which make logistical sense: Daniel waking up from his nightmare, at which point the reader learns that he has a new partner and that Daniel's dilemma is the impact of his old relationship on the new one, and Isabel's surprising eagerness to help Daniel solve this problem."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The characters are far too flat to be believed. Isabel is almost cartoonishly virtuous, or at least unrealistically secure and helpful, both to Daniel and the story itself. She is a device that moves the story from one stage to the next, and lacks any of the depth and complexity that one would associate with a real human being. Daniel's rendering is only slightly better. His problem is easily solved, because he is devoid of the thoughts and behaviors of a real person. Why does simply looking at his old flat help him heal at all? We're just told that it does and have to accept that."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "While we do move between interiority and exteriority, both are rendered in a simplistic, trite fashion that prevents investment in the story and its characters."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The language of this piece relies entirely on overly-familiar turns of phrase and stock descriptions: images flicker, city streets bustle, Daniel wakes with a start, there were cracks in the foundation of his marriage. \"Cheap flatpack furniture\" is the single description that I could identify in this piece that felt new or interesting to me. \n\nThe structure of the piece is paint-by-numbers. Wake from a troubling dream (with a start), talk about it, a solution is instantly identified, problem solved. There is little to no care taken in making this sequence of events interesting or meaningful."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The characters and their actions are static and basic. Isabel is not believable at all, existing only to support Daniel and solve his problem. Daniel's problem, that he is troubled by memories of his failed marriage, is resolved far too easily to leave an impact on the reader."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "This story is a series of cliches and stereotypes. Daniel and Rachel were once \"young and foolish,\" Daniel was pragmatic and careful with money and Rachel was a spontaneous, free-spirited artist - this is Dharma and Greg and a million other stories that rely on this specific gender dynamic. Similarly, Isabel is a loving, patient, selfless female partner who seems to have no wants or desires other than to heal and support her male partner. That isn't to say stories can't ever include these dynamics, only that they are so over-used and recognizable that no value can be taken from it if they aren't rendered intentionally and with artistry."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "The descriptions in this piece that are generally rote, vague, and overly familiar: \"the familiar street looked shabbier than he remembered,\" \"the sagging green sofa,\" \"the little cafe down the street."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "As mentioned above, the characters in this piece are flat and static, lacking human depth."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "This piece explains itself aggressively. \"A pang of guilt shot through him. His kind, patient girlfriend deserved better than for him to still be troubled by a failed marriage from years ago\" \"Though they had only been dating six months, he was beginning to imagine a future with this caring, compassionate woman by his side.\" \n\nThen there is the exposed exposition placed into dialogue: \"It sounds like your subconscious is trying to work through some lingering feelings about that time,\" she said gently. \"Maybe there are still some loose ends you need to tie up about the end of your marriage, even after all these years.\"\n\nThis is the opposite of subtext."
+                }
+            },
+            "Story2": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "This piece is confusing and incoherent. Daniel has dreams of a flat that his landlord insists exists below his home, but Daniel has never visited. Then later Daniel and Isabel ascend to this flat, where Daniel previously lived (even though we were explicitly told he had never been there before. Isabel talks about her ex Gracie, then says: \"Our childhoods shape us. I've grown since then.\" Did she date Gracie when she was a child?"
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "There is one interesting use of figurative language - Daniel's dreams persisting for weeks, \"like a fire burning through damp straw.\" Other than this, the language in this story is either simplistic and trite (the memory of Rachel paddling the canoe \"shines like a beacon\"), or confusing. Daniel bringing up his dreams is described as \"letting a fragment slip."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "There seem to be a few attempted endings. the final one in which Daniel and Isabel connect by going canoeing, which he used to do with Rachel, doesn't really make sense. The story itself is incoherent, so the ending cannot be justified by what came before."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "Though there are gestures at narrative compression, they are really just moments of summary and exposition that skip over the work necessary to show who these characters are and why they do what they do. One could simply cut out the moments of compression:\n\n\"For days, Daniel thought of their pasts: his divorce from Rachel, Isabel's separation from Gracie, and the honesty they'd shared that night. There had been no cruelty in their former lives, no viciousness beyond the everyday struggles that grated and bent. Daniel wondered if he was not destroying something with his memories and his dreams, and if he was not letting them fall against the protective fences he had built around Isabel's and his own heart. Their shared pasts hung in the darkness around them, like shadows in a firelit room. And Daniel wondered if that was what he had wanted, to share his darkness.\"\n\n...and there would be no meaningful effect on the story at all, other than it would make slightly more sense."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "This piece is far summary and incoherent to strike a balance between scene and summary. The time spent in scene is confusing and rendered simplistically."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "Things more or less just happen in sequence in this piece, without causation that makes sense to the reader. Why does Isabel want to hunt for treasures in the rooms of the flat that Daniel has never entered nor seen, yet also lived in with his ex wife?"
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The characters are flat, inconsistent, and difficult to empathize with. They lack the depth and complexity of real human beings."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story is too confusing and lacks interior logic. Its characters behave in ways that one cannot understand, regardless of interiority or exteriority."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The story proceeds in a rote, step-by-step fashion using language that doesn't quite make sense (\"he dove into his club soda miserably\") when it isn't cliched (\"like water and oil, we separated\").."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "When the piece isn't confusing, it is trite. The characters are automatons whose behavior lacks the complexity and agency of real human beings. No meaning can be made of them, their actions, or the story overall."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The only parts of this story that aren't confusing are cliched. \"bridge the distance,\" \"water and oil,\" \"shining like a beacon,\" etc."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "The world, when described at all, is done so inconsistently. Daniel dreams of a flat he's never seen or visited (how?), then we learn that actually he lived there with his ex wife. It is below his apartment even though he's never seen it, and he goes to it with Isabel even though he seems to doubt its existence and location."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The characters are flat and odd. They say things that lack the grammar and logic of real speech: \"I keep seeing that old flat-it's a dream I have of that old flat, and it frightens me.\" \"I wouldn't dare to find out."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "This piece lacks internal logic. It exists on a superficial, confounding level, from which no deeper meaning could be derived."
+                }
+            },
+            "Story3": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "This story lacks internal logic and consistency. The flat that Daniel used to live in with Rachel abruptly becomes a house with a backyard that he used to live in, seemingly with Rachel, but then it's as though he lived there with Isabel instead. The story ends with a long, circular series of attempted endings that digress into memories and experiences that don't seem to have any reason for being in the text."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The language of this piece is elementary and devoid of meaningful idiom, metaphor, and allusion."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending just sort of happens, and when it does it is as a doom loop of repeated attempts at closure. The story itself lacks the internal logic necessary for it to conclude in a meaningful, satisfactory manner."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "Time is compressed throughout this piece, and we do not spend nearly enough story time experiencing what happened in scene."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "This piece exists on a highly expository plane. It is a long series of short, declarative paragraphs that summarize, rather than show, what happened."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "This piece lacks the internal logic and consistency for its turns to make sense. When things are surprising, it is because they contradict what has been previously established (the flat where Daniel lived with Rachel becomes a house where he lived with Rachel, then a house where he lived with Isabel; his dilemma goes from needing closure to a previous relationship to needing to connect with his current partner)"
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The characters are flat and unconvincing. They lack depth entirely."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There is no meaningful interiority in this story. The emotions asserted to be felt by the characters are simplistic and unconvincing."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The story is conveyed through rote summary and exposition, until it enters a spiral of repeated attempts at ending."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The story is both inconsistent and derivative. It relies on stock emotions and interpersonal relationships that do not have the depth and complexity one associates with real human beings."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "When this story deploys novel phrasings, they only approximate coherent language. How does one's \"heart pound with curiosity,\" or at least in what way can that heart pounding be distinguished from a heart pounding with dread? Why would curiosity make one's heart pound? What does it mean to say that \"the simplicity of life was encapsulated in the rhythmic strokes of paddles against water?\" This is word soup."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "The world is rendered in flat, basic, derivative language. River water laps softly, Daniel rummages through a dusty drawer, their kitchen is sunlit. One cannot picture the world of this story, because it is only vaguely gestured at."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The characters are flat and static. We have no access to what might make them believable, let alone relatable, human beings."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "There is no subtext to speak of in this story. Everything is conveyed superficially and directly."
+                }
+            },
+            "Story4": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "This is a well written story in which complicated, human-feeling people struggle to articulate how they feel with kindness even though that's what they want to do. Daniel is troubled by a past relationship and doesn't know why, until he realizes at the end that he can learn from the mistakes he made in that relationship and make a meaningful attempt to do better in his current one. It was a pleasure to read."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "Though there is not a lot of figurative language in this piece, what exists is novel and meaningful. Daniel dreams of his old home with Rachel as \"the kind of place where a wounded animal might go to hide.\" Rachel \"found him ridiculous, like a little boy playing truant.\" These are metaphors that add meaning to the text and do not feel copy-pasted from elsewhere or autocompleted in the author's mind. We can sense the presence of a human intelligence at play in moments like these."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The ending is excellent, and builds logically and artfully from the rest of the story. We don't know how Daniel's relationship with Isabel will go - there is tension between them, and they struggle to speak with each other in truly empathetic ways. But throughout the piece, and especially at it's conclusion, we understand that Daniel is sincere in his desire to connect with his partner in a deep, respectful way, and to figure out a way to maintain this relationship."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "This story expands and contracts in the manner of an accordion, allowing us to spend just the right amount of time in every scene. When Daniel and Isabel have tense interactions, they are conveyed with admirable economy and subtext. We are introduced to their disagreement, or the tension between them, we quickly understand it, and move on."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "This story has several excellent scenes. Whenever Daniel interacts with Isabel, and in the scene with Hilary, we are present and what is portrayed feels real and nuanced. When we go into a more expository mode via Daniel's dreams and thoughts, it adds context to the scenes, and vice-versa."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Because this story does such an excellent job of portraying its characters as complex, believable people, surprising and appropriate turns abound. The best such moment comes in the end, when the reader anticipates that Daniel will attempt to bond with Isabel as he did with Rachel, and Isabel agrees to try canoeing with him - but instead, this time Daniel perceives her disinterest and reluctance, and chooses to lose the keys instead."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The characters of Isabel and Daniel are artfully and lovingly rendered. Isabel consistently says things that sting, but then tries to take them back, and the effect is to convey her humanity as someone who is struggling to contain her insecurity and resentment while also very much wanting to love and support her partner. When she brings up Geoff, it is a jab at Daniel, and an opportunity to imply that she has options just like the one she fears he is holding onto. This is a woman who behaves in the complex, contradictory, and human ways that we all do in real life."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Through Daniel's dreams and thoughts, and through the actions of the characters, and through the highly subtextual dialogue spoken by them, a lovely depth is constructed, considered, and maintained throughout this story."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "While beginning a story with a dream is broadly a hack writing move, it is skillfully done in this story. by moving back and forth between Daniel's dreams and memories and his present life, we are given everything we need to make sense and take enjoyment from this story."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "A reader who engages in this story will come away from it in a contemplative and reflective mode. By showing us something approaching the full humanity of Daniel and Isabel, the author induces a glimpse into something unsaid about human nature."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The language of this piece is sparse, but artful. Daniel awakens from his dream reassured, but also extremely anxious, like a man emerging from a coma, uncertain whether he is alive or dead. He \"lift(s) himself up on an elbow\" to watch Isabel sleep."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Again, this story focuses far more on human interaction and subtext than sensory descriptions. But when it does, it does so with quick bursts of just-enough imagery: the splintery table, the semi-basement flat, tiny insects flitting across the surface of the pond, which is choked with bright-green weeds. It doesn't need more than this to feel like a real, tangible world has been rendered."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "This story absolutely excels at depicting its characters as complex human beings. I've discussed Isabel and Daniel in my previous answers. But even though Hilary is only briefly in the piece, even her humanity and relationships to Daniel and Isabel is powerfully conveyed:\n\n\"Uh-oh, Hilary said, laughing. Time for the analyst!\"\n\nFrom this we quickly understand a few things: Hilary is someone who blurts out things she probably shouldn't; that Isabel has confided things in her about Daniel that he wishes she hadn't ... this is a tense, human, and believable moment."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "Daniel's interactions with Isabel are highly subtextual:\n\n1. Isabel asked, What’s Rachel like, in these dreams of yours?\n\nDaniel sighed.\n\nJust curious, she added. Dreams are so vague, he said.\n\n2. Isabel mentioned that her ex had been in touch recently. Geoff. He had sent her a link to some political article he thought might interest her. Sounding off about corruption.\nDid you reply?\n\nA line or two. To be friendly. But I never dream about being back with him.\n\nThese examples are typical of the subtextual meaning embedded in both the story and the relationship between its characters. They are saying what they mean without directly saying it, the way that real human beings do in real life. It is satisfying to read, because it is recognizable as a series of experiences we all have."
+                }
+            }
+        },
+        "Nicolás Maurokefalidis": {
+            "Story1": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The story is simple enough to understand and follows a logical path. The problems in Daniel's relationship introduced at the beginning are addressed and resolved, though not in a very convicing manner. The story feels too simplistic to be satisfying."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The language of the story is not interesting or original. Several of the images employed are too wordy and vague, for example: 'flooded by a bittersweet nostalgia for early days gone by'. There isn't a sense of literary allusion or a complex use of language."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending of the story is unsatisfactory because it is too evident to see what the writer expects us to feel. I did not care for the characters and the events took place so quickly that the ending failed to arouse any emotions in me."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "In order to write a very good short story (especially one as short as this one), there has to be a spark or engaging element that justifies its being a short story. When reading this piece I felt like this could have been a longer story, in which we learnt about the characters and experienced what they went through, but the way it was handled felt rushed. It reads more as a summary of a story than an actual story."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "There is an awareness of balance between summary and exposition, as displayed in the descriptions of the protagonist walking through his old apartment. There isn't, however, any insight in the author's handling of this technique. The story feels too much like a summary, and these moments of detailed description are not compelling enough to rescue it."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The structure of this story is too simplistic and detracts from its enjoyment. Every beat is predictable, and the revelations are neither surprising or thought-out. It does not feel like the author experienced these events themself, or has any awareness of how people would act in this situation."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The character of Isabel is unconvincing and flat. Daniel, the protagonist, also shows a limited and robotic range of emotions. His struggle to overcome the memory of his ex-girlfriend is not given enough depth, and does not resonate past the boundaries of the story."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story makes an attempt at interiority but it is not successful. The way in which the characters' emotions are revealed is partly through dialogue, which is remarkably dull in this story. An example is Daniel's response to Isabel's suggestion that he visits his old flat: 'That's a wonderful idea. Thank you, my dear, for always knowing the right thing to do.' It does not have the ring of truth, or even an echo of it."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "As discussed in previous answers, the structure is predictable and too simplistic. The author shows no awareness of form as a tool to convey complex ideas to the reader. This might be because the author has no complex ideas to convey in this story."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The idea behind this story is trite and overdone. A reader would be better off watching a sitcom if they are looking for a surface-level treatment of relationships and memory; and watching a sitcom they might at least enjoy themselves."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The repetition of clichéd images and ideas makes the story painfully forgettable. The image of 'Rachel snuggling in his arms during a thunderstorm' is later repeated to little effect: 'cuddled in front of the TV during rainy Sundays.'"
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "The story fails to create convincing dialogue. The images it employs also lack any originality, and therefore do not feel real. There's a pervading vagueness, such as in this image: 'They would go on adventures in the city, searching for hidden treasures in thrift stores and trying out different ethnic restaurants.' Daniel's time with Rachel is described as 'thrilling and unpredictable'—I wish I could say the same of this story."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Isabel's character only plays one role in this story and it is to suggest to Daniel to visit his old flat. Rachel is not developed or interesting enough. We get a hint that she had a violent outbreak towards Daniel, but this isn't given enough credibility."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No, it does not. The story only serves one purpose and that is to reinstate old and shallow ideas."
+                }
+            },
+            "Story2": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The progression of the story is coherent. There is an element of intrigue thanks to the key and the room which Daniel doesn't want to enter."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "There are some interesting metaphors but I wouldn't call them sophisticated. While they are not necessarily clichéd, the images employed are vague and they mud our understanding of the story: 'they shared an uneasy feeling that there was a mingling of dreams and wishes flowing from the door.'"
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending is mismatched with the rest of the story in my opinion. The mystery that arose from the empty room downstairs, and the implications that might have had for Daniel, are pushed aside too easily at the end of the story."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The story shows a basic understanding of narrative time and employs it to its benefit. There is a leap in time near the end of the story, which is when we are led to believe Daniel comes to term with his past and decides to move on. I don't find this very convincing."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "The story shows a basic understanding of balancing scenes and summary. The scenes are descriptive enough to at least be vivid in the reader's mind."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "As discussed before, the resolution of the story does not feel appropriate to the rest of the story. It doesn't even act as an 'anti-twist,' indeed, it fails to do anything interesting once it's caught the reader's attention."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There is an attempt to sketch the characters' thoughts through dialogue, and while more convincing than in the previous story, it still falls short. The dialogue is too short and conclusive ideas are too easily arrived at, for example: \"Nothing ever made me feel like I had that love from her"
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The first paragraph of the story is very successful at balancing interiority and exteriority. However later on I find the interior development of the characters less convincing."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "There is the hope, at first, that the story will use mystery to reveal something interesting about the protagonist's life or psyche. However this is never fully accomplished, given that the subplot of the haunted apartment doesn't resonate throughout the rest of the story."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "As the story does not fully accomplish what it initially sets out to do, then it cannot be said that it will have any more impact on the reader than arousing their imagination slightly. There is too explicit a message underlying the story, that is, that by facing the past we may become liberated from it. This is neither new nor interesting."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "There is an attempt at complexity in phrasing which often betrays a trite idea behind it, such as: 'to protect her from the darkness he found lurking inside himself.' These instances occur more often than not, and they detract from the enjoyability of the piece."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Some interesting touches accomplish a sense of reality: the 'effervescent' eyes, the 'warped brown door.' However there isn't a sense that the writer envisions a complete world that their story belongs to; that is to say the story doesn't extend beyond its pages, which prevents it from being outstanding."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "As discussed before, a clumsiness in dialogue prevents the characters from seeming complex or developed. The story's ending also detracts from it."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "There is a very basic attempt at subtext through the haunted room and what it represents to the protagonist. This is just enough to give the story a pass based on this rubric, but not to classify it as outstanding or remarkable"
+                }
+            },
+            "Story3": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The plot elements are not held together. The memory of Rachel is completely swept aside, brought back for a moment later in the story, and then discarded again. There are several 'awakenings' that Daniel experiences, each diminishing the impact of the last."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "None whatsoever. The language is akin to a bad salespitch: 'The familiar joy and tranquility they had once shared found its way into their present relationship, inching them closer to a future built on shared experiences and mutual growth.' The final pun made me cringe: 'a life well-canooed.'"
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The story has several endings, or what seem to be endings, except the story keeps going for no reason whatsoever. This made me irritated and completely put me off the story."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "There is no skillful stretching of time in this text. Time is only used as a tool to channel Daniel's trite reflections."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "There isn't a single scene that feels real. It is mostly summary of an unsatisfactory sort."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There are several turns, none of which work. This paragraph was offensively bad: 'In that moment, Daniel realized that it wasn't just about the destination or the physical act of canoeing. It was about the journey itself—the exploration of inner and outer landscapes, the connection forged with nature and the person he loved.'"
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "Not even Daniel's perspective is fully realised in this story. As it is built upon hollow mantras and aphorisms, there is no sense that a real person is being sketched in front of us."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The attempts are interiority are so laughable that they cannot in any way impact the reader. We do not get a sense that these are real people, since people do not behave in this way."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "None whatsoever. The structure is poor and drawn-out. There is no defining form. The story is muddled by the several 'turns' which confuse and annoy the reader."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "None of the ideas contained in this text are original. In fact, they are infuriatingly meaningless and overdone: 'As they glided along the shimmering waters, Daniel and Isabel discovered a newfound appreciation for the fleeting moments and the deep-rooted connections that made life meaningful.'"
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The text is merely a compilation of clichés. Not only Daniels' discoveries are clichéd, so are the images employed: 'The creaking floorboards beneath their feet seemed to echo the untold stories of past residents, lingering in the air like whispers.'"
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "Nothing in this story feels believable. It is very clear to tell that it wasn't written by a human."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Daniel is not a complex character. His discoveries seemed force and do not resonate with the reader. Rachel and Isabel are hardly developed."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "There is no subtext or subtlety in this story. It is very clearly the work of a subpar machine with a positive message it looks to reinforce, and in doing so cheapens the reader's intellect and wastes their time."
+                }
+            },
+            "Story4": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The story is satisfying in the way it ties everything together without feeling too cheap. Daniel's recurring dreams are useful in keeping the narrative engaging"
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "There isn't a lot of metaphor in this story, but it's successful without the need for them. One simile in the first paragraph seemed to aptly capture the character's confused feelings: 'He felt reassured, but also extremely anxious, like a man emerging from a coma, uncertain whether he is alive or dead.'"
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "I felt as if the author had worked up to the ending sufficiently, even if it personally disappointed me slightly. The ending makes its point clear without over-hammering a message."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Even though the story is very short we have a sense that a considerable amount of time has gone by. The moments where the story delves into Daniel's dream add a level of uncertainty about the passing of time and the way we perceive it."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "There are some interesting scenes that expand the story. Hilary's presence is welcomed since it allows Daniel and Isabel to discuss their relationship in a new light."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The story keeps the reader wondering how it will end. We ask ourselves what will Daniel finally do. The second dream sequence is useful in accomplishing this effect."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "As mentioned before, the character of Hilary adds a new and objective perspective with enrichens that of the other characters. A small comment that Daniel makes to Isabel makes seems realistic and appropriate: 'We need to pour some Mr. Muscle down there.'"
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Daniel's dreams of Rachel are complex enough as they present us with a possible image of what Rachel might have been like, as filtered through Daniel's memory. The story benefits from this complexity, even though the ending was in my opinion a bit bland."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "The uses of the dream sequences are apt and propel the narrative forward. Dream sequences are nothing new, of course, but at least in the first paragraph the reader successfully captures that state of un-believing which we're plunged into when we have a dream."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "Not necessarily. But an average person would probably enjoy reading this story, and that is sufficient. Stories are not always something to profit from."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The story successfully avoids cliché. It employs dream sequences skillfully and presents a character's conflicts in a way that is at the very least interesting and compelling."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Small details help the story without overburdening it. For instance a small action by Isabel during her conversation with Daniel: 'Isabel raised her eyes across the table.' These are enough to propel the story and not distract the reader."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "The characters of Rachel and Isabel merge in Daniel's head at the beginning, but this is intentional and a clever decision on the writer's part. Later on the two characters become are differentiated through Daniel's lens. The mention of the old family home and the canoe feel like poor attempts to expand Daniel's character, but these are not dwelled upon and seem superfluous."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "The set of keys which Daniel finds stands not only for Rachel, but also the past more generally. This is a more interesting subtext than in the previous story, where the keys or the empty apartment served a single purpose. The story operates mostly at a surface level but hints at a complexity of thought and character, even if minor."
+                }
+            }
+        },
+        "Andres Cordoba": {
+            "Story1": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The movement of the plot made sense but in a very surface level and cliché way. It passes the test in my opinion because every decision made in the story centers around Daniel confronting his relationship with Rachel, but that does not mean it was done in an interesting or unique way. Daniel moving from a dream sequence, to a scene with Isabel, to the final visiting of the house all, all follows logic for someone facing their past, but it isn't an extraordinarily engrossing adventure."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The story makes very little use of metaphor or allusion. It lives mostly in literal memory and very rarely does anything or mentions anything in a non-literal manner. It's very straight forward in its descriptions. Characters rarely do anything more than recall the past or describe their immediate settings."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The ending makes sense since closure seems to be Daniel's entire goal of the story, but it is a very one note ending that is not entirely earned. I don't truly feel like Daniel and Isabel have reached another level of intimacy in their relationship the way the story seems to want me to believe. However, the sudden happy ending does feel like the direction the story always intended or wanted to go."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "One of the story's few strengths. I found that it was able to build Daniel and Rachel's relationship pretty quickly with few details. The way time moves in flashbacks is concise without sparing details. The scenes in the present with Isabel seemingly move appropriately though also feel thinly sketched."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "The summary portions were more successful than the scenes but it ultimately did pass. The story made a clear effort to exist on two temporal planes, and it moved through those sections pretty successfully."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story operates with virtually no twists save the quasi-twist in the opening where it's revealed Daniel is no longer dating Rachel. The story operates on a relatively obvious level throughout. The ending is egregiously obvious too with the sudden closure Daniel discovers after one return trip to his old home."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "Characters are shown performing violent actions and not being great in relationships, but they are not deeply complex by any means. Little is show outside of occasional relationship strife."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The story is successful in maneuvering between Daniel's head and the experiences he passes through. We are able to see two relationships exist at once."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The story does move through memory to present, but it is a deeply straightforward narrative. It moves in one way and never wavers."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "This is a very cliché story about romance and someone moving past a bad breakup. Very little things of interest are observed. I've heard many stories like this one."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "It was a typical male narrative feeling regret before deciding he no longer had regret. Whole lines of character motivations and observation are simply clichés."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "There are a few moments in the final scene in the house and the memories where sensual details are found. The final scene has the most moments of this with a lot of color and touch being highlighted."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "I'm not entirely sure how Daniel reaches an emotional catharsis, it seems like he just stumbles upon growth at the end. Unsure how he ultimately changed but the story seems to feel like he did."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "The story is all surface. It never moves away from telling and/or giving us the protagonist's immediate thought."
+                }
+            },
+            "Story2": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The story moves in an interesting and logical way. It's easy to understand why characters make decisions and why certain relationships mean a lot to each of them."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "The story moves through a lot of metaphors. It sometimes feels a bit overwrought, but it does at least attempt to use language and metaphorical image in a way that enlivens the story."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The story builds to Daniel needing to finally allow Isabel a space in his life, and so the canoe trip feels earned as an ending. The story looks to have a character grow into vulnerability and then he does."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "It does move a bit too fast at times but ultimately it finds a good pace for the story. Days pass quickly for better and for worse, but at least the story is not bogged down in itself."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "Not much summary is shown as it is mostly scene."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "Not a surprising story at all, our characters are obvious in their sadness and emotional obsessiveness. It does make a lot of appropriate choices though, nothing feels out of nowhere."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Daniel is a very reserved and cut-off character who does not allow anyone in, but does have to find a way to help himself before others can help him. While he is frustrating, he does feel believable at times."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The story has some good asides for Daniel to revisit his relationship with Rachel. Similarly, scenes between him and Isabel display a lot of sides to their relationship."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "A very straightforward plotted and paced story. It does not try to make big leaps nor does it take risks. It is put together but very straightforward."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The story does try and go to deeper levels regarding loss and nostalgia, but it does not add anything original to this canon of ideas. It is a pretty typical story of heartbreak."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "Many of the metaphors feel a bit heavy handed and obvious. Some dialogue is interesting, but scenes play out in predictable ways."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "A lot of sensory is shown which definitely helps the work. I can often feel the character's moods based on his sensory experiences."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "While Daniel is a pretty stock sad male character, he does find happiness by story's end. It is interesting how he finds a way into his new relationship by recalling the goodness of his old one."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "Daniel is quiet and reserved but we often are able to figure out what he is saying through subtext. The story moves successfully through this plane quite often."
+                }
+            },
+            "Story3": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "I really couldn't quite get why the canoe mattered so much. We're told it matters and are expected to just love these scenes as much as the characters. They felt dry and boring."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The writer said \"tapestry\" like four different times. The language was so flowery and over the top I could hardly get into a rhythm."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "I understand why it came to that close, but none of it felt interesting or necessary. The \"canoe is just important because it is\" the story seems to say."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The canoe sequence went on forever and ever. I was incredibly put out by this moment, and felt like I was trapped at the writer's mercy."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "It is so blank and obvious with how it throws summary after summary at the reader. The canoe sequence drags on indefinitely and without any respite."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "It just slogs through one long self-described adventure. There are no twists or really anything happening at all. Just two characters in a boat that is also their relationship, as the story tells us bluntly."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The writer has a very high falutin voice that is more to the detriment than support of the piece. I was frustrated by its odd insistence to keep overly dramatizing the inner life of the relationship."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "It's all exterior canoe sequences. It is non-stop exterior and the interiority is deeply cliché."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "A very obvious paced and plotted work that doesn't look to move anywhere but in its linear progression. Language is plodding and keeps repeating itself. Was very repetitive in its thoughts and ideas."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "Deeply cliché and, even more-so, repetitive to a fault. Everything felt said before both in dialogue and internal realizations by characters. The final canoe sequence is rife with relationship and love clichés."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "Totally full of cliched sentiment and scenes. All the ideas felt overdone and obvious, especially the ones commenting on Isabel and Daniel's blooming relationship."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "The story is incredibly full of nature descriptions, almost to a detriment. However, we are always being shown the waters and the world around our characters so it is not a lack of details that is the story's problem."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Both characters feel like tools to get across an obvious point. They never really challenge the reader or each other and instead run in narrative circles. By the end, we are simply asked to believe in their growth."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "There is no subtext as everything is very painfully spelled out always. The story is always saying exactly what is on the character's minds and they never try and provide interesting moments of connection for the audience with the characters."
+                }
+            },
+            "Story4": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The story shows Daniel in a complex and more intricate way. It moves in strange ways, but mostly towards an understood idea of the complexity of a relationship's end."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "Metaphor is strong in this story as are the idioms. Characters feel real and studied in their dialogue and thoughts and decisions. As does descriptions."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The ending isn't too happy and leaves the reader wondering how kind Daniel's final idea really is. It's a more complex ending for sure. He is forced to both give up and hold onto his past in an interesting way."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "We move from slow dream to fast daily life very well. The compression keeps the reader from getting too bogged down in detail, but the dialogue in everyday sequences keeps plot moving."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Scenes are well paced and structured, such as the dream ones. Similarly, the summary does not tell the reader how to feel as much as it sets scenes."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Bits of both Daniel and Isabel's relationships prior are frequently teased out in surprising ways. Often one is taken aback by how unsure of the other's past life the other is."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Isabel especially has an interesting voice that ranges from teasing to sad to questioning to supportive. Daniel's perspective on his past is equally fraught."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Dialogue sequences show where characters are currently processing feelings, but the dreams show how Daniel is struggling with his past. He often shields himself from other characters in ways only the audience can see which is also interesting."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "It is not the most original in plot and follows a pretty typical linear progression. The dreams are sufficiently strange though."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "The story does not stray away from the difficulties of relationships. They way it talks about lying and insecurity is definitely interesting. By story's end one definitely comes away with a different view of what a marriage entails."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "Daniel's choice of what to and what to not tell are interesting moments. He hides a lot, but it is done in ways that serve him as well as hurt him. The author allows for both things to be true."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "The sensory details, especially in dreams are varied and rich. A lot of intricate moments described with details. Color really stands out in this story."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "One does see Daniel wrestle with his past but still come to a conclusion. He isn't perfect in marriage, and the story doesn't claim this perfection in the end, but he does struggle to be better. Isabel also takes up a strange space where she is never one sort of character, but sufficiently complex."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "The story does most of its work by mixing these two ideas frequently. Daniel is always fighting with his internal life, but is trying desperately to not let in bleed into his surface and external. The subtext also allows the reader to come to conclusions on their own without the author specifically stating it."
+                }
+            }
+        }
+    }
+}

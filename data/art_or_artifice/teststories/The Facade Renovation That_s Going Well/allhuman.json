@@ -1,0 +1,718 @@
+{
+    "The Facade Renovation That's Going Well": {
+        "Jon Michael Darga": {
+            "Story1": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the elements of the story form a natural progression: it begins with the interminable and insufferable construction work on Reedwood University, then the work completes, and then the staff of the university learn how necessary the work was in improving the university, and the newfound revelation and the improved facilities bonds them together stronger than ever before."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "No, there are not really any idioms, metaphors, or literary allusions present in the text."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending certainly isn't abrupt, but it bears the classic AI trademark of not knowing when or how to end the story. There are many, many, many paragraphs that state, and then re-state, and then re-state again how the construction changed the faculty and how improved they and their \"legacy\" is after the repairs have been made. (\"As the academic year drew to a close, there was a sense of accomplishment and relief emanating throughout the halls of Reedwood University.\" \"But it wasn't just the building that had been restored; it was their spirits as well.\" \"As the summer sun bathed the newly refurbished building in its warmth, there was an air of optimism among the faculty.\" \"And so, as the academic year came to a close, the faculty of Reedwood University stood united, knowing that they had weathered the storm and emerged stronger on the other side.\" \"The repairs at Reedwood University were more than just a restoration of the physical building; they were a catalyst for personal growth.\" And it continues...)"
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The stretching of time did not feel balanced -- we only get a page or so of the teachers suffering through these repairs, and then we get interminable paragraphs and paragraphs of how much the repairs have changed them afterwards. This led to an imbalance: the reader didn't really see the suffering, and so the mountainous descriptions of cathartic joy feel unearned and out of nowhere."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "There are both scenes and summaries in the book -- it begins with a scene (\"Dr. Elizabeth Thompson, a professor of history, paced her office, her footsteps creating a syncopated rhythm with the dripping sounds from above.\") -- but there's only one brief scene in the beginning, which is quickly abandoned for summary. (I've already pasted in an earlier answer the many, many paragraphs that close out the story, which are all summary...)"
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There are no turns in the story. I suppose it could be considered a turn that the faculty realize how necessary the repairs were at the end and the new facilities seemingly change them forever, but that's both unsurprising and not really appropriate (given the magnitude of their about face) so I wouldn't consider it one. Otherwise, things progress naturally and as expected: there are repairs, they're annoying, the repairs end, the faculty is grateful."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Technically, yes, there are the perspectives of more than one character: we see Dr. Elizabeth Thompson, as well as Dr. Jonathan Miller and Dr. Sarah Morgan, both at the beginning and end of the story. Their perspectives are conveyed both convincingly and accurately, but that's also because they have no character: they're only given two or three sentences of description each. It's hard to say that something is inaccurate when you have no idea who this person is."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story is pretty surface-level, and focuses mostly on interiority by describing the faculty's frustrations and woes and then their exuberance once the repairs are complete. Otherwise, the characters are passive and don't exhibit and exterior displays."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "There's no originality present. The writing is rote and unimaginative, and the narrative progresses in a linear and entirely expected fashion, as described in an earlier answer."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "I suppose that you could argue that the reader will take away the concept that sometimes we must persevere through hardships in order to reap the rewards on the other side. But that's hardly a unique and original idea, and it's a stretch to say that the author of the story intended for that takeaway, I think."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "Technically, yes, there are clichés present -- the writing is surface-level enough! Technically, the very idea of disruptive construction, academics who like their peace and quiet, etc. is a cliché, and for me that falls under the category of \"there are no original story ideas anyway."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "The sensory details are sparse, but they are there. Only in the beginning: \"The incessant dripping, the sodden carpets, and the lingering smell of mildew permeated every corner of the building. It was a tangible reminder of their collective distress.\" There aren't really any sensory details later on in the story. But they are included in the beginning, so there's that."
+                },
+                "Character Development": {
+                    "verdict": "Yes",
+                    "explanation": "The faculty each go on their journey of displeasure and discontentment, which ends once the construction ends, and they are inspired to go onto greater and greater heights. (\"Dr. Miller, once frustrated by the constant noise and dust, became more patient and understanding. He felt a deep connection to his colleagues, as they had all endured the same trials together.\" \"Dr. Morgan, who had previously despised the crowded faculty lounge, now saw it as a symbol of unity and strength.\" \"The bond among the faculty became so strong that they decided to take their newfound resilience beyond the confines of Reedwood University. They organized a series of motivational talks and workshops for other academic institutions, sharing their journey of overcoming challenges and finding strength in the face of adversity. Their stories inspired countless others who had experienced their own trials and tribulations.\")"
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "Everything in the story exists at a pretty surface level state."
+                }
+            },
+            "Story2": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the progression of the story makes sense: it begins with explaining the faulty construction that's been done on the faculty building and the resulting damage due to the rains, then details the arduous repairs and the strain that it put on the faculty, and ends with some sense of peace and order being restored once the repairs are complete."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "There are literary devices used within the text -- \"A now-yellowing copy of the complex blueprints had been unearthed from a forgotten cabinet, their unfurling before the twitchy, anxious faculty reminiscent of a long-overdue revelation, a band-aid being ripped off an old wound.\" -- but there aren't many, andI wouldn't call them sophisticated. (The above is, to a degree, nonsensical. Once you strip away the fluff, you're left with a sentence saying that the blueprints unfurled like a Band-Aid being ripped off of a wound?)"
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the ending fits with the rest of the story: we get to see the end of the repairs, that the repairs were successful, and how going through this period of trials and tribulations has brought the staff closer together. I wouldn't say that the ending is well-written -- \"Thus, the story concludes...\" \"Finally, it was the enduring strength of the faculty...\" -- but it does fit with the rest of the story in terms of theme and tone."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The internal chronology of the story didn't feel slow or rushed. It described each stage of the damage, repairs, and aftermath with what felt like equal attention."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "There were no scenes present in the story, only summaries. We didn't even get characters! We're told of individual \"department heads,\" but they're never given names and never appear past the initial vignette. I'm not really sure that you could have scenes without characters!"
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No, I wouldn't say that the story had any turns -- as discussed in an earlier answer, everything progressed in a way that seemed fairly expected and appropriate."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "As mentioned earlier, there aren't really any characters in the book. Figures are given vague descriptions (\"the department head,\" etc.) but nobody with personalities or motivations beyond a brief moment of frustration or protest. Thus, there aren't really any perspectives."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There's really no interiority -- as I've mentioned in previous answers, there aren't really any characters apart from very, very, very rough sketches of individuals in the department, so there's no real way to get interiority from them."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "I suppose one could argue that it's original to tell a surface-level story with no real characters in it, because nobody else has really done that before, but I don't think that's a function of originality... otherwise, things pretty much advance along as expected. There are repairs, they're annoying, the faculty goes crazy, they come out the other side. Nothing new or surprising."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "Again, everything progresses as planned and there are no characters to speak of, so I'm not sure how one could obtain anything from this story. I suppose that you could argue there's a \"lesson\" in the sense that the story ends with a group of individuals finding commonality and bonding over adversity, but that really feels pretty tacked on at the end, and I think it would be a stretch to say that the story is moralistic in any way."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The story feels pretty clichéd to me, maybe because it's so generic (i.e. no characters). But there are paragraphs that end with, \"Thus, the story concludes,\" and meaningless aphorisms like, \"That time was, above all else, an extraordinary period of trenchant disputes, heated challenges, deep introspection and, ultimately, acceptance and endurance - a testament to the unwavering spirit of academic persistence.\" I guess they're more generic than clichés, but still."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, there are some good sensory details. \"The Complex had transformed into a bewildering network of spaces, twisted by snaking two-by-fours, serpentine copper pipes, and plywood bridges. External experts continuously slathered on tar, sealant, and temporary cladding at remarkable and ever-increasing costs. In order to keep the walls dry, workers employed propane heaters, further adding a faint petroleum scent to the persistent smell of dampness."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Again, there are no real characters here, and those that appear are unnamed and present for a paragraph at most. There's no development to speak of, and the development that does occur to end the story happens to the collective as a whole, rather than individual characters."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "It's hard to have subtext when there's no dialogue, no characters, and no interactions between characters!"
+                }
+            },
+            "Story3": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The story takes place over the course of a Monday, as Professor James Grey arrives at work and observes the decrepit workspace around him, struggles to get any work done given the work hazards and distractions, and then reflects upon the (imperfect) history of the building as he leaves in the evening."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "Nothing notable, and I'm not sure about sophisticated, but there's some higher-level engagement with language here: \"After dedicating over two decades of his life to this institution, the neglect of the old tower felt like a betrayal of the ideals that had drawn him to academia."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the story ends as the day itself ends, which is natural. I'm not sure about earned -- the nostalgia that Professor Grey feels seems rather abrupt, given that the entire story that preceded it focuses on his frustration and annoyance with the building and its administrators. But it is an ending, and it doesn't seem wholly inappropriate to the character."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The time in the story is well done -- as mentioned earlier, it takes place over the course of a day, which is an appropriate and effective way to present time."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "There are both summaries -- \"After making a few phone calls, he managed to gather a group of like-minded professors the English and History departments who shared his concerns over the neglect of the old tower. They spent several hours over the next few days meticulously planning and preparing to ensure their message would be heard clearly by the administration.\" -- and scenes -- \"Professor Grey slowly climbed the four flights of creaking stairs that led to his attic office on the top floor, each step threatening to give out under his weight. The staircases were made of an ancient wood that protested with every movement as he climbed towards his office. His frail body and advancing age made the hike up the stairs a dangerous endeavor each morning he came into work. Most of the offices were empty over the summer, but he could hear muffled cursing coming from Dr. Lisa Hart's makeshift laboratory on the second floor."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "I wouldn't say that the story has any turns, unless you count the \"turn\" that Professor Grey ends the story with a newfound appreciation for the building."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The perspective of Professor Grey is portrayed convincingly and accurately, but his is the only perspective in the story -- the story follows him and doesn't really involve meaningful interactions with any other characters. (\"The disturbances disrupted his concentration, and he let out an exasperated sigh. The repairs never seemed to improve the status and conditions of the building. The stall tactics of the contractors and administration drove the professors and students of the tower to utter frustration.His eyes drifted to gaze out the arched window, observing the students walking below on their way to midmorning classes. Their lively chatter and laughter drifted up to him, reminding Professor Grey of his own college days when he had studied under his mentor in this very same office.\")"
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story is mostly interior, describing Professor Grey's thoughts and emotions as he goes about his (rather anti-climactic) day. (\" He took a deep breath and resumed his seat, picking up the papers once more. The noises raged on around him, but he focused his attention on the analysis in front of him, red pen scribbling comments and suggestions in the margins. For a moment, all faded away except the thoughts and ideas on the page. His calling had always been to open minds, not bemoan circumstances beyond his control.\") It's appropriate for the story, but doesn't really involve much exteriority."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The story is chronological, doesn't contain any surprises or hybridity, and makes sense as it follows Professor Grey throughout his day."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "Not really -- one of the \"themes\" of the story could be that old things have value because of what they've been through and what they've seen. But I hardly think that a reader will finish reading this with the takeaway that they should put up with decaying and crumbling infrastructure as Professor Grey does in the story!"
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "Its crumbling halls had witnessed the transformation of young minds, shaped by those devoted to cultivating wisdom and intellectual curiosity.Though the university claimed to prioritize progress, their actions showed a lack of care for the foundation on which their institution had been built. However, as long as there were still devoted professors fueling student minds with passion for knowledge within its walls, the old tower would stand as a monument to the timeless ideals of academia.\" I'd say that paeans to crumbling halls of education and the power of academia is pretty clichéd."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, there are actually quite nice sensory details. \"Dusk fell softly outside the great arched window, the chatter of students now replaced by the chirping of crickets. The repairs had ceased for the day, leaving an unnatural silence in their absence.\" I liked that section a lot!"
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "I'm not quite sure how to answer this one -- technically, yes, Professor Grey develops throughout the story. It begins with his frustrations regarding the building and ends with his reflections on how there's a story and history to be told within those flaws. But I get the sense that he's going to show up to work the next day and be frustrated all over again -- the story didn't impart lasting change to me, just a temporary moment of reflection."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "Everything seems pretty surface level and self-explanatory to me. For example: \"His mentor had instilled in him a deep appreciation for literature and passion for education transcended the challenges of the setting. Professor Grey was determined to maintain that same persevering spirit with his own students."
+                }
+            },
+            "Story4": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the story tells a satisfying tale of an apartment building undergoing construction and the trials and tribulations that befall its academic residents while construction is underway. The disparate elements of the story work together -- there is a beginning, when construction is announced to start; a middle, where the construction and the corresponding drama ensures; and an end, where the professors essentially give up on their complaints."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "I'm not sure if they're sophisticated, per se, but yes, they're present: \"So this is what it must feel like to live inside a tooth that a dentist is trying to drill. The tooth occupied her thoughts nightly."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, and the story ending here feels more natural than the previous stories, because it follows the truths of human behavior. Rather than finding some profound meaning in their suffering, the professors here accept that nothing will ever change, and just keep living their lives in hopes of tenure. It's bleak and darkly humorous."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the story feels appropriately balanced. We go through the length of the construction process and get the highlights -- it doesn't feel like we're missing anything, but we're also not spending time on meaningless scenes, either. It's well-paced."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, there are both summaries -- \"For three weeks, the noise level was terrible, from nine to five, Monday through Friday, with no pause.\" -- and scenes -- \"Within an hour, a fit young man arrived and handed everyone he met a business card. The card said that he was the vice-president of the company. The man noted the places where water was still seeping in. He said that there would likely be mold growth, and, should the mold be the color of soot, coal, or volcanic ash, they would need to call in the hygienist to culture it. Not all strains are toxic, he informed them. Some were perfectly O.K. In addition, he’d gone up to the roof and found no visible faults around the pulley system, so perhaps the leak was a preëxisting condition that had suddenly, coincidentally, got worse. \"Things like this do happen, he insisted, and added that, once the scaffolding was removed, the foundation would naturally rise up, against gravity, to its previous position. Then he tipped his hard hat at the professors and wished them a good day."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, it felt both appropriate to human nature and somewhat surprising that the professors just gave up and accepted the leaks and faulty construction as their new way of life."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the story inhabits the perspectives of several characters, including characters who disagree with one another. (\"The math professor was married to the East Asian Studies professor. Not that ironically, the former was Asian and the latter white. Between gallons three and four, the former had drafted an angry e-mail to the school, but then stared at her unnuanced message. She worried about being the squeaky wheel, when she and her husband had upcoming third-year reviews. Still, she asked if he could rewrite and send the e-mail, given both his nuance skills and the fact that the administration might take him more seriously. That would be taking advantage of his privilege, he thought, and shook his head, but encouraged her to send the e-mail, since she should feel empowered to and he was never going to stand in her way. A quarrel about feminism followed. No e-mail was sent.\") Although all of the characters mostly align with one another -- they all hate the construction and want it to end -- those perspectives were, I felt, conveyed convincingly and accurately."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "Not really -- I would say that the story tells more than it shows. (Look at the example above, of the conversation between the two married professors. We don't really get any interiority from either of them, and we're told what they're thinking and feeling rather than shown it.) It's an effective way to flit around a large group of characters, but I wouldn't exactly say it's balanced."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The story is chronological, doesn't blend genres, and is pretty standard in terms of language and style. There aren't really any significant twists or turns in the narrative."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "Not really -- the only idea that's truly presented is that there can be no victory in the face of a corporate behemoth and that resistance is futile, which I'm sure is not intended to be a \"moral\" of the story, nor is it a unique or original takeaway."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "I don't think that it's necessary original to follow the story of apartment repairs gone wrong, but I didn't notice any cliché throughout the story."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, there are good sensory details throughout. \"The walls of the water-filled units now felt spongy.\" \"He said that there would likely be mold growth, and, should the mold be the color of soot, coal, or volcanic ash, they would need to call in the hygienist to culture it.\" \"In the history professor’s bedroom, a paint bubble, the height and width of a man, appeared on the wall overnight. He poked the bubble, afraid that it might actually be a person, like his department chair, and was sprayed, drenched, in brown water."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Since the story follows all of the residents of the apartment complex, I wouldn't say that any character is developed with any complexity. They're each given personalities or characteristics to help them stand out, but we only get to \"know\" any of them for a paragraph or two at a time. Most aren't even given names!"
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "Since the story tells rather than shows, it doesn't really have the opportunity to engage in much subtext. The very nature of telling is that it's all surface level and presented to you at face value."
+                }
+            }
+        },
+        "Nicolas Maurokefalidis": {
+            "Story1": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The story follows a logical progression. However it's hardly engaging and not very satisfying -- the problems faced by the university don't seem real enough, and since none of the characters are engaging the reader doesn't very much care what happens by the end of the story."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The metaphors employed are very poor. The dripping of rain is described as 'a tangible reminder of their collective distress' – metaphors are meant to allow the reader to form connections, not to offer up answers so bluntly and grotesquely. One particularly bad metaphor stood out to me–that of the 'scars' which marked the university building—and it's repeated a few paragraphs later!"
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending feels more like the conclusion to a mediocre essay, attempting to make a point about the 'spirit of resilience' which isn't convincing and cheapens the whole story (if one can call it that)"
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The piece spends too little time describing what ails the university and its staff, so that we don't particularly care about their plight to begin with. Then most of the story is spent making vague generalisations about improvement and overcoming hardship, which even a mediocre writer would know to get rid of."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "It felt like there was much summary and few detailed scenes. Attempts at dialogue were unconvincing."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story is not surprising. The plot follows a predictable, inane, almost condescending progression."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story never penetrates into any of the characters it brings up. The tone of the narrator is droll and robotic."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "As explained above, the characters are never given an interiority that's convincing or appealling. The story lacks any kind of 'emotional' impact."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The story is structured like a subpar undergraduate essay. Form never even entered my mind; the tone of the story is so trite and uninteresting that the \"author\" clearly had no consideration for form."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The setup for the story has the potential to be interesting. A university building overrun by flooding could lead to absurd and surreal scenarios. However the predictable turns that the story takes make this go to waste."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "As discussed in previous answers, the metaphors are clichéd, the structure is clichéd, and the characters are plain. So I wouldn't call it original."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "Not exactly. The only passable image was that of the university walls 'peeling and discoloring'. Other than that there's very little in terms of sensory description."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The characters are not really important to the story; the university as an idea is. A childish conception of 'resilience' and 'camaraderie' (words which are repeated tirelessly in the piece) seems to be more important than any sense of character or real feeling."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "The story is as transparent as a traffic sign. It drills its themes with tiresome insistence and doesn't offer the slightest complexity"
+                }
+            },
+            "Story2": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The story follows a logical progression and the ending, although unsatisfactory, matches the rest of the story."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The story makes poor attempts at metaphor which result in a bad parody of a gothic style. These threw me off while reading the story."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "As in the previous story, the ending feels like a moralistic success story which neither works nor has any place in literature. It doesn't feel like the story justifies its ending."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The pacing is more successful than in the previous story. There are enough incidents to keep the reader interested throughout the story."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "No",
+                    "explanation": "I feel that there is too much summary in the story. We never get much insight into the events described."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There isn't exactly a turn, and narratively the story falls flat. There is a problem, the characters persist, and the problem goes away -- not very convincing."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There are some interesting moments, especially those to do with the different faculties of the university. '\"Gnomons,\" one distressed sophomore muttered, \"crossing the River Styx.\"' This line stood out to me as one that had potential to be funny, but its meaning is simply gibberish."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There is no introspection, and therefore no balance between interiority and exteriority is possible."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The plot is straightforward and structurally the story isn't interesting or remarkable. There are some poor imitations of a gothic or baroque style at the start, but the 3rd and 5th paragraphs sound like a research essay, making for a jarring experience to read."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The underlying idea of the story is that resilience and friendship help overcome problems. This is neither original nor amusing."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The themes are clichéd and so are the characters representative of each faculty, so no."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "The images are too wordy and unconvincing. They don't feel like they're the work of a skilled writer."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The characters embody types and are not believeable or at all memorable. Instead they are archetypes of what their professions represent."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "As in the previous story, it is very clear that this is an AI generated piece which lacks any sort of complexity. There is no subtext and the story operates on a surface level."
+                }
+            },
+            "Story3": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The story doesn't add up to anything. There is the sketch of a problem, but no attempt at a solution, or no meaningful challenge for the protagonist or the reader."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "There are some attempts at metaphor, but they aren't sophisticated. As we've seen in previous stories, there is one grotesquely overdone simile: 'Like the building, his field of study was antiquated compared to the technical fields emphasized today in this science and technology era.'"
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "The ending left me indifferent. There is no sense that the characters are facing any meaningful dilemmas, nor that the story is headed towards a resolution or change"
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "Some appropriate uses of flashback/memory, but generally it shows a lack of skill at utilising time as a narrative device."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "The scenes are not particularly developed. There is a certain balance between summary and more detailed scenes."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There are no turns, so I wouldn't say so. The story is very straightforward and disappointing in regards to narrative."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There is a single character and we observe his thoughts. The turns that his thoughts take are not very convincing or realistic."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There is at least an attempt at interiority, but there is no emotional core to the story, no real heart."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "As discussed previously, the story is poorly structured and not original in either form or structure. This makes for a shallow reading experience that does not surprise the reader."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "None of the ideas or themes discussed here are new or interesting. This is because the story too clumsily reveals what it's about, or what it purports to be about, early on."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "See above. Because it is not an original idea, it relies on clichés that makes the reader roll their eyes constantly. C.f., the last paragraph: 'Though the future was uncertain, that flicker of hope remained as steadfast as the old tower itself.'"
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "The opening has some potentially interesting visual details, but the story flops later on. The details are unsatisfactory because they're not original or developed."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "It is a good idea (though certainly not original) to channel the story through a single character, but the protagonist of this story lacks complexity and isn't compelling."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "This is esentially a story about bad plumbing and man's resilience... so much for subtext."
+                }
+            },
+            "Story4": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "The story is convincing and at the end the reader becomes aware that the university is not going to resolve its issues but pass the burden onto the professors. Different voices come together to tell the story."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "Some quite amusing images, such as \"So this is what it must feel like to live inside a tooth that a dentist is trying to drill.\" Others, less successful in my opinion, like the 'Spaghetti-like ropes'"
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The ending matches the tone of the rest of the story. It's a cynical, dry-humour sort of ending, which is not particularly new or interesting but neither is the rest of the story."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The story has a good pace, it knows when to skip forward in time to propel the narrative. This makes the reading enjoyable."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "The bits of dialogue are useful for building scenes, and generally I didn't feel that the story was mostly a summary as I did with the previous stories."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The narrative action is appropriate, but not surprising. I think the story lacks much interest because of this."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The story hints at distinct characters and their personalities. These are convincing because their dialogue is life-like and amusing,"
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Although interiority is only disclosed in passing, these moments are enough to sustain the story. Even though the characters stand for the discipline they teach, there are some moments of humanity."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "Some interesting uses of form, such as the contractors' slide shows, and the reference to e-mails being sent across the departments."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "The idea itself is not very original, i.e. about the bureaucracy in academic settings, but the way in which it is presented is, if not new, at the very least interesting."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The images feel fresh and interesting, the characters are not mere archetypes, and therefore cliché is avoided."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "There's few sensory details but they're convincing. An example: 'committing indecent exposure, for example, running buck naked across a green field in a Superman cape, as the six-year-old son of the dance professor had done during his first soccer game.' The image takes an unpredictable and entertaining turn."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "There isn't much character development, but that's also the point of the story. Professors are just doing what they can to get tenure. This story isn't trying to be an accurate character portrait, and that's not a bad thing."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "Some interesting allusions to the university setting, which show a certain sense of humour and engage the reader in the belief that there is more to the story than appears at first sight. The ending is cynical and implies that no change will be accomplished."
+                }
+            }
+        },
+        "Logan Hoffman-Smith": {
+            "Story1": {
+                "Source": "GPT3.5",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "The story was basically about professors being upset about construction going on at their university, then being happy when it ended. none of the professors actually did anything about the problem and instead waited for the construction to finish. It felt like nothing really happened in the story and I found it to drag for a long time."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "No. The story wasn't interesting in terms of language and I didn't derive any meaning from it. The writing felt like it was written for a school assignment in its genericness and lack of tension and conflict."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "It didn't really make sense that all of the professors decided to go into motivational speaking after the construction ended? Somehow they felt like they were very resilient due to enduring a natural and like uninteresting event together? I just don't think the construction made sense as a conflict and all of the professors seem really pathetic and annoying due to their lack of resilience through a common situation."
+                },
+                "Narrative Pacing": {
+                    "verdict": "No",
+                    "explanation": "The construction ends at around the middle of the story, after which the narrative just follows the professors being happy that it has ended. It should have ended very close to the end of the construction but instead dragged on in a redundant sense that didn't make sense as a narrative arc."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "I think the scene-summary balance is fine. There is a solid amount of scene, which I thought was okay, and summary was used to move the story forward in time, which was also helpful."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story had really no tension or problems: a mandatory construction event (university buildings do need to be repaired? why didn't the professors just go somewhere else?) occurred and made a lot of professors grumpy. The construction inevitably ended and the professors became happy that it ended. There was nothing really interesting that went on and the professors were really annoying because they all seemed really unable to endure normal life things for no reason."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No. The professors aren't distinct from each other as their only traits are that they are annoyed about the construction and then decide to become motivational speakers. Pretty boring and also extremely one-dimensional."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "No. The professors are externally annoyed at the construction noise and internally annoyed at the construction noise. There was no emotion in the story so there was no way for it to be emotionally flexible."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The story format was standard and chronological. It was paced poorly so the ending was really long, but I wouldn't take that as originality in form so much as incompetence at basic writing."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "No. The story followed a bunch of professors who were annoyed at a construction noise and then stopped being annoyed once the noise ended. It was poorly written to the extent of being unique in that it was not good, but I don't think it was intentionally or positively original."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The story didn't really engage with any complex topics or ideas, and felt really cliche in that it was just about professors who were all irritated with construction and then were happy when it ended. I don't really know what the point of this story was as the characters were entirely passive and indistinct from one another."
+                },
+                "World Building and Setting": {
+                    "verdict": "No",
+                    "explanation": "It didn't make sense to me that the professors continued to work in a building that was under construction (was it safe to be in that building? Why couldn't the go somewhere else?). I couldn't see how the construction was actually disruptive to their lives and the rest of the world was poorly contoured."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "None of the characters grow. They are entirely flat and homogeneous. Eventually not being upset about noise because the noise ends does not count as character growth. Somehow they are able to make careers as motivational speakers? For people who hear construction and then stop hearing construction? Please make it make sense."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "No. The story is really shallow and I don't understand what the person who was writing this was thinking. The professors are annoyed at construction noise. The noise ends. The professors are happy. Then the story ends."
+                }
+            },
+            "Story2": {
+                "Source": "GPT4",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "This story was about how professors from different fields banded together to fix a leaky faculty building. I wasn't really sure what this story was trying to accomplish in terms of idea or character, so I felt unmoved and a bit confused as to the point of it once I finished it, but maybe part of this is because I read so much for character."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "The story had interesting images (such as the biologists and their buckets of frogs) that I found pleasing to read. Some strange situations re: professors and their belongings/items were amusing so I thought those images were working fine."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The ending, with the professors completing the task of making the building waterproof, felt natural albeit predictable. I wasn't really into the moralized \"diverse people banded together despite their differences\" narrative ending but it did make sense for the story to end there even if it felt cringey."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The story is paced fine. We see the extent to which the leak causes problems in the professors' lives and the trouble that living together caused. While the professors were caracatures rather than real people, I think that at least they were amusing. The story really ended close to when the leak ended, which made logical sense to me as a reader."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "The story has a good scene-summary balance, with enough details about the troubles the characters endure to produce a lasting image. I think the story makes great use of scene and that the scenes stick in your mind due to their specificity of language and image."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "There were lots of surprising images in this story; of an archivist in an oilskin slicker, petroleum scents, buckets of frogs, etc. These images were surprising and kept my attention due to their uniqueness and surprising introductions."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The characters clash due to their annoyance with each other's habits and lifestyles, which I found amusing and also true to life. Characters have different perspectives on their work and how they live their lives, which I thought really worked for this story and allowed contrast."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "There isn't really any depth or interiority to this story. But, the story has great exteriority and external conflict re: the leak and professors being forced to share rooms with professors who clash with them/make their work difficult."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "The story follows a linear format in which a leak occurs, the professors try to fix the leak, the leak causes professors to have to work in close quarters, and then the leak resolves due to teamwork. Again, I think it's fine to have an unoriginal structure as most stories follow fairly linear formats. So, it was fine here."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "Yes",
+                    "explanation": "The story has some original images (the oilslicker jacket, the frog bucket) that felt original and generative. Other than images, I don't think the story was particularly unique, but this is a good start."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The story's ending was pretty cliche, with the professors banding together against their differences to fix the leak. That was pretty corny and there wasn't really any particular incident that caused them to feel closer to each other. Because the banding together was unearned, it read as cliche."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes! The world feels lived-in and real, with the deluge of rain adding a genuine problem. The story is exaggerated and silly, but the tone is consistent and thus the world seems to fit the story."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The characters don't really develop as they don't really have desires and personalities. This wasn't really a character-driven piece and as such there was no development."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "This story was really surface-level but it was amusing to read! I don't think this story is one that needs to be meaningful but I enjoyed it."
+                }
+            },
+            "Story3": {
+                "Source": "Claude",
+                "Understandability and Coherence": {
+                    "verdict": "No",
+                    "explanation": "While I enjoyed the characters in this story, who have been the most vivid of this set of stories, I didn't find the story to be particularly conclusive in the sense that there wasn't enough build up or risk for Professor Grey to start his protest. I think this story could be pretty good and satisfying if Professor Grey had more at stake and if his relationship with his mentor had more depth."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "No",
+                    "explanation": "The story doesn't really make great use of language. The language was simple but this story had better descriptions of setting and of how Professor Grey had difficulties moving through the world because of his age. I found the world of the story to be pretty lived-in and fun."
+                },
+                "Narrative Ending": {
+                    "verdict": "No",
+                    "explanation": "This story felt a bit more interesting in its ending as Professor Grey's protest wasn't resolved. I kind of like it when stories stop right before where one would think they would stop, but I didn't feel like the ending was earned because I wasn't sure what exactly caused Professor Grey to protest and what was at stake for him because of his protest."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "The story was paced well. We are introduced to Professor Grey's life and the problem with the university not maintaining the tower. Then, we see the problem escalate and then we see Professor Gray taking action against it (again, it would be good to have more build-up, but that build-up can maintain the current pacing)."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Yes! This story was mostly in scene and moved pretty seamlessly through time."
+                },
+                "Structural Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story doesn't really have any twists and turns. However, the story was great because we were following Professor Grey so closely, and I was more interested in following his narrative and development than seeking twists and turns."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes! Professor Grey is an interesting character to follow because he's an old guy who works in a tower all the time. As a result, I found his perspective unique and interesting (we don't get a lot of stories about old guys confronting problems)."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The story didn't really have a lot of interiority with Professor Grey or his mentor that seemed to change the stakes of the story. There was good exteriority in the escalating problems of the tower, but I felt like these could have had a bigger impact on Professor Grey's character arc."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "No",
+                    "explanation": "This story was linear in terms of its structure. However, this was fine for the story and it did end in a good and surprising place (before the end of the protest)."
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "This story wasn't really original (it's about a guy who is struggling with his building crumbling), but I found it enjoyable. I think if Professor Grey were more unique and developed, that the story could be more original."
+                },
+                "Originality in Thought": {
+                    "verdict": "No",
+                    "explanation": "The story was almost free of cliche except for the ending, in which Professor Grey realizes that he should stand for what he believes in without really any inciting incident for this. So, I think again that the originality would come from the earned-ness of the moment."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes! The tower Professor Grey works in feels lived-in and real. I loved the tangible details of the tower crumbling and thought they were textured well."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "Professor Grey needs more motivation for choosing to protest. I'd also like to know what's at stake if Professor Grey chooses to act even without support."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "No",
+                    "explanation": "The story is surface-level. However, I think if Professor Grey's character is engaging enough, that the story doesn't really need to be deep and meaningful. It just needs to be honest to his experience."
+                }
+            },
+            "Story4": {
+                "Source": "NewYorker",
+                "Understandability and Coherence": {
+                    "verdict": "Yes",
+                    "explanation": "This story was a political critique of race and its relation to tenure and the university system. It was ironic that the apartment (which was a metaphor for the university) did nothing to fix the problems and the problems only increased but there was no more protest. The last line, about \"when you get tenure\", was ironic and worked really well."
+                },
+                "Language Proficiency and Literary Devices": {
+                    "verdict": "Yes",
+                    "explanation": "The apartment functions really well as a metaphor for the university and as society. It is never drawn explicitly but the smart political critique made it clear without being too in-your-face about what it symbolized."
+                },
+                "Narrative Ending": {
+                    "verdict": "Yes",
+                    "explanation": "The ending line is perfect. The story's lack of positive conclusion really emphasizes the fact that the struggle for better conditions that the characters fought for throughout the story was futile, and the callousness of the tenured professor at the end really further emphasized that. I was impressed by how much the story was able to accomplish in such a short time."
+                },
+                "Narrative Pacing": {
+                    "verdict": "Yes",
+                    "explanation": "Yes! The story was paced well and felt even throughout. The story really felt like it was moving toward a conclusion so the ending was surprising despite making perfect sense."
+                },
+                "Scenes vs. Summaries": {
+                    "verdict": "Yes",
+                    "explanation": "Great use of scene and dialogue. The summaries were also cleverly interdispersed and passed time intentionally and efficiently."
+                },
+                "Structural Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "The story ends with a surprising lack of assistance to the community seeking help. Then, the final line from the tenured professor is really ironic and surprisingly callous."
+                },
+                "Perspective and Voice Flexibility": {
+                    "verdict": "No",
+                    "explanation": "The perspective seems to be fairly homogenous, with little difference between characters and their desires for fixing the apartment. But, this was fine and appropriate for the story's scope."
+                },
+                "Emotional Flexibility": {
+                    "verdict": "Yes",
+                    "explanation": "Yes, the story balances interiority and exteriority well. I felt like the story focuses more on exteriority but it's definitely clear how the story reflects the broader anxieties of our society (in which governments don't seem to fix problems) as well as that of professors (universities don't improve conditions)."
+                },
+                "Originality in Form and Structure": {
+                    "verdict": "Yes",
+                    "explanation": "The story definitely felt kind of weird in a good way. I felt like the story's structure around the construction and how it moved from character to character to apartment to apartment was really odd, which I enjoyed!"
+                },
+                "Originality in Theme and Content": {
+                    "verdict": "No",
+                    "explanation": "I don't think the story was particularly original in terms of its themes (government/university negligence), but the way it was written was unique! In that the apartment was a metaphor for society of the university."
+                },
+                "Originality in Thought": {
+                    "verdict": "Yes",
+                    "explanation": "The story really lacked cliches because of the original way in which it was written. I thought the sentences were structured well without reliance on corniness."
+                },
+                "World Building and Setting": {
+                    "verdict": "Yes",
+                    "explanation": "Yes! The apartment's problems are clearly defined and the story felt true to the experience of living in a diverse apartment with lots of structural problem; all the way down to the mold and the people working there saying that it didn't matter."
+                },
+                "Character Development": {
+                    "verdict": "No",
+                    "explanation": "The characters in the story eventually gave up on their fight, but I don't think this was really development so much as a giving in. But, this story was really about a larger political issue rather than character development."
+                },
+                "Rhetorical Complexity": {
+                    "verdict": "Yes",
+                    "explanation": "Yes! The story does operate at several levels of meaning. The fact that it's a metaphor for negligence and inequity works here and makes a person think about these political issues."
+                }
+            }
+        }
+    }
+}
