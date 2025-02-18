@@ -37,29 +37,28 @@ with open(args.input_fn) as f:
 todos = [d for d in data if d["id"] not in already_pred_ids]
 
 def process_single_sample(d):
+    is_reasoning_model = "o1" in args.model or "o3" in args.model
+    num_tokens = 3000 if is_reasoning_model else 1000
     sample_type = "pairwise" if "pairwise" in d["sample_type"] else "score"
     if args.model == "baseline":
-        if sample_type == "pairwise":
-            output = {"preference": 1}
-        else:
-            output = {"score": 5}
+        output = {"preference": 1} if sample_type == "pairwise" else {"score": 5}
     elif args.r_mode and sample_type == "pairwise":
         # we need to generate a reward for each paragraph, and then compare them
-        reward_1 = generate_json([{"role": "user", "content": reward_calc_prompt}], model=args.model, step="writing-rewards-eval", variables={"PARAGRAPH": d["paragraph1"]})
-        reward_2 = generate_json([{"role": "user", "content": reward_calc_prompt}], model=args.model, step="writing-rewards-eval", variables={"PARAGRAPH": d["paragraph2"]})
+        reward_1 = generate_json([{"role": "user", "content": reward_calc_prompt}], model=args.model, step="writing-rewards-eval", variables={"PARAGRAPH": d["paragraph1"]}, max_tokens=num_tokens)
+        reward_2 = generate_json([{"role": "user", "content": reward_calc_prompt}], model=args.model, step="writing-rewards-eval", variables={"PARAGRAPH": d["paragraph2"]}, max_tokens=num_tokens)
         pref = 1 if reward_1["score"] > reward_2["score"] else (2 if reward_2["score"] > reward_1["score"] else 0)  # tie if equal
         output = {"reward_1": reward_1["score"], "reward_2": reward_2["score"], "preference": pref}
     else:
-        output = generate_json([{"role": "user", "content": d["text_input"]}], model=args.model, step="writing-rewards-eval")
-
+        output = generate_json([{"role": "user", "content": d["text_input"]}], model=args.model, step="writing-rewards-eval", max_tokens=num_tokens)
 
     with open(out_fn, "a") as f:
         f.write(json.dumps({"id": d["id"], "input_fn": args.input_fn, "output": output}) + "\n")
 
 
-# for d in tqdm.tqdm(todos, desc=f"{clean_model_name} for {args.input_fn.replace('data/', '').replace('.json', '')}"):
-#     process_single_sample(d)
-
-# replace with multiprocessing still using tqdm
-with multiprocessing.Pool(args.n_workers) as pool:
-    list(tqdm.tqdm(pool.imap(process_single_sample, todos), total=len(todos), desc=f"{clean_model_name} for {args.input_fn.replace('data/', '').replace('.json', '')}"))
+if __name__ == '__main__':
+    if args.n_workers == 1:
+        for d in tqdm.tqdm(todos, desc=f"{clean_model_name} for {args.input_fn.replace('data/', '').replace('.json', '')}"):
+            process_single_sample(d)
+    else:
+        with multiprocessing.Pool(args.n_workers) as pool:
+            list(tqdm.tqdm(pool.imap(process_single_sample, todos), total=len(todos), desc=f"{clean_model_name} for {args.input_fn.replace('data/', '').replace('.json', '')}"))
