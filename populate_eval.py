@@ -1,6 +1,6 @@
-from llms import generate_json # Tuhin: this is an equivalent to `anyllm` at Salesforce
+import json, argparse, os, tqdm, multiprocessing, random
 from model_skywork import SkyworkRewardModel
-import json, argparse, os, tqdm, multiprocessing
+from llms import generate_json
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--input_fn", type=str, default="data/lamp_PRGSH_test.json")
@@ -43,12 +43,13 @@ with open(args.input_fn) as f:
     data = json.load(f)
 
 todos = [d for d in data if d["id"] not in already_pred_ids]
+random.shuffle(todos)
 
 def process_single_sample(d):
     is_reasoning_model = "o1" in args.model or "o3" in args.model
     num_tokens = 3000 if is_reasoning_model else 1000
     sample_type = "pairwise" if "pairwise" in d["sample_type"] else "score"
-    if args.model == "baseline":
+    if args.model == "always_A":
         output = {"preference": 1} if sample_type == "pairwise" else {"score": 5}
     elif is_reward_model:
         if sample_type == "pairwise":
@@ -61,12 +62,12 @@ def process_single_sample(d):
             output = {"score": model.score(d["text_input"])}
     elif args.r_mode and sample_type == "pairwise":
         # we need to generate a reward for each paragraph, and then compare them
-        reward_1 = generate_json([{"role": "user", "content": reward_calc_prompt}], model=args.model, step="writing-rewards-eval", variables={"PARAGRAPH": d["paragraph1"]}, max_tokens=num_tokens)
-        reward_2 = generate_json([{"role": "user", "content": reward_calc_prompt}], model=args.model, step="writing-rewards-eval", variables={"PARAGRAPH": d["paragraph2"]}, max_tokens=num_tokens)
+        reward_1 = generate_json([{"role": "user", "content": reward_calc_prompt}], model=args.model, step="writing-rewards-eval", variables={"PARAGRAPH": d["paragraph1"]}, max_tokens=num_tokens, temperature=0.0)
+        reward_2 = generate_json([{"role": "user", "content": reward_calc_prompt}], model=args.model, step="writing-rewards-eval", variables={"PARAGRAPH": d["paragraph2"]}, max_tokens=num_tokens, temperature=0.0)
         pref = 1 if reward_1["score"] > reward_2["score"] else (2 if reward_2["score"] > reward_1["score"] else 0)  # tie if equal
         output = {"reward_1": reward_1["score"], "reward_2": reward_2["score"], "preference": pref}
     else:
-        output = generate_json([{"role": "user", "content": d["text_input"]}], model=args.model, step="writing-rewards-eval", max_tokens=num_tokens)
+        output = generate_json([{"role": "user", "content": d["text_input"]}], model=args.model, step="writing-rewards-eval", max_tokens=num_tokens, temperature=0.0)
 
     with open(out_fn, "a") as f:
         f.write(json.dumps({"id": d["id"], "input_fn": args.input_fn, "output": output}) + "\n")

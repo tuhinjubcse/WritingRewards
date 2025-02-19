@@ -1,8 +1,12 @@
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
-import torch
+import torch, os
+from transformers import BitsAndBytesConfig
+
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+
 
 class SkyworkRewardModel:
-    def __init__(self, model_name="Skywork/Skywork-Reward-Llama-3.1-8B-v0.2", device="cuda:0"):
+    def __init__(self, model_name="Skywork/Skywork-Reward-Llama-3.1-8B-v0.2", device="auto"):
         self.device = device
         self.model_name = model_name
         self._model = None
@@ -11,12 +15,25 @@ class SkyworkRewardModel:
     @property
     def model(self):
         if self._model is None:
+            # Configure 4-bit quantization
+            # quantization_config = BitsAndBytesConfig(
+            #     load_in_4bit=True,
+            #     bnb_4bit_compute_dtype=torch.bfloat16,
+            #     bnb_4bit_quant_type="nf4",
+            #     bnb_4bit_use_double_quant=True
+            # )
+            
+            # print(f"Loading model {self.model_name} with quantization config {quantization_config}")
             self._model = AutoModelForSequenceClassification.from_pretrained(
                 self.model_name,
                 torch_dtype=torch.bfloat16,
-                device_map=self.device,
+                device_map="auto",
                 attn_implementation="flash_attention_2",
-                num_labels=1
+                num_labels=1,
+                # quantization_config=quantization_config,
+                # use_gradient_checkpointing=True,
+                # max_memory={0: "22GiB", "cpu": "32GiB"},  # Increased GPU memory limit
+                # offload_folder="offload"
             )
         return self._model
 
@@ -26,7 +43,7 @@ class SkyworkRewardModel:
             self._tokenizer = AutoTokenizer.from_pretrained(self.model_name)
         return self._tokenizer
 
-    def score(self, response, instruction="Please write a passage of creative writing. You must make sure that the writing is of high quality, unique and creative in nature. You should avoid cliches and obvious tropes."):
+    def score(self, response, instruction="Imagine you are a creative writing professional. Now write a response. Try your best to be original, avoiding clichés or overused tropes. Do not use ornamental language and focus on nuance, simplicity, and subtext. Start directly with your response"):
         conversation = [
             {"role": "user", "content": instruction},
             {"role": "assistant", "content": response}
@@ -39,7 +56,10 @@ class SkyworkRewardModel:
         return score 
 
 if __name__ == "__main__":
-    reward_model = SkyworkRewardModel()
+    model_name = "Skywork/Skywork-Reward-Gemma-2-27B-v0.2"
+    # model_name = "Skywork/Skywork-Reward-Llama-3.1-8B-v0.2"
+
+    reward_model = SkyworkRewardModel(model_name=model_name)
 
     # prompt = "Jane has 12 apples. She gives 4 apples to her friend Mark, then buys 1 more apple, and finally splits all her apples equally among herself and her 2 siblings. How many apples does each person get?"
     # response = "1. Jane starts with 12 apples and gives 4 to Mark. 12 - 4 = 8. Jane now has 8 apples.\n2. Jane buys 1 more apple. 8 + 1 = 9. Jane now has 9 apples.\n3. Jane splits the 9 apples equally among herself and her 2 siblings (3 people in total). 9 ÷ 3 = 3 apples each. Each person gets 3 apples."
