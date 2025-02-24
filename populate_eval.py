@@ -1,4 +1,5 @@
 import json, argparse, os, tqdm, multiprocessing, random
+from model_modernbert import MBertWritingReward
 from model_skywork import SkyworkRewardModel
 from llms import generate_json
 
@@ -15,8 +16,15 @@ if clean_model_name.startswith("ft:"):
     clean_model_name = clean_model_name.split(":")[3] # suffix: gpt-4o-mini-2024-07-18:tobias-schnabel:lamp-4o-mini-p:AW87KsXz
 
 is_reward_model = "skywork" in args.model.lower()
+is_mbert_model = "mbert" in args.model.lower()
 if is_reward_model:
     model = SkyworkRewardModel(model_name=args.model)
+    clean_model_name = args.model.split("/")[-1]
+    args.n_workers = 1
+elif is_mbert_model:
+    if args.model.endswith("/"):
+        args.model = args.model[:-1]
+    model = MBertWritingReward(args.model)
     clean_model_name = args.model.split("/")[-1]
     args.n_workers = 1
 
@@ -60,6 +68,17 @@ def process_single_sample(d):
             output = {"reward_1": reward_1, "reward_2": reward_2, "preference": pref}
         else:
             output = {"score": model.score(d["text_input"])}
+    elif is_mbert_model:
+        if sample_type == "pairwise":
+            if args.r_mode:
+                reward_1 = model.predict_regression(d["paragraph1"])
+                reward_2 = model.predict_regression(d["paragraph2"])
+                pref = "1" if reward_1 > reward_2 else ("2" if reward_2 > reward_1 else "0")  # tie if equal
+                output = {"reward_1": reward_1, "reward_2": reward_2, "preference": pref}
+            else:
+                output = {"preference": model.predict_pair(d["text_input"])}
+        else:
+            output = {"score": model.predict_regression(d["text_input"])}
     elif args.r_mode and sample_type == "pairwise":
         # we need to generate a reward for each paragraph, and then compare them
         reward_1 = generate_json([{"role": "user", "content": reward_calc_prompt}], model=args.model, step="writing-rewards-eval", variables={"PARAGRAPH": d["paragraph1"]}, max_tokens=num_tokens, temperature=0.0)
