@@ -14,6 +14,7 @@ def clear_logs(input_fn, models="all"):
             logs = [json.loads(line) for line in f]
         N_start = len(logs)
         logs = [l for l in logs if l["input_fn"] != input_fn]
+        # logs = [l for l in logs if "lmarena" not in l["id"]]
         N_end = len(logs)
         if N_start != N_end:
             print(f"Deleted {N_start - N_end} / {N_start} logs for {model}")
