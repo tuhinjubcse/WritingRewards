@@ -145,7 +145,7 @@
     },
     {
         "gold": "{'preference': '2'}",
-        "predicted": "{'reason': 'Paragraph 2 is more poetic and has a better flow, with more natural rhythm and phrasing. The imagery in \"We danced on the edge of a breaking dawn\" and \"Our love was a fire, wild and untamed\" creates a vivid picture without being overwrought. The second part of the bridge also flows more naturally, with phrases like \"So I'll scream at the stars\" and \"In this lonesome echo\" that create a stronger emotional impact than Paragraph 1\\'s more mechanical delivery. The ending of Paragraph 2 is also more poetic with \"I'm holding onto hope, for the love we once spied\" versus Paragraph 1\\'s more prosaic \"The clouds are calling, beckoning to me.\"', 'preference': '2'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph 2 is more poetic and has a better flow, with more natural rhythm and phrasing. The imagery in \\\"We danced on the edge of a breaking dawn\\\" and \\\"Our love was a fire, wild and untamed\\\" creates a vivid picture without being overwrought. The second part of the bridge also flows more naturally, with phrases like \\\"So I'll scream at the stars\\\" and \\\"In this lonesome echo\\\" that create a stronger emotional impact than Paragraph 1's more mechanical delivery. The ending of Paragraph 2 is also more poetic with \\\"I'm holding onto hope, for the love we once spied\\\" versus Paragraph 1's more prosaic \\\"The clouds are calling, beckoning to me.\\\"\",\n    \"preference\": \"2\"\n}\n"
     },
     {
         "gold": "{'preference': '1'}",
@@ -173,7 +173,7 @@
     },
     {
         "gold": "{'preference': '1'}",
-        "predicted": "{'reason': 'Paragraph 1 is more effective because it shows rather than tells, allowing the dialogue to reveal the characters\\' personalities naturally through their conversation. The first paragraph presents a realistic interaction between two characters, with subtle details like \"But- yesterday you promised me!\" that hint at a deeper history between them. The second paragraph, while attempting to be humorous, relies too heavily on explanation and tells us what to feel - phrases like \"don't you remember\" and \"it'll be so fun!\" explicitly stating what should be left to the reader to interpret. The first paragraph\\'s straightforward dialogue creates a more engaging scene than the second paragraph\\'s self-conscious attempt at humor.', 'preference': '1'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph 1 is more effective because it shows rather than tells, allowing the dialogue to reveal the characters' personalities naturally through their conversation. The first paragraph presents a realistic interaction between two characters, with subtle details like 'But- yesterday you promised me!' that hint at a deeper history between them. The second paragraph, while attempting to be humorous, relies too heavily on explanation and tells us what to feel - phrases like 'don't you remember' and 'it'll be so fun!' explicitly stating what should be left to the reader to interpret. The first paragraph's straightforward dialogue creates a more engaging scene than the second paragraph's self-conscious attempt at humor.\",\n    \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{'preference': '1'}",
@@ -221,7 +221,7 @@
     },
     {
         "gold": "{'preference': '2'}",
-        "predicted": "{'reason': 'Paragraph 1 is more effective because it creates a more immediate and visceral sense of tension through its dialogue. The lines \"Let me out of these restraints, and I'll show you why I'm called the 'Legendary Sucker'\" and \"I've fought in countless battles and faced death more times than you can count\" demonstrate a stronger sense of character and conflict. In contrast, Paragraph 2 is more explanatory and less engaging, telling rather than showing through phrases like \"Her voice is firm and authoritative\" and \"Her eyes seem to bore into yours.\" The first paragraph\\'s dialogue creates a more vivid scene without explicitly stating what is being shown, allowing the reader to feel the tension and threat through the character\\'s words and actions.', 'preference': '1'}"
+        "predicted": "\n{\n  \"reason\": \"Paragraph 1 is more effective because it creates a more immediate and visceral sense of tension through its dialogue. The lines \\\"Let me out of these restraints, and I'll show you why I'm called the 'Legendary Sucker'\\\" and \\\"I've fought in countless battles and faced death more times than you can count\\\" demonstrate a stronger sense of character and conflict. In contrast, Paragraph 2 is more explanatory and less engaging, telling rather than showing through phrases like \\\"Her voice is firm and authoritative\\\" and \\\"Her eyes seem to bore into yours.\\\" The first paragraph's dialogue creates a more vivid scene without explicitly stating what is being shown, allowing the reader to feel the tension and threat through the character's words and actions.\",\n  \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{'preference': '2'}",
@@ -1113,7 +1113,7 @@
     },
     {
         "gold": "{'preference': '1'}",
-        "predicted": "{'reason': 'The second paragraph has a more playful and natural rhythm, with its own rhythm and style, making it more engaging and authentic. The language is also more specific and vivid, with concrete details like \"sacred mushroom rings\" and \"whispered on the breeze,\" while Paragraph 1 relies on more general phrases like \"whispers of the forest deep.\" The second paragraph also has a stronger sense of personality and voice, with lines like \"With mischief and laughter, I'll brighten each day\" that feel more personal and less formulaic than Paragraph 1\\'s more formal tone.', 'preference': '2'}"
+        "predicted": "\n{\n  \"reason\": \"The second paragraph has a more playful and natural rhythm, with its own rhythm and style, making it more engaging and authentic. The language is also more specific and vivid, with concrete details like 'sacred mushroom rings' and 'whispered on the breeze,' while Paragraph 1 relies on more general phrases like 'whispers of the forest deep.' The second paragraph also has a stronger sense of personality and voice, with lines like 'With mischief and laughter, I'll brighten each day' that feel more personal and less formulaic than Paragraph 1's more formal tone.\",\n  \"preference\": \"2\"\n}\n"
     },
     {
         "gold": "{'preference': '2'}",
@@ -1509,7 +1509,7 @@
     },
     {
         "gold": "{'preference': '2'}",
-        "predicted": "{'reason': 'The second paragraph has a more natural, conversational tone while maintaining the playful baking theme. The writing feels less forced and more authentic, especially in its self-aware moments like \"I know, I know, I\\'m so sorry!\" The first paragraph relies too heavily on over-the-top baking puns and clichéd phrases like \"cookie palace\" and \"taste buds do the happy dance.\" The second paragraph\\'s more casual approach, with lines like \"You think you've had chocolate chip cookies?\" and \"But here's the real secret,\" creates a more engaging and humorous piece about baking.', 'preference': '2'}"
+        "predicted": "\n{\n    \"reason\": \"The second paragraph has a more natural, conversational tone while maintaining the playful baking theme. The writing feels less forced and more authentic, especially in its self-aware moments like \\\"I know, I know, I'm so sorry!\\\" The first paragraph relies too heavily on over-the-top baking puns and clichéd phrases like \\\"cookie palace\\\" and \\\"taste buds do the happy dance.\\\" The second paragraph's more casual approach, with lines like \\\"You think you've had chocolate chip cookies?\\\" and \\\"But here's the real secret,\\\" creates a more engaging and humorous piece about baking.\",\n    \"preference\": \"2\"\n}\n"
     },
     {
         "gold": "{'preference': '2'}",
@@ -1637,11 +1637,11 @@
     },
     {
         "gold": "{'preference': '1'}",
-        "predicted": "{'reason': 'Paragraph 1 is more effective due to its specific details and natural progression of events. The character description provides vivid details about Ayame\\'s appearance and personality, while Paragraph 2 relies on vague generalizations. The dialogue in Paragraph 1 feels more authentic and natural, with Ayame\\'s nervousness and awkwardness shown through specific details like \"her cheeks tinted with a soft pink\" and \"she giggles softly, a bit nervously.\" In contrast, Paragraph 2 uses clichéd expressions like \"I just want to make sure you're safe and happy\" and relies on melodramatic phrasing. The first paragraph also better captures the complexity of Ayame\\'s character, showing both her innocent admiration and subtle menacing undertones, while Paragraph 2 presents a more one-dimensional portrayal of an overly protective friend.', 'preference': '1'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph 1 is more effective due to its specific details and natural progression of events. The character description provides vivid details about Ayame's appearance and personality, while Paragraph 2 relies on vague generalizations. The dialogue in Paragraph 1 feels more authentic and natural, with Ayame's nervousness and awkwardness shown through specific details like 'her cheeks tinted with a soft pink' and 'she giggles softly, a bit nervously.' In contrast, Paragraph 2 uses clichéd expressions like 'I just want to make sure you're safe and happy' and relies on melodramatic phrasing. The first paragraph also better captures the complexity of Ayame's character, showing both her innocent admiration and subtle menacing undertones, while Paragraph 2 presents a more one-dimensional portrayal of an overly protective friend.\",\n    \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{'preference': '2'}",
-        "predicted": "{'reason': 'Paragraph 1 is more concise and impactful, avoiding unnecessary repetition found in Paragraph 2. The first paragraph maintains a clear progression of ideas while the second becomes redundant with phrases like \"� -*-\r\ns\" and \"s\" that appear multiple times. The brevity of Paragraph 1 better serves its purpose of conveying the relationship between two characters through simple, evocative symbols and actions.', 'preference': '1'}"
+        "predicted": "\n{\n  \"reason\": \"Paragraph 1 is more concise and impactful, avoiding unnecessary repetition found in Paragraph 2. The first paragraph maintains a clear progression of ideas while the second becomes redundant with phrases like 's' that appear multiple times. The brevity of Paragraph 1 better serves its purpose of conveying the relationship between two characters through simple, evocative symbols and actions.\",\n  \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{'preference': '1'}",
@@ -1869,7 +1869,7 @@
     },
     {
         "gold": "{'preference': '2'}",
-        "predicted": "{'reason': 'The second paragraph is more effective in its rhythm and flow. The opening lines \"In life\\'s grand cosmic dance we play, Karma\\'s thread weaves through every day\" create a natural, rhythmic pattern that continues throughout the piece. The metaphor of life as a \"dance\" better captures the dynamic nature of fate than the first paragraph\\'s more static metaphors. The second paragraph also uses more economical language, avoiding unnecessary repetition found in the first paragraph like \"Consequences born, from choices made.\" The ending of the second paragraph, \"In life\\'s grand dance, we'll find our way,\" creates a more complete and satisfying conclusion than the first paragraph\\'s more abstract ending about \"karma\\'s whisper.\"', 'preference': '2'}"
+        "predicted": "\n{\n  \"reason\": \"The second paragraph is more effective in its rhythm and flow. The opening lines \\\"In life's grand cosmic dance we play, Karma's thread weaves through every day\\\" create a natural, rhythmic pattern that continues throughout the piece. The metaphor of life as a \\\"dance\\\" better captures the dynamic nature of fate than the first paragraph's more static metaphors. The second paragraph also uses more economical language, avoiding unnecessary repetition found in the first paragraph like \\\"Consequences born, from choices made.\\\" The ending of the second paragraph, \\\"In life's grand dance, we'll find our way,\\\" creates a more complete and satisfying conclusion than the first paragraph's more abstract ending about \\\"karma's whisper.\\\"\",\n  \"preference\": \"2\"\n}\n"
     },
     {
         "gold": "{'preference': '2'}",
@@ -2153,7 +2153,7 @@
     },
     {
         "gold": "{'preference': '2'}",
-        "predicted": "{'reason': 'Paragraph 1 is more concise and has better rhythm in its lines. The first paragraph maintains a more consistent rhythm and flow throughout, while the second paragraph becomes somewhat awkward in its phrasing and rhythm, particularly in lines like \"Their tickling fingers no longer worked, For this clever child, addition perked!\" The first paragraph also presents the information in a cleaner, more direct way without unnecessary embellishments. The second paragraph becomes increasingly forced and awkward in its attempt to maintain a playful tone, culminating in lines like \"You'll be the one with the true number power!\" which feel forced and overly defensive.', 'preference': '1'}"
+        "predicted": "\n{\n  \"reason\": \"Paragraph 1 is more concise and has better rhythm in its lines. The first paragraph maintains a more consistent rhythm and flow throughout, while the second paragraph becomes somewhat awkward in its phrasing and rhythm, particularly in lines like 'Their tickling fingers no longer worked, For this clever child, addition perked!' The first paragraph also presents the information in a cleaner, more direct way without unnecessary embellishments. The second paragraph becomes increasingly forced and awkward in its attempt to maintain a playful tone, culminating in lines like 'You'll be the one with the true number power!' which feel forced and overly defensive.\",\n  \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{'preference': '1'}",

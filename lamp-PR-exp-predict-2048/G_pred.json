@@ -33,7 +33,7 @@
     },
     {
         "gold": "{\"preference\": \"2\"}",
-        "predicted": "{'reason': 'Paragraph 2 is more detailed and specific in its description of the hand gesture - \"a quick flick of her thumb and forefinger followed by a subtle tap on her knee\" - which helps readers better understand the physical action and its significance. The first paragraph is more vague in its description of the gesture, simply stating \"a subtle shape against her thigh.\" Additionally, Paragraph 2 provides more context about the relationship between Mr. Garner and Mia, particularly in the line \"He thought of Mia's quiet dedication in class, her insightful questions,\" which adds depth to their interaction and makes the scene more believable.', 'preference': '2'}"
+        "predicted": "\n{\n  \"reason\": \"Paragraph 2 is more detailed and specific in its description of the hand gesture - \\\"a quick flick of her thumb and forefinger followed by a subtle tap on her knee\\\" - which helps readers better understand the physical action and its significance. The first paragraph is more vague in its description of the gesture, simply stating \\\"a subtle shape against her thigh.\\\" Additionally, Paragraph 2 provides more context about the relationship between Mr. Garner and Mia, particularly in the line \\\"He thought of Mia's quiet dedication in class, her insightful questions,\\\" which adds depth to their interaction and makes the scene more believable.\",\n  \"preference\": \"2\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"1\"}",
@@ -177,7 +177,7 @@
     },
     {
         "gold": "{\"preference\": \"2\"}",
-        "predicted": "{'reason': 'Paragraph 2 is more concise and direct in its storytelling, avoiding unnecessary metaphors like \"drifted into our lives like a warm breeze.\" The second paragraph presents the cultural clash between the characters in clearer, more straightforward terms, particularly in its description of their differences: \"Deborah's free-spirited American lifestyle, marked by spontaneous road trips and casual dinners at trendy restaurants, clashed with our deeply rooted Bengali traditions.\" The emotional impact is also more effectively conveyed in the second paragraph, especially in its description of how the relationship changed the family dynamics: \"Their marriage subtly reshaped relationships, blending silent disappointment with reluctant acceptance.\" The first paragraph, while containing similar elements, becomes overly metaphorical and abstract, particularly in its description of the relationship\\'s impact on the family.', 'preference': '2'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph 2 is more concise and direct in its storytelling, avoiding unnecessary metaphors like 'drifted into our lives like a warm breeze.' The second paragraph presents the cultural clash between the characters in clearer, more straightforward terms, particularly in its description of their differences: 'Deborah's free-spirited American lifestyle, marked by spontaneous road trips and casual dinners at trendy restaurants, clashed with our deeply rooted Bengali traditions.' The emotional impact is also more effectively conveyed in the second paragraph, especially in its description of how the relationship changed the family dynamics: 'Their marriage subtly reshaped relationships, blending silent disappointment with reluctant acceptance.' The first paragraph, while containing similar elements, becomes overly metaphorical and abstract, particularly in its description of the relationship's impact on the family.\",\n    \"preference\": \"2\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"1\"}",
@@ -285,7 +285,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'Paragraph 1 is more concise and has better flow. The first paragraph maintains a cleaner, more direct narrative without unnecessary explanations or redundant descriptions. For example, where Paragraph 2 says \"Mrs. Lenski, in turn, saw Dakotah's emerging potential, evident through his empathetic consideration of hypothetical scenarios and the rigor of his critical thinking,\" Paragraph 1 simply states \"Mrs. Lenski recognized Dakotah's potential, his empathy and quick thinking evident as they role-played challenging situations.\" The first paragraph also has a more natural progression of ideas, while Paragraph 2 becomes repetitive with phrases like \"Mrs. Lenski, in turn\" and includes unnecessary explanations that interrupt the flow of the narrative.', 'preference': '1'}"
+        "predicted": "\n{\n  \"reason\": \"Paragraph 1 is more concise and has better flow. The first paragraph maintains a cleaner, more direct narrative without unnecessary explanations or redundant descriptions. For example, where Paragraph 2 says \\\"Mrs. Lenski, in turn, saw Dakotah's emerging potential, evident through his empathetic consideration of hypothetical scenarios and the rigor of his critical thinking,\\\" Paragraph 1 simply states \\\"Mrs. Lenski recognized Dakotah's potential, his empathy and quick thinking evident as they role-played challenging situations.\\\" The first paragraph also has a more natural progression of ideas, while Paragraph 2 becomes repetitive with phrases like \\\"Mrs. Lenski, in turn\\\" and includes unnecessary explanations that interrupt the flow of the narrative.\",\n  \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"1\"}",
@@ -341,7 +341,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'Paragraph 2 is more effective because it presents a cleaner, more direct narrative flow. The first paragraph contains unnecessary explanatory phrases like \"the weight of unspoken words\" and \"a stark reminder of the family he\\'d left behind.\" These additions make the writing feel heavy-handed and melodramatic. In contrast, Paragraph 2 allows the scene to unfold naturally through specific details and actions, without explicitly stating the emotional weight of the moment. The second paragraph also creates a stronger sense of tension through its spare, impactful descriptions, like \"Alonzo's gaze kept shifting to the other patrons, as if expecting someone to recognize him from his mugshot on the evening news.\" This specific detail adds more tension than the vague descriptions in the first paragraph.', 'preference': '2'}"
+        "predicted": "\n{\n  \"reason\": \"Paragraph 2 is more effective because it presents a cleaner, more direct narrative flow. The first paragraph contains unnecessary explanatory phrases like 'the weight of unspoken words' and 'a stark reminder of the family he'd left behind.' These additions make the writing feel heavy-handed and melodramatic. In contrast, Paragraph 2 allows the scene to unfold naturally through specific details and actions, without explicitly stating the emotional weight of the moment. The second paragraph also creates a stronger sense of tension through its spare, impactful descriptions, like 'Alonzo's gaze kept shifting to the other patrons, as if expecting someone to recognize him from his mugshot on the evening news.' This specific detail adds more tension than the vague descriptions in the first paragraph.\",\n  \"preference\": \"2\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"2\"}",
@@ -365,7 +365,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'Paragraph 1 is more concise and has a stronger sense of rhythm and flow. The shorter sentences create a more mysterious and haunting atmosphere that matches the mysterious nature of the encounter. The writing is more economical and avoids unnecessary explanations or padding that appear in Paragraph 2, such as \"I've never been one for grand, hellfire-and-brimstone encounters\" and \"I felt an inexplicable urge to reach out and touch them, but something about the figure's gaze stayed my hand.\" The first paragraph maintains tension through its brevity and carefully chosen details, while the second dilutes the impact with excess explanation and unnecessary elaboration. The first paragraph also ends with a more powerful and mysterious image - \"to surrender to a realm beyond human comprehension\" - whereas the second paragraph\\'s ending feels more prosaic and less impactful with its more conventional description of retreating and leaving the mysterious scene.', 'preference': '1'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph 1 is more concise and has a stronger sense of rhythm and flow. The shorter sentences create a more mysterious and haunting atmosphere that matches the mysterious nature of the encounter. The writing is more economical and avoids unnecessary explanations or padding that appear in Paragraph 2, such as \\\"I've never been one for grand, hellfire-and-brimstone encounters\\\" and \\\"I felt an inexplicable urge to reach out and touch them, but something about the figure's gaze stayed my hand.\\\" The first paragraph maintains tension through its brevity and carefully chosen details, while the second dilutes the impact with excess explanation and unnecessary elaboration. The first paragraph also ends with a more powerful and mysterious image - \\\"to surrender to a realm beyond human comprehension\\\" - whereas the second paragraph's ending feels more prosaic and less impactful with its more conventional description of retreating and leaving the mysterious scene.\",\n    \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"1\"}",
@@ -957,7 +957,7 @@
     },
     {
         "gold": "{\"preference\": \"2\"}",
-        "predicted": "{'reason': 'Paragraph 2 is more concise and has better flow, avoiding unnecessary repetition found in Paragraph 1. The second paragraph maintains the same essential information but presents it in a cleaner, more direct manner. For instance, where Paragraph 1 says \"Mrs. Lenski, in turn, began to see Dakotah\\'s potential, his empathy and quick thinking evident in their discussions,\" Paragraph 2 simply states \"Mrs. Lenski, in turn, saw Dakotah's emerging potential.\" The second paragraph also has a more natural progression in its narrative, particularly in describing their relationship development and the observational opportunities Mrs. Lenski provides to Dakotah.', 'preference': '2'}"
+        "predicted": "\n{\n  \"reason\": \"Paragraph 2 is more concise and has better flow, avoiding unnecessary repetition found in Paragraph 1. The second paragraph maintains the same essential information but presents it in a cleaner, more direct manner. For instance, where Paragraph 1 says \\\"Mrs. Lenski, in turn, began to see Dakotah's potential, his empathy and quick thinking evident in their discussions,\\\" Paragraph 2 simply states \\\"Mrs. Lenski, in turn, saw Dakotah's emerging potential.\\\" The second paragraph also has a more natural progression in its narrative, particularly in describing their relationship development and the observational opportunities Mrs. Lenski provides to Dakotah.\",\n  \"preference\": \"2\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"2\"}",
@@ -1113,7 +1113,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'Paragraph 2 is more concise and impactful, avoiding unnecessary explanations and overwrought descriptions found in Paragraph 1. The second paragraph maintains a cleaner, more direct narrative flow while still conveying the emotional weight of the moment. For example, \"Surely everyone could see this sudden unveiling of his past\" is more effective than \"Surely everyone could see the sudden change in him, the shift from the person he'd been to this other, more fragile version of himself.\" The simpler structure in Paragraph 2 allows the emotional impact of the scene to resonate more strongly with readers.', 'preference': '2'}"
+        "predicted": "\n{\n  \"reason\": \"Paragraph 2 is more concise and impactful, avoiding unnecessary explanations and overwrought descriptions found in Paragraph 1. The second paragraph maintains a cleaner, more direct narrative flow while still conveying the emotional weight of the moment. For example, 'Surely everyone could see this sudden unveiling of his past' is more effective than 'Surely everyone could see the sudden change in him, the shift from the person he'd been to this other, more fragile version of himself.' The simpler structure in Paragraph 2 allows the emotional impact of the scene to resonate more strongly with readers.\",\n  \"preference\": \"2\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"1\"}",
@@ -1301,7 +1301,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'The first paragraph has a more cohesive flow and better rhythm. The description of the thumping noise as \"an oddly comforting lullaby\" creates a stronger sense of irony and contrast than the second paragraph\\'s more straightforward description. The first paragraph also has a more natural progression of events, particularly in describing Sarah\\'s movements and her interaction with Mr. Whiskers. The second paragraph feels slightly more mechanical in its description of the same events, with phrases like \"Mrs. Kowalski's TV again\" and \"Sarah realized with a sigh\" that feel more forced and less organic than the first paragraph\\'s \"Mrs. Kowalski's TV again, Sarah realized with a sigh.\" The first paragraph\\'s ending also creates a more vivid image with \"the persistent thudding merged with her heartbeat,\" while the second paragraph\\'s ending feels more prosaic and less imaginative.', 'preference': '1'}"
+        "predicted": "\n{\n    \"reason\": \"The first paragraph has a more cohesive flow and better rhythm. The description of the thumping noise as \\\"an oddly comforting lullaby\\\" creates a stronger sense of irony and contrast than the second paragraph's more straightforward description. The first paragraph also has a more natural progression of events, particularly in describing Sarah's movements and her interaction with Mr. Whiskers. The second paragraph feels slightly more mechanical in its description of the same events, with phrases like \\\"Mrs. Kowalski's TV again\\\" and \\\"Sarah realized with a sigh\\\" that feel more forced and less organic than the first paragraph's \\\"Mrs. Kowalski's TV again, Sarah realized with a sigh.\\\" The first paragraph's ending also creates a more vivid image with \\\"the persistent thudding merged with her heartbeat,\\\" while the second paragraph's ending feels more prosaic and less imaginative.\",\n    \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"2\"}",
@@ -1441,7 +1441,7 @@
     },
     {
         "gold": "{\"preference\": \"2\"}",
-        "predicted": "{'reason': 'The first paragraph has a more natural flow and rhythm, with better sentence construction and pacing. For example, \"Mrs. Willow\\'s missing cat posters, taped to every other lamppost\" is more effective than the second paragraph\\'s \"Mrs. Willow's missing cat posters, which seemed to be on every other lamp post.\" The first paragraph also has a more cohesive narrative structure, with better transitions between ideas and scenes. The second paragraph feels more fragmented, with abrupt transitions and less polished prose. The description of Clara\\'s bakery in the first paragraph (\"Clara, who ran the bakery and offered me a cinnamon roll with less sugar for \\'city folk taste,\\' she said with a wink\") is also more engaging and specific than the second paragraph\\'s version.', 'preference': '1'}"
+        "predicted": "\n{\n    \"reason\": \"The first paragraph has a more natural flow and rhythm, with better sentence construction and pacing. For example, \\\"Mrs. Willow's missing cat posters, taped to every other lamppost\\\" is more effective than the second paragraph's \\\"Mrs. Willow's missing cat posters, which seemed to be on every other lamp post.\\\" The first paragraph also has a more cohesive narrative structure, with better transitions between ideas and scenes. The second paragraph feels more fragmented, with abrupt transitions and less polished prose. The description of Clara's bakery in the first paragraph (\\\"Clara, who ran the bakery and offered me a cinnamon roll with less sugar for 'city folk taste,' she said with a wink\\\") is also more engaging and specific than the second paragraph's version.\",\n    \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"2\"}",
@@ -1541,7 +1541,7 @@
     },
     {
         "gold": "{\"preference\": \"2\"}",
-        "predicted": "{'reason': 'Paragraph 2 is more concise and has better flow, avoiding unnecessary explanatory phrases that appear in Paragraph 1. For instance, where Paragraph 1 says \"The basement\\'s small window became her portal to the outside world,\" Paragraph 2 simply states \"The basement's small window became her portal to the outside world,\" allowing the reader to make the connection themselves. The second paragraph also creates more impact by starting with the character\\'s established history of dealing with unexpected detours, making her current situation feel more earned and believable. The first paragraph, while containing similar elements, feels more like an academic analysis of the situation rather than a personal narrative.', 'preference': '2'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph 2 is more concise and has better flow, avoiding unnecessary explanatory phrases that appear in Paragraph 1. For instance, where Paragraph 1 says 'The basement's small window became her portal to the outside world,' Paragraph 2 simply states 'The basement's small window became her portal to the outside world,' allowing the reader to make the connection themselves. The second paragraph also creates more impact by starting with the character's established history of dealing with unexpected detours, making her current situation feel more earned and believable. The first paragraph, while containing similar elements, feels more like an academic analysis of the situation rather than a personal narrative.\",\n    \"preference\": \"2\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"2\"}",
@@ -1589,7 +1589,7 @@
     },
     {
         "gold": "{\"preference\": \"2\"}",
-        "predicted": "{'reason': 'The first paragraph is more sophisticated and well-developed in its description of the flavors and cultural significance of the dish. The writing flows naturally with vivid metaphors and sensory details, creating a rich tapestry of imagery that engages the reader. The paragraph effectively weaves together the culinary aspects with cultural observations, making it both informative and poetic. In contrast, the second paragraph feels abrupt and lacks the depth of description that makes the first paragraph more engaging and memorable. The ending of Paragraph 1 (\"It's a refreshing and delightful dish\") is also more artfully crafted than Paragraph 2\\'s simpler \"It's a refreshing and delightful dish.\"', 'preference': '1'}"
+        "predicted": "\n{\n  \"reason\": \"The first paragraph is more sophisticated and well-developed in its description of the flavors and cultural significance of the dish. The writing flows naturally with vivid metaphors and sensory details, creating a rich tapestry of imagery that engages the reader. The paragraph effectively weaves together the culinary aspects with cultural observations, making it both informative and poetic. In contrast, the second paragraph feels abrupt and lacks the depth of description that makes the first paragraph more engaging and memorable. The ending of Paragraph 1 (\\\"It's a refreshing and delightful dish\\\") is also more artfully crafted than Paragraph 2's simpler \\\"It's a refreshing and delightful dish.\\\"\",\n  \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"1\"}",
@@ -1921,7 +1921,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'Paragraph 1 is more concise and direct, avoiding unnecessary explanations and redundancies found in Paragraph 2. The first paragraph maintains a cleaner, more efficient structure while still conveying the essential details of the morning routine. For example, \"I make sure her breakfast looks nice\" is more straightforward than Paragraph 2\\'s \"I've learned that the subtle presentation of her meal can greatly impact her mood.\" The first paragraph also ends with a more natural progression of events, while the second paragraph\\'s ending feels more forced and artificial with phrases like \"create a sense of calm and normalcy.\" The simpler, more direct approach in Paragraph 1 better serves the intimate nature of this caretaking scene.', 'preference': '1'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph 1 is more concise and direct, avoiding unnecessary explanations and redundancies found in Paragraph 2. The first paragraph maintains a cleaner, more efficient structure while still conveying the essential details of the morning routine. For example, \\\"I make sure her breakfast looks nice\\\" is more straightforward than Paragraph 2's \\\"I've learned that the subtle presentation of her meal can greatly impact her mood.\\\" The first paragraph also ends with a more natural progression of events, while the second paragraph's ending feels more forced and artificial with phrases like \\\"create a sense of calm and normalcy.\\\" The simpler, more direct approach in Paragraph 1 better serves the intimate nature of this caretaking scene.\",\n    \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"2\"}",
@@ -2121,7 +2121,7 @@
     },
     {
         "gold": "{\"preference\": \"2\"}",
-        "predicted": "{'reason': 'The first paragraph is more concise and direct in its expression, avoiding unnecessary explanations and padding that appear in the second paragraph. For example, where Paragraph 2 says \"As the city's popularity grows, so do concerns about gentrification, rising housing costs, and the potential erosion of its unique character,\" Paragraph 1 simply states \"As the city\\'s popularity grows, so do concerns about gentrification, rising housing costs, and the potential erosion of the essence that makes it Portland.\" The first paragraph also avoids redundant explanations, such as \"As long as visitors approach with sensitivity and appreciation\" which appears at the end of both paragraphs but is more naturally integrated into the first paragraph\\'s flow. The first paragraph maintains its focus on the main subject without getting bogged down in excess explanation or padding.', 'preference': '1'}"
+        "predicted": "\n{\n    \"reason\": \"The first paragraph is more concise and direct in its expression, avoiding unnecessary explanations and padding that appear in the second paragraph. For example, where Paragraph 2 says \\\"As the city's popularity grows, so do concerns about gentrification, rising housing costs, and the potential erosion of its unique character,\\\" Paragraph 1 simply states \\\"As the city's popularity grows, so do concerns about gentrification, rising housing costs, and the potential erosion of the essence that makes it Portland.\\\" The first paragraph also avoids redundant explanations, such as \\\"As long as visitors approach with sensitivity and appreciation\\\" which appears at the end of both paragraphs but is more naturally integrated into the first paragraph's flow. The first paragraph maintains its focus on the main subject without getting bogged down in excess explanation or padding.\",\n    \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"1\"}",
@@ -2149,7 +2149,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'Paragraph 2 is more effective due to its cleaner, more direct style. While both paragraphs tell essentially the same story, Paragraph 2 eliminates unnecessary descriptive elements and presents the narrative in a more straightforward manner. For example, where Paragraph 1 says \"Mrs. Kowalski's TV again, Sarah realized with a sigh,\" Paragraph 2 simply states \"Mrs. Kowalski's TV again, Sarah realized with a sigh.\" The second paragraph also maintains better pacing and rhythm, with shorter, more impactful sentences that create a stronger sense of the character\\'s state of mind. The elimination of redundant phrases and overwrought descriptions makes the story more immediate and relatable, allowing the reader to better connect with Sarah\\'s sleepless state.', 'preference': '2'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph 2 is more effective due to its cleaner, more direct style. While both paragraphs tell essentially the same story, Paragraph 2 eliminates unnecessary descriptive elements and presents the narrative in a more straightforward manner. For example, where Paragraph 1 says \\\"Mrs. Kowalski's TV again, Sarah realized with a sigh,\\\" Paragraph 2 simply states \\\"Mrs. Kowalski's TV again, Sarah realized with a sigh.\\\" The second paragraph also maintains better pacing and rhythm, with shorter, more impactful sentences that create a stronger sense of the character's state of mind. The elimination of redundant phrases and overwrought descriptions makes the story more immediate and relatable, allowing the reader to better connect with Sarah's sleepless state.\",\n    \"preference\": \"2\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"1\"}",
@@ -2261,7 +2261,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'Paragraph 1 is more concise and impactful, avoiding unnecessary explanations and redundancies found in Paragraph 2. While both paragraphs convey similar ideas, Paragraph 1\\'s brevity makes its points more powerfully. For instance, where Paragraph 2 says \"But here\\'s the thing: if someone truly cares about you and the relationship, they'll work to meet you halfway,\" Paragraph 1 simply states \"If someone truly cares about you and the relationship, they'll work to meet you halfway. They'll try.\" The first paragraph also avoids the overwrought emotional language found in Paragraph 2, such as \"walking away, even if it feels like the hardest thing you've ever done.\" The shorter version maintains the core message without getting bogged down in excessive explanation.', 'preference': '1'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph 1 is more concise and impactful, avoiding unnecessary explanations and redundancies found in Paragraph 2. While both paragraphs convey similar ideas, Paragraph 1's brevity makes its points more powerfully. For instance, where Paragraph 2 says \\\"But here's the thing: if someone truly cares about you and the relationship, they'll work to meet you halfway,\\\" Paragraph 1 simply states \\\"If someone truly cares about you and the relationship, they'll work to meet you halfway. They'll try.\\\" The first paragraph also avoids the overwrought emotional language found in Paragraph 2, such as \\\"walking away, even if it feels like the hardest thing you've ever done.\\\" The shorter version maintains the core message without getting bogged down in excessive explanation.\",\n    \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"2\"}",
@@ -2441,7 +2441,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'Paragraph2 is more concise and impactful, avoiding unnecessary elaboration that appears in Paragraph1. The shorter sentences in Paragraph2 create a more powerful effect, especially in lines like \"The house was now a tomb.\" The emotional weight of the situation comes through more effectively in the second paragraph\\'s spare, direct language. For example, \"Her mother's silence was deafening\" is more impactful than Paragraph1\\'s \"Her mother's silence was deafening, and Heloise began to wonder if she was to blame for the accident.\" The first paragraph\\'s longer sentences dilute the emotional impact, while the second paragraph maintains its raw, unfiltered nature throughout.', 'preference': '2'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph2 is more concise and impactful, avoiding unnecessary elaboration that appears in Paragraph1. The shorter sentences in Paragraph2 create a more powerful effect, especially in lines like 'The house was now a tomb.' The emotional weight of the situation comes through more effectively in the second paragraph's spare, direct language. For example, 'Her mother's silence was deafening' is more impactful than Paragraph1's 'Her mother's silence was deafening, and Heloise began to wonder if she was to blame for the accident.' The first paragraph's longer sentences dilute the emotional impact, while the second paragraph maintains its raw, unfiltered nature throughout.\",\n    \"preference\": \"2\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"1\"}",
@@ -3073,7 +3073,7 @@
     },
     {
         "gold": "{\"preference\": \"2\"}",
-        "predicted": "{'reason': 'The second paragraph is more effective due to its simpler, more direct approach. The shorter sentences and less complex structure create a stronger sense of tension and unease. For example, \"He couldn't discern it. A strange sense, anxious almost\" is more impactful than the first paragraph\\'s more verbose version \"As Ramón developed the photographic plate in his makeshift darkroom, he couldn\\'t shake off the feeling of restlessness that had been building up all week.\" The second paragraph also ends more powerfully with \"But as he stood there, the plate still wet in his hands, Ramón felt the familiar tug of his dual identities,\" while the first paragraph\\'s ending feels more forced and melodramatic with its rhetorical question about which identity would prevail.', 'preference': '2'}"
+        "predicted": "\n{\n  \"reason\": \"The second paragraph is more effective due to its simpler, more direct approach. The shorter sentences and less complex structure create a stronger sense of tension and unease. For example, \\\"He couldn't discern it. A strange sense, anxious almost\\\" is more impactful than the first paragraph's more verbose version \\\"As Ramón developed the photographic plate in his makeshift darkroom, he couldn't shake off the feeling of restlessness that had been building up all week.\\\" The second paragraph also ends more powerfully with \\\"But as he stood there, the plate still wet in his hands, Ramón felt the familiar tug of his dual identities,\\\" while the first paragraph's ending feels more forced and melodramatic with its rhetorical question about which identity would prevail.\",\n  \"preference\": \"2\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"2\"}",
@@ -3141,7 +3141,7 @@
     },
     {
         "gold": "{\"preference\": \"2\"}",
-        "predicted": "{'reason': 'The first paragraph is more effective due to its simpler, more direct approach. While both paragraphs convey similar thoughts, Paragraph 1 avoids overwrought metaphors and unnecessary philosophical musings that appear in Paragraph 2 (\"For a moment, I wondered if our breathing patterns were a metaphor for something larger, some fundamental incompatibility I'd been avoiding\"). The first paragraph maintains a more intimate, personal tone throughout, focusing on the immediate physical experience of insomnia and the relationship dynamics. The writing in Paragraph 1 is also more economical, avoiding redundant phrases and maintaining a cleaner, more impactful style. The final lines of Paragraph 1 (\"I paused in the doorway, suddenly reluctant to reclaim my place. But as I watched Aiden's chest rise and fall, I felt calm. I crawled back into bed and listened to his breathing.\") demonstrate this effectiveness, providing a clear emotional arc without overexplaining or philosophizing about the experience.', 'preference': '1'}"
+        "predicted": "\n{\n    \"reason\": \"The first paragraph is more effective due to its simpler, more direct approach. While both paragraphs convey similar thoughts, Paragraph 1 avoids overwrought metaphors and unnecessary philosophical musings that appear in Paragraph 2 (\\\"For a moment, I wondered if our breathing patterns were a metaphor for something larger, some fundamental incompatibility I'd been avoiding\\\"). The first paragraph maintains a more intimate, personal tone throughout, focusing on the immediate physical experience of insomnia and the relationship dynamics. The writing in Paragraph 1 is also more economical, avoiding redundant phrases and maintaining a cleaner, more impactful style. The final lines of Paragraph 1 (\\\"I paused in the doorway, suddenly reluctant to reclaim my place. But as I watched Aiden's chest rise and fall, I felt calm. I crawled back into bed and listened to his breathing.\\\") demonstrate this effectiveness, providing a clear emotional arc without overexplaining or philosophizing about the experience.\",\n    \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"2\"}",
@@ -3217,7 +3217,7 @@
     },
     {
         "gold": "{\"preference\": \"2\"}",
-        "predicted": "{'reason': 'Paragraph 1 is more effective due to its concise, rhythmic prose that mirrors the repetitive sound described. The shorter sentences and spare details create a dreamlike quality that matches the disorienting state between sleep and wakefulness. The writing is economical and impactful, with lines like \"Mrs. Kowalski's TV again, Sarah realized with a sigh\" and \"The floorboards felt cool against her bare feet\" that convey the disorientation of the moment. In contrast, Paragraph 2 is more verbose and explanatory, with unnecessary elaboration like \"making coherent thought impossible\" and \"finding herself swaying to the muffled bass.\" The first paragraph\\'s brevity and restraint better capture the surreal quality of the moment, while the second paragraph\\'s excess explanation diminishes the impact of the scene.', 'preference': '1'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph 1 is more effective due to its concise, rhythmic prose that mirrors the repetitive sound described. The shorter sentences and spare details create a dreamlike quality that matches the disorienting state between sleep and wakefulness. The writing is economical and impactful, with lines like \\\"Mrs. Kowalski's TV again, Sarah realized with a sigh\\\" and \\\"The floorboards felt cool against her bare feet\\\" that convey the disorientation of the moment. In contrast, Paragraph 2 is more verbose and explanatory, with unnecessary elaboration like \\\"making coherent thought impossible\\\" and \\\"finding herself swaying to the muffled bass.\\\" The first paragraph's brevity and restraint better capture the surreal quality of the moment, while the second paragraph's excess explanation diminishes the impact of the scene.\",\n    \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"2\"}",
@@ -3593,7 +3593,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'Paragraph 1 is more effective due to its concise and straightforward narrative. While both paragraphs tell essentially the same story, Paragraph 1 eliminates unnecessary descriptive language and redundant explanations that appear in Paragraph 2. For example, where Paragraph 2 says \"The burden of responsibility, coupled with the emotional toll of watching his mother's decline, took a silent but insidious toll on Yura's own well-being,\" Paragraph 1 simply states \"His childhood took a toll on Yura\\'s well-being.\" The first paragraph maintains the emotional impact while avoiding overwrought explanations and redundant phrasing, making it a more powerful piece of writing.', 'preference': '1'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph 1 is more effective due to its concise and straightforward narrative. While both paragraphs tell essentially the same story, Paragraph 1 eliminates unnecessary descriptive language and redundant explanations that appear in Paragraph 2. For example, where Paragraph 2 says 'The burden of responsibility, coupled with the emotional toll of watching his mother's decline, took a silent but insidious toll on Yura's own well-being,' Paragraph 1 simply states 'His childhood took a toll on Yura's well-being.' The first paragraph maintains the emotional impact while avoiding overwrought explanations and redundant phrasing, making it a more powerful piece of writing.\",\n    \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"1\"}",
@@ -3897,7 +3897,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'The second paragraph is more concise and impactful, with shorter, punchier sentences that carry more emotional weight. The first paragraph is overwritten with unnecessary explanations and justifications, diluting the power of the core message. For example, the simple statement \"I feel like I'm on the sidelines, nodding along but not really contributing\" in Paragraph 2 carries more weight than the verbose version in Paragraph 1. The second paragraph\\'s brevity allows the emotional truth of the situation to come through more effectively, making it a more powerful piece of writing.', 'preference': '2'}"
+        "predicted": "\n{\n    \"reason\": \"The second paragraph is more concise and impactful, with shorter, punchier sentences that carry more emotional weight. The first paragraph is overwritten with unnecessary explanations and justifications, diluting the power of the core message. For example, the simple statement \\\"I feel like I'm on the sidelines, nodding along but not really contributing\\\" in Paragraph 2 carries more weight than the verbose version in Paragraph 1. The second paragraph's brevity allows the emotional truth of the situation to come through more effectively, making it a more powerful piece of writing.\",\n    \"preference\": \"2\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"2\"}",
@@ -3961,7 +3961,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'Paragraph 1 is more effective because of its specific, vivid details that bring Margot and her caretaker to life. The description of her \"golden toast\" and \"fresh fruit sliced in a colorful assortment\" creates a tangible, sensory-rich image. The narrative voice is more intimate and less clinical, with phrases like \"I see, in her eyes, her readiness to tackle the day ahead\" showing emotional connection. In contrast, Paragraph 2 relies on more generic descriptions like \"soft morning light\" and \"carefully arranging\" that create distance rather than immediacy. The first paragraph also better captures the subtle dynamics of their relationship, particularly in lines like \"I've learned that the presentation of her meal can greatly impact her mood\" which reveals a deep understanding of Margot\\'s needs and personality.', 'preference': '1'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph 1 is more effective because of its specific, vivid details that bring Margot and her caretaker to life. The description of her \\\"golden toast\\\" and \\\"fresh fruit sliced in a colorful assortment\\\" creates a tangible, sensory-rich image. The narrative voice is more intimate and less clinical, with phrases like \\\"I see, in her eyes, her readiness to tackle the day ahead\\\" showing emotional connection. In contrast, Paragraph 2 relies on more generic descriptions like \\\"soft morning light\\\" and \\\"carefully arranging\\\" that create distance rather than immediacy. The first paragraph also better captures the subtle dynamics of their relationship, particularly in lines like \\\"I've learned that the presentation of her meal can greatly impact her mood\\\" which reveals a deep understanding of Margot's needs and personality.\",\n    \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"2\"}",
@@ -4189,7 +4189,7 @@
     },
     {
         "gold": "{\"preference\": \"2\"}",
-        "predicted": "{'reason': 'Paragraph 1 is more effective because it provides richer sensory details and creates a more immersive atmosphere. The description of the floorboards as \"cool against her bare feet\" and the \"muffled bass\" of the neighbor\\'s music adds texture to the scene that\\'s missing in Paragraph 2. The first paragraph also better captures the character\\'s experience of being woken up by the neighbor\\'s noise, with phrases like \"Mrs. Kowalski's TV again, Sarah realized with a sigh\" and \"The noise seemed to reverberate inside her skull, making coherent thought impossible.\" These details make the scene feel more immediate and real. The second paragraph, while containing similar elements, lacks these specific details and feels more generic and less engaging as a result.', 'preference': '1'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph 1 is more effective because it provides richer sensory details and creates a more immersive atmosphere. The description of the floorboards as \\\"cool against her bare feet\\\" and the \\\"muffled bass\\\" of the neighbor's music adds texture to the scene that's missing in Paragraph 2. The first paragraph also better captures the character's experience of being woken up by the neighbor's noise, with phrases like \\\"Mrs. Kowalski's TV again, Sarah realized with a sigh\\\" and \\\"The noise seemed to reverberate inside her skull, making coherent thought impossible.\\\" These details make the scene feel more immediate and real. The second paragraph, while containing similar elements, lacks these specific details and feels more generic and less engaging as a result.\",\n    \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"2\"}",
@@ -4481,7 +4481,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'Paragraph 1 is more concise and has a cleaner flow, avoiding unnecessary wordiness found in Paragraph 2. For example, where Paragraph 2 says \"Mrs. Kowalski's TV again, Sarah realized with a sigh,\" Paragraph 1 simply states \"Mrs. Kowalski's TV again, Sarah realized with a sigh.\" The first paragraph also has a more natural rhythm and better sentence structure, making it more engaging to read. The second paragraph feels more mechanical in its descriptions and includes redundant details that interrupt the flow of the narrative.', 'preference': '1'}"
+        "predicted": "\n{\n  \"reason\": \"Paragraph 1 is more concise and has a cleaner flow, avoiding unnecessary wordiness found in Paragraph 2. The first paragraph also has a more natural rhythm and better sentence structure, making it more engaging to read. The second paragraph feels more mechanical in its descriptions and includes redundant details that interrupt the flow of the narrative.\",\n  \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"2\"}",
@@ -4717,7 +4717,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'Paragraph 1 is more concise and has a clearer structure, avoiding unnecessary wordiness found in Paragraph 2. For instance, Paragraph 1 opens directly with \"Mrs. Lenski reclined in her chair,\" while Paragraph 2 adds unnecessary descriptive phrases like \"her voice steady but tinged with a hint of weariness.\" Similarly, Paragraph 1\\'s ending about \"Mrs. Lenski's job was\" is more direct than Paragraph 2\\'s wordier version. The first paragraph also has better flow, with smoother transitions between ideas and less redundant phrasing. The second paragraph contains redundant explanations and repetitive phrasing that make the narrative feel heavy and less effective.', 'preference': '1'}"
+        "predicted": "\n{\n    \"reason\": \"Paragraph 1 is more concise and has a clearer structure, avoiding unnecessary wordiness found in Paragraph 2. For instance, Paragraph 1 opens directly with 'Mrs. Lenski reclined in her chair,' while Paragraph 2 adds unnecessary descriptive phrases like 'her voice steady but tinged with a hint of weariness.' Similarly, Paragraph 1's ending about 'Mrs. Lenski's job was' is more direct than Paragraph 2's wordier version. The first paragraph also has better flow, with smoother transitions between ideas and less redundant phrasing. The second paragraph contains redundant explanations and repetitive phrasing that make the narrative feel heavy and less effective.\",\n    \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"1\"}",
@@ -4733,7 +4733,7 @@
     },
     {
         "gold": "{\"preference\": \"1\"}",
-        "predicted": "{'reason': 'Paragraph 1 is more effective due to its concise, direct storytelling style. The shorter sentences create a stronger emotional impact, particularly in lines like \"Ira knows he can\\'t reclaim the lost time\" and \"He\\'s determined to walk it, one step at a time, to be the father Bekka deserves.\" The first paragraph maintains a clearer focus on the relationship between Ira and Bekka, while the second paragraph becomes more abstract and philosophical with lines like \"a realization that he can't reclaim the lost time.\" The first paragraph also presents a more poignant ending with Ira\\'s simple but powerful realization about being \"more present,\" whereas the second paragraph\\'s ending feels more formulaic and less authentic.', 'preference': '1'}"
+        "predicted": "\n{\n  \"reason\": \"Paragraph 1 is more effective due to its concise, direct storytelling style. The shorter sentences create a stronger emotional impact, particularly in lines like \\\"Ira knows he can't reclaim the lost time\\\" and \\\"He's determined to walk it, one step at a time, to be the father Bekka deserves.\\\" The first paragraph maintains a clearer focus on the relationship between Ira and Bekka, while the second paragraph becomes more abstract and philosophical with lines like \\\"a realization that he can't reclaim the lost time.\\\" The first paragraph also presents a more poignant ending with Ira's simple but powerful realization about being \\\"more present,\\\" whereas the second paragraph's ending feels more formulaic and less authentic.\",\n  \"preference\": \"1\"\n}\n"
     },
     {
         "gold": "{\"preference\": \"1\"}",
