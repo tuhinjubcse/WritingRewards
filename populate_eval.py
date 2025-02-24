@@ -1,6 +1,6 @@
 import json, argparse, os, tqdm, multiprocessing, random
 from model_skywork import SkyworkRewardModel
-from llms import generate_json
+#from llms import generate_json
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--input_fn", type=str, default="data/lamp_PRGSH_test.json")

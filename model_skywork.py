@@ -2,15 +2,21 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer
 import torch, os
 from transformers import BitsAndBytesConfig
 
-os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+#os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 
 
 class SkyworkRewardModel:
     def __init__(self, model_name="Skywork/Skywork-Reward-Llama-3.1-8B-v0.2", device="auto"):
-        self.device = device
+        if device == "auto":
+            device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        else:
+             device = torch.device(device)
+        print("Tuhin...")
         self.model_name = model_name
         self._model = None
         self._tokenizer = None
+        self.device = device
+        print("SkyworkRewardModel initialized with device:", self.device)
 
     @property
     def model(self):
@@ -28,7 +34,7 @@ class SkyworkRewardModel:
                 self.model_name,
                 torch_dtype=torch.bfloat16,
                 device_map="auto",
-                attn_implementation="flash_attention_2",
+                #attn_implementation="flash_attention_2",
                 num_labels=1,
                 # quantization_config=quantization_config,
                 # use_gradient_checkpointing=True,
@@ -48,6 +54,7 @@ class SkyworkRewardModel:
             {"role": "user", "content": instruction},
             {"role": "assistant", "content": response}
         ]
+        print("Device in use:", self.device)
         
         tokens = self.tokenizer.apply_chat_template(conversation, tokenize=True, return_tensors="pt").to(self.device)
         with torch.no_grad():
@@ -59,7 +66,7 @@ if __name__ == "__main__":
     model_name = "Skywork/Skywork-Reward-Gemma-2-27B-v0.2"
     # model_name = "Skywork/Skywork-Reward-Llama-3.1-8B-v0.2"
 
-    reward_model = SkyworkRewardModel(model_name=model_name)
+    reward_model = SkyworkRewardModel(model_name=model_name,device="auto")
 
     # prompt = "Jane has 12 apples. She gives 4 apples to her friend Mark, then buys 1 more apple, and finally splits all her apples equally among herself and her 2 siblings. How many apples does each person get?"
     # response = "1. Jane starts with 12 apples and gives 4 to Mark. 12 - 4 = 8. Jane now has 8 apples.\n2. Jane buys 1 more apple. 8 + 1 = 9. Jane now has 9 apples.\n3. Jane splits the 9 apples equally among herself and her 2 siblings (3 people in total). 9 ÷ 3 = 3 apples each. Each person gets 3 apples."
