@@ -7288,7 +7288,6 @@
 {"id": "test-pairwise-3652", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "2"}}
 {"id": "test-lmarena-256", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "1"}}
 {"id": "test-pairwise-394", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "1"}}
-
 {"id": "test-pairwise-3202", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "2"}}
 {"id": "test-lmarena-1098", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "2"}}
 {"id": "test-pairwise-518", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "1"}}
@@ -7426,13 +7425,11 @@
 {"id": "test-pairwise-4260", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "1"}}
 {"id": "test-lmarena-1895", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "1"}}
 {"id": "test-lmarena-835", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "2"}}
-
 {"id": "test-pairwise-3897", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "1"}}
 {"id": "test-lmarena-230", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "2"}}
 {"id": "test-lmarena-1822", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "2"}}
 {"id": "test-pairwise-1393", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "2"}}
 {"id": "test-lmarena-159", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "1"}}
-
 {"id": "test-lmarena-1420", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "1"}}
 {"id": "test-lmarena-204", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "2"}}
 {"id": "test-pairwise-2335", "input_fn": "data/lamp_PRGSH_test.json", "output": {"preference": "1"}}
