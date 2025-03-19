@@ -1,0 +1,69 @@
+You are given two pararaphs of writing for a given instruction.
+Your task is to determine which paragraph is overall better in terms of writing quality.
+
+Here are five examples of judgements:
+
+Example 1:
+Paragraph 1:
+The chicken karaage at 750 Myrtle Diner in Brooklyn stands out because of it's meticulous preparation and intriguing blend of flavors. Unlike traditional Japanese karaage that typically marinates in a basic soy sauce mixture, chef Takeshi Sato adds a twist by incorporating yuzu and ginger into the marinade, infusing the chicken with a zesty undertone. The frying technique is another key differentiator; Sato uses a double-frying method that ensures each piece achieves an optimal balance of succulence and crunch. The exterior crust, laced with a subtle sprinkling of Sansho pepper, offers a slightly numbing, citrusy kick that surprises the palate. Each bite transports you into a realm where Japanese culinary tradition meets Brooklyn’s relentless zeal for innovation. At 750 Myrtle Diner, it's not just about eating; it's an act of discovery—a testament to how cultural intersections can elevate something familiar into the extraordinary. 
+
+Paragraph 2:
+Opened in 2020, 750 Myrtle Diner in Brooklyn, stands out for two things: the quality of it's ingredients and it's chicken karaage. Unlike traditional Japanese karaage that typically marinates in a basic soy sauce mixture, chef Takeshi Sato adds a twist by incorporating yuzu and ginger into the marinade, infusing the chicken with a zesty undertone. As well as this, their frying technique is another key differentiator, where Chef Sato uses a double-frying method - not dissimilar to the triple-cooked method of Heston Blumenthal - that ensures each piece achieves an optimal balance of succulence and crunch. The exterior crust, laced with a subtle sprinkling of Sansho pepper, offers a slightly numbing, citrusy kick that surprises the palate. Each bite at 750 Myrtle Diner, is an act of discovery and rediscovery—a testament to how cultural intersections can elevate something familiar into the extraordinary. 
+
+Expected Output:
+{"preference": "2"} 
+
+Example 2:
+Paragraph 1:
+This vegan pesto pasta salad does more than just align with dietary preferences; it subtly enriches your meal with intricate layers of flavor. By incorporating tomatoes, lemon, capers, and nuts, it presents a zest and crunch that can refresh even the most mundane picnic or desk lunch. The acidity of the lemon balances the savory elements, while the capers introduce a briny undertone that echoes traditional cheese in unexpected ways. Nuts provide a textural contrast and a satisfying richness, making each bite a bit more indulgent without weighing you down. The tomatoes contribute a burst of juicy sweetness, elevating the dish's overall complexity. Beyond being a picnic staple or a rejuvenating office meal, this pasta salad holds it's own as a versatile side dish at barbecues or potlucks. Its bright flavors can also complement a variety of mains, from grilled vegetables to plant-based proteins, and it even works well as a base for a more elaborate meal if you have leftovers. Simplicity here belies sophistication, inviting you to reimagine everyday eating experiences. 
+
+Paragraph 2:
+A vegan pesto pasta salad does more than just align with dietary preferences; rather, it enriches your meal by creating intricate layers of flavor. By incorporating tomatoes, lemon, capers, and nuts, a zest and crunch is produced that can refresh even the most mundane picnic or desk lunch. The acidity of the lemon balances the savory elements, while the capers introduce a briny undertone that echoes traditional cheese in unexpected ways. Nuts provide a textural contrast and a satisfying richness. Each bite is more indulgent than the last, but without weighing you down. The tomatoes contribute a burst of juicy sweetness. Beyond being a picnic staple or a rejuvenating office meal, this pasta salad holds it's own as a side dish at barbecues or potlucks. Its bright flavors can also complement a variety of different main courses, from grilled vegetables to plant-based proteins, and it even works well as a base for a more elaborate meal if you have leftovers. It's a versatile dish and well worth trying. 
+
+Expected Output:
+{"preference": "2"} 
+
+Example 3:
+Paragraph 1:
+It was a delicate ballet, one that Orso and Lili had perfected over the years. They had no children to delegate tasks to, no built-in excuse to scale back their entertaining ambitions. Yet, their apartment remained a marvel of elegance, a testament to their dedication to the art of living. The secret, if there was one, lay in the unspoken division of labor between them. Orso, the more fastidious of the two, tackled the behind-the-scenes tasks: polishing the silver, scheduling the florist, and ensuring the wine cellar was stocked. Lili, meanwhile, focused on the creative aspects: conjuring menus, selecting the evening's playlist, and orchestrating the seating arrangements. They worked in tandem, their individual strengths compensating for each other's weaknesses. On the rare occasions when they did argue, it was usually over some minor detail – the placement of a vase, the timing of the canapés – but these disputes only served to refine their collaboration. Their friends, a rotating cast of artists, intellectuals, and politicians, marveled at the seamless execution of their gatherings, never suspecting the intricate machinery that hummed beneath the surface. In truth, Orso and Lili's busy lives were not a hindrance, but a catalyst; their careers as a diplomat and a journalist, respectively, provided a constant influx of fascinating acquaintances and a sense of urgency that kept their social calendar full. As a result, their apartment had become a hub of sorts, a nexus where disparate worlds converged and, for one evening at least, the boundaries of politics, art, and society blurred. And Orso and Lili, the consummate hosts, stood at the center, effortlessly juggling the demands of their elaborate life. 
+
+Paragraph 2:
+It was a delicate ballet, one that Orso and Lili had perfected over the years. They had no children to delegate tasks to, no built-in excuse to scale back their entertaining ambitions. Yet, their apartment remained a marvel of elegance, a testament to their dedication to the art of living. The secret, if there was one, lay in the unspoken division of labor between them. Orso, the more fastidious of the two, tackled the behind-the-scenes tasks: polishing the silver, scheduling the florist, and ensuring the wine cellar sat just long enough for their trips to the cellar to maintain a rare quality but never too long that it became useless. Lili, meanwhile, focused on the creative aspects: conjuring menus, selecting the evening's playlist, and orchestrating the seating arrangements. They worked in tandem. On the rare occasions when they did argue, it was usually over some minor detail – the placement of a vase, the timing of the canapés – but these disputes were solved quickly, for neither of them cared to intrude on the grace of their routine. Their friends, a rotating cast of artists, intellectuals, and politicians, marveled at the seamless execution of their gatherings, never suspecting the intricate machinery that hummed beneath the surface. In truth, Orso and Lili's busy lives kept them from looking at what lay beneath, a vapid dark ocean of unease and fear that threatened to flood the house. As a result, their apartment had become a hub of sorts, a nexus where disparate worlds converged and, for one evening at least, the boundaries of politics, art, and society blurred. And Orso and Lili, the consummate hosts, stood at the center, a liferaft bobbing in uncertain tides. 
+
+Expected Output:
+{"preference": "2"} 
+
+Example 4:
+Paragraph 1:
+I sat across from Paul at our favorite cafe, his hopeful eyes searching mine for answers. The truth was, there wasn't just one reason, but a tapestry of doubts and fears that had woven themselves into my decision. I told him about the gnawing feeling that we were moving in different directions, our goals and dreams no longer aligning as they once had. I mentioned the way his ambition sometimes overshadowed his empathy, leaving me feeling unseen in crucial moments. There was the issue of our families, too – the subtle tensions that arose during holidays, the unspoken judgments that hung in the air. I explained how I couldn't shake the sense that we were clinging to our shared history rather than building a shared future. The spark that once ignited our conversations had dimmed, replaced by comfortable silences that felt more like resignation than contentment. I touched on my own need for personal growth and self-discovery, a journey I wasn't sure I could undertake while meeting the demands of a marriage. As I spoke, I realized that each reason on it's own might seem surmountable, but together they formed a mountain I wasn't prepared to climb. In the end, I told Paul that sometimes love isn't enough, and that perhaps the kindest thing we could do for each other was to let go. 
+
+Paragraph 2:
+I sat across from Paul at our favorite cafe, his hopeful eyes searching mine for answers. There wasn't just one reason. We felt uncertain and afraid of each other. I told him about the gnawing feeling I had. We were moving in different directions, and the dreams that had brought us together no longer aligned. His ambition sometimes took precedence over his empathy, leaving me feeling unseen in crucial moments. There was the issue of our families, too – the subtle tensions that arose during holidays, the unspoken judgments that hung in the air. I couldn't shake the sense that we had built our relationship on a shared history, rather than bolstering it for a shared future. The conversational spark had dimmed, and the substituting silences had evolved from contentment into resignation. I tried to communicate to Paul my feeling of suffocation. I desperately wanted to grow and discover my adult self, but I wasn't sure I could do so while sustaining our marriage. Each reason I offered Paul was small on it's own, but they had accumulated into an insurmountable obstacle. I told Paul that sometimes love isn't enough; at the intersection that we found ourselves, the kindest option was to let each other go. 
+
+Expected Output:
+{"preference": "2"} 
+
+Example 5:
+Paragraph 1:
+Miriam Zimmer is restless tonight. Being in New York again is forcing her to confront the dissonance between her public persona and private doubts. As she paces her hotel room, the city's distant hum seeping through the windows heightens her internal turbulence. The truth is plain. Her hesitation to take risks has stunted both her personal growth and her company's potential. In a moment of clarity, Miriam recognizes that true leadership isn't about having all the answers, but encouraging a creative environment. Could her team's diverse perspectives be assets rather than threats to her authority? Maybe a shift toward collaboration would solve more, and bigger, problems. When dawn breaks, Miriam feels lighter. Vulnerability can be a strength! Perhaps sharing her own uncertainties will make it easier to connect with her employees. This revelation doesn't erase her fears, but it reframes them as possible opportunities. Miriam leaves her room ready to try a new style. 
+
+Paragraph 2:
+During her restless night in New York, Miriam Zimmer confronts the dissonance between her public persona and private doubts. As she paces her hotel room, the city's distant hum seeps through the windows, mirroring her internal turbulence. She realizes that her hesitation to take risks has stunted not only her personal growth but also her company's potential. In a moment of clarity, Miriam recognizes that true leadership isn't about having all the answers, but about fostering an environment where innovation can flourish. She begins to see her team's diverse perspectives as assets rather than threats to her authority. This shift in mindset allows her to envision a more collaborative approach to problem-solving. As dawn breaks, Miriam feels a weight lift from her shoulders. She understands that vulnerability can be a strength, and that by sharing her own uncertainties, she can create a more authentic connection with her employees. This revelation doesn't erase her fears, but it reframes them as opportunities for growth. Miriam leaves her room with a renewed sense of purpose, ready to embrace the challenges ahead with a more open and adaptable leadership style. 
+
+Expected Output:
+{"preference": "1"} 
+
+
+Paragraph 1:
+[[PARAGRAPH1]]
+
+Paragraph 2:
+[[PARAGRAPH2]]
+
+
+
+
+You must produce your answer in the following JSON format:
+{"preference": "1|2"}
+
+where `preference` should be "1" if you think Paragraph 1 is better, "2" if you think Paragraph 2 is better.
